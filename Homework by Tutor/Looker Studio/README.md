@@ -1,1 +1,1 @@
-![Sales Analytics Dashboard](./images/sales_analytics_dashboard.png)
+![Sales Analytics Dashboard](./sales_analytics_dashboard.png)
