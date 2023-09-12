@@ -15,4 +15,5 @@ The modules are as below:
    - Learn how to write impactful job experience statements on my resume, by including  “what”, “how” and “result” elements.
 
 2. Data Collection
-- Understand how to define the problem effectively by asking SMART questions, formulating specific, measurable, action-focused, relevant, and time-bound inquiries to address specific challenges. For example, Could we increase Ford F-Series sales by 25% through Google Ads within a year to meet growth expectations?
+   - Understand how to define the problem effectively by asking questions with [SMART framework](https://emkautsar.medium.com/highly-effective-questions-are-smart-questions-59040efea480). For example, could we increase Ford F-Series sales by 25% through Google Ads within a year to meet growth expectations?
+   - 
