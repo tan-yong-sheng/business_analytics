@@ -1,0 +1,20 @@
+Grade: 70
+
+-----------------------
+Remove “Relevant skills: Excel, Python, MySQL databases, Power BI, Looker Studio, Finance, Marketing” from the top – you already have this information under skills at the bottom of your CV.
+
+Put a space between the title of each section and what goes underneath.  So, a space above Marketing and Business Executive (and is never capitalized).  If you are still working in this function, you don’t have to put the wording in past tense.
+
+Check the paragraph spacing throughout your CV.  It should all be in single spacing (I don’t think it is)…then add spaces where necessary.
+
+Like you did under Side Projects, where you have a space between each project, add a space between each education.  If you have taken any TalentLabs program, then you should add this to the top of your education, including the name of the program, dates and some examples of projects you did.  You can remove Negeri Sembilan Matriculation College – too old.
+
+Under Skills & Languages (remove Interests), I would put your IT Skills all together to gain space on your CV.
+
+Financial Skills: Financial Analysis, Financial Accounting
+
+IT Skills: Microsoft Office, Data Analysis and Visualisation (Looker Studio, Power BI, Google Analytics), Computer Languages and Technologies (Python, MySQL Databases, WordPress), Canva, Adobe Photoshop, Digital Marketing, Copywriting,
+
+Language: Excellent command of Chinese; Fluent in English, and Mandarin
+
+Best of luck with your career!
