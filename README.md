@@ -17,7 +17,7 @@ The modules are as below:
 2. Data Collection
    - Understand how to define the problem effectively by asking questions with [SMART framework](https://emkautsar.medium.com/highly-effective-questions-are-smart-questions-59040efea480). Asking good questions helps clarify the specific details or requirements of a data analysis project.
    - Learn to prepare data collection plan. A data collection plan is a document that explains what problem you're solving, what questions you need to answer, where I'll get the data, who'll collect it, how it'll be kept safe, and how any issues or limitations will be handled.
-   - Understand how to read reports and collect data from Google Analytics 4.
+   - Understand how to read reports and collect data from [Google Analytics 4](https://github.com/tys203831/business_analytics/blob/main/ii.%20Course%20Introduction%20and%20Data%20Collection/6.%20Data%20Collection%20with%20Google%20Analytics%204/C6_Assignment_Questions_v3.pdf).
   
 3. Data Wrangling
    - Clean Big Data with SQL in BigQuery
