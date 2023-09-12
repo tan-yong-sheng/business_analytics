@@ -11,8 +11,8 @@ The modules are as below:
 
 ## My Learnings for each modules:
 1. Career Workshop
-   - Acquire the skill of tailoring my resume to match each job application by incorporating all the key points from the job description into it.
-   - Learn how to write impactful resume statements
-  
+   - Acquire the skill of tailoring my resume to match each job application by incorporating all the key points I've found from the job description into it.
+   - Learn how to write impactful job experience statements on my resume, by including  “what”, “how” and “result” elements.
 
-2. 
+2. Data Collection
+- Understand how to define the problem effectively by asking SMART questions, formulating specific, measurable, action-focused, relevant, and time-bound inquiries to address specific challenges. For example, Could we increase Ford F-Series sales by 25% through Google Ads within a year to meet growth expectations?
