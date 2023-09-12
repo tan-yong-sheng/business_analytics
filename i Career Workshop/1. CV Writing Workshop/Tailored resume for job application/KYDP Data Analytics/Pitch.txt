@@ -1,0 +1,7 @@
+Dear PwC,
+
+My name is Yong Sheng, and I'm excited to express my interest in Data Analyst position in PwC. In the evolving landscape where data drives business decisions, I hope to contribute my skills and passion for data analysis, particularly in Excel, Python and MySQL, to provide actionable insights that empower the organization's growth.
+
+I've been equipped with hands-on expertise in Excel, for example advanced formula usage, Power Query, and Power Pivot functionalities to prepare the interactive business reports. Additionally, I have proactively integrated Python into my automation tasks, leveraging it for tasks such as web scraping, thus enhancing efficiency and effectiveness. I'm also learning MySQL and Bigquery which enables me to manage and query databases for data reporting purpose.
+
+I have attached my resume for your reference as part of the job application and you could read more info from there. Thank you, and hope for your reply.
