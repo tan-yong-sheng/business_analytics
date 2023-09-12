@@ -20,5 +20,5 @@ The modules are as below:
    - Understand how to read reports and collect data from [Google Analytics 4](https://github.com/tys203831/business_analytics/blob/main/ii.%20Course%20Introduction%20and%20Data%20Collection/6.%20Data%20Collection%20with%20Google%20Analytics%204/C6_Assignment_Questions_v3.pdf).
   
 3. Data Wrangling
-   - Clean Big Data with SQL in BigQuery
-   - Become more familiar with pandas - a popular Python library
+   - Clean Big Data with [SQL in BigQuery](https://github.com/tys203831/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/3%20-%205.%20Data%20Wrangling%20with%20SQL%20%26%20Python/Part%201%20SQL/Assignment/Assignment_Chapter_4_-_Data_Wrangling_with_SQL.pdf)
+   - Become more familiar with [pandas - a popular Python library](https://github.com/tys203831/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/3%20-%205.%20Data%20Wrangling%20with%20SQL%20%26%20Python/Part%202%20%26%203%20Python/Assignment/Assignment%20Chapter%206%20-%20Data%20Wrangling%20with%20Python.pdf)
