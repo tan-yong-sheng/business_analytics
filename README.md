@@ -20,4 +20,5 @@ The modules are as below:
    - Understand how to read reports and collect data from Google Analytics 4.
   
 3. Data Wrangling
-- 
+   - Clean Big Data with SQL in BigQuery
+   - Become more familiar with pandas - a popular Python library
