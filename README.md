@@ -11,7 +11,7 @@ The modules are as below:
 
 ## My Learnings for each modules:
 1. Career Workshop
-   - Acquire the skill of tailoring [my resume](https://github.com/tys203831/business_analytics/blob/main/i%20Career%20Workshop/1.%20CV%20Writing%20Workshop/Tan%20Yong%20Sheng%20-%20Business%20Analyst.pdf) to match each job application by incorporating all the key points I've found from the job description into it.
+   - Acquire the skill of tailoring [my resume](https://github.com/tys203831/business_analytics/blob/main/i%20Career%20Workshop/1.%20CV%20Writing%20Workshop/Resume%20v1/Tan%20Yong%20Sheng%20-%20Business%20Analyst.pdf) to match each job application by incorporating all the key points I've found from the job description into it.
    - Learn how to write impactful job experience statements on my resume, by including  “what”, “how” and “result” elements.
 
 2. Data Collection
