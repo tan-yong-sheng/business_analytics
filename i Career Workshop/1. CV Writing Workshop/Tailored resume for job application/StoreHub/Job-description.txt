@@ -1,0 +1,83 @@
+Description
+
+Are you driven, results-oriented and a team player?
+
+With 15,000 customers in over 15 countries, StoreHub's mission is to make business awesome for everyone by providing retail & restaurant businesses the technology and services they need to succeed.
+
+At StoreHub, we’re building a dream team whereby all of your colleagues are extraordinary at what they do and are highly effective collaborators.
+
+It is on such a team that you learn the most, perform your best work, improve the fastest, and have the most fun.
+
+If this is a journey you’d like to embark on, keep reading!
+
+As a Business Analyst, you will provide actionable insights to leaders so they can make informed data driven decisions to drive the business. You will be responsible for working with various teams to improve end-user experience and business revenue through strategic initiatives. Your analysis facilitates business decisions and improves operational efficiencies.
+
+You don’t need to be an expert or know everything about our industry (even we don’t!). But the work is challenging, fast paced, and always on the bleeding edge. So, we’re looking for someone with a curious mind, a strong drive to make things happen, and a passion to keep improving yourself.
+
+Main Responsibilities:
+
+- Develop standardized dashboards for performance measures and operational visibility in different tools such as Metabase and Zendesk, with an emphasis on automation and scalability
+
+- Execute the day-to-day configuration, support, maintenance, improvement and development of our Salesforce CRM.
+
+- Develop approaches and design technical solutions in Salesforce.
+
+- You will be responsible for creating/ maintaining/ automating report for teams and improve process efficiency and performance
+
+- Data extraction, mapping and analysis from various sets of financial and non-financial data
+
+- Monitoring KPIs of the business, identifying causes/ trends and drive data-based decision-making through insightful reports
+
+- Making sure the data is captured accurately in system, otherwise will need to find out what the root cause that causes the discrepancy
+
+- Apply expertise in quantitative analysis and data visualization to tell the story behind the numbers and provide recommendations to leadership
+
+- Partner with Engineering to optimize data tracking/quality and drive data warehouse improvements
+
+Requirements:
+
+- 2-4 years of working experience in Business Analyst, Business Intelligence, Consulting or e-Commerce roles.
+
+- Strong SQL or other scripting language preferred
+
+- You need to be very process-oriented and tech savvy. Highly preferred to have knowledge in Salesforce CRM, or any other tools that related to Operation and basic business process improvement experience. Salesforce Admin certified is a plus point
+
+- Knowledge of data science and statistical modeling skills is a plus
+
+- Strong analytical, organizational and interpersonal skills
+
+- Effective communication skills to present information to technical and non-technical audience
+
+- Highly motivated self-starter with the ability to work efficiently with minimal supervision
+
+- Knowledge of and curiosity to stay current on industry analytical trends
+
+Benefits:
+
+What makes working at StoreHub awesome (and refreshing!):
+
+- Our people - for real! StoreHubbers are some of the smartest and most interesting people you can work with. Expect to do a lot of peer-learning.
+
+- Culture of Candour. We embrace directness, hate bureaucracy, and move fast. If you’re tired of ‘corporate nonsense’ you’ll feel right at home.
+
+- Cutting edge tools. If something can be automated, we’ll make it happen. You will be introduced to over 20 different tools we use that support basic tasks, so that we can focus our minds on the kind of work that matters.
+
+- Data availability. The biggest benefit of using a lot of tools is that we have a LOT of data and easy access to analytics. This helps us make more informed decisions and get more precise outcomes.
+
+- Impact not just effort. We recognize that results are not tied to the number of hours put in to achieve them. There’s no reward for long hours with poor results and there’s no penalty for going home on time when you’re producing excellent work. Of course, to be great, most of us have to put in considerable effort, but hard work and long hours is not how we measure or talk about a person’s contribution.
+
+We do have all the other cool perks too:
+
+- Free Nespresso Coffee
+
+- Fully stocked fridge and pantry - ice-cream, snacks, and more yums
+
+- Free Season Parking - no more roadside headaches
+
+- Medical and Dental Outpatient Visits + Medical Insurance
+
+- Apple Macbooks for everyone
+
+- Learning Budget - for courses, books, and levelling up
+
+We are an equal opportunity employer and value diversity at StoreHub. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
