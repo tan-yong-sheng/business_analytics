@@ -1,0 +1,39 @@
+METADATA - Public Drinking Water Fountains
+-------------------------------------------
+
+Source: https://open.ottawa.ca/datasets/ottawa::public-drinking-water-fountains/about
+
+------------------------------------------
+
+Summary
+Public Drinking Water Fountains Maintained by City of Ottawa- Interior & Seasonal Fountains
+
+This dataset contains the locations of City of Ottawa facilities and parks that contain water fountains accessible to the public along with the hours of operation.
+
+Accuracy:The City has attempted to include all facilities available to the public within this dataset and validate the information; however, due to the nature of operations and the number of facilities it cannot guarantee there will not be errors in the data set. This may include the temporary closure of facilities.
+
+Update Frequency: Annually
+
+Attributes: 
+Facility_name: name for facility 
+Facility_group: type of facility, e.g. administrative, recreation 
+Address: Street number and name 
+Latitude: location latitude 
+Longitude: location longitude 
+Location_notes: Describe location of facility (free text) 
+Seasonal: Is it a seaonal facility (yes or no) 
+Season_Start: Starting month of season 
+Season_End: Ending month of season 
+Hours_sun: describes normal business hours in set time segments  
+Hours_Monday: describes normal business hours in set time segments 
+Hours_Tuesday: describes normal business hours in set time segments  
+Hours_Wednesday: describes normal business hours in set time segments 
+Hours_Thursday: describes normal business hours in set time segments 
+Hours_Friday: describes normal business hours in set time segments 
+Hours_Saturday: describes normal business hours in set time segments 
+Facility_available_stat_holidays: Is the facility typically open on stat holidays (open or closed) 
+Report_tel: Phone number to report issues.
+
+Contact: Justin Hoppner
+
+
