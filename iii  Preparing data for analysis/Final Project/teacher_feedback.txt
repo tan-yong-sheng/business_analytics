@@ -1,0 +1,9 @@
+I'm impressed that you were able to complete most of the assignment, even though it was challenging. I encourage you to keep up the good work and strive to improve your accuracy in the next assignments. 
+
+In the 1st question you had to compare all the tools taught in the course and mention their advantages and disadvantages, so the pros and cons for BigQuery were missing. 
+
+I would also like to comment on your strategy to replace missing or invalid values in some columns. Considering the datatypes of columns for date or time or Age, are there any better options in that case? 
+
+You were asked to create a new column named “Shark”, but it is missing in your submission. I could see that it was in the Species column, so just a small mistake. 
+
+Best of luck for the next projects. 
