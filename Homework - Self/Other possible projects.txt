@@ -1,0 +1,1 @@
+1. Chi square test for email marketing: https://www.analyticsvidhya.com/blog/2023/06/how-to-use-chi-square-to-fuel-a-b-test/
