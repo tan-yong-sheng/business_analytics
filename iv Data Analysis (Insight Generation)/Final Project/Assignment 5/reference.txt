@@ -1,0 +1,13 @@
+Reference:
+1. Typical 8-Step A/B Test Workflow for Data Scientists in 2022: https://towardsdatascience.com/typical-9-step-a-b-test-workflow-for-data-scientists-in-2022-d672c9a0d658
+
+2. 5 workflow of A B testing: https://fastercapital.com/content/Why-A-B-testing-is-essential-for-startups-that-want-to-be-agile.html
+
+3. A/B Testing a Fast Food Chain's Marketing Campaigns: https://vijayravi.blog/blog/f/ab-testing-a-fast-food-chains-marketing-campaigns
+
+4. The Three Most Important Statistical Tests in Business Analytics:
+https://towardsdatascience.com/the-three-most-important-statistical-tests-in-business-analytics-fd958a8e2a90
+
+5. How to Use Chi Square to Fuel A/B Test?: https://www.analyticsvidhya.com/blog/2023/06/how-to-use-chi-square-to-fuel-a-b-test/
+
+6. A/B Testing for Business Analysts: https://www.udacity.com/course/ab-testing--ud979
