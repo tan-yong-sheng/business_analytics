@@ -1,0 +1,4 @@
+# [n8n Langchain contest](https://community.n8n.io/t/were-happy-to-announce-the-ai-langchain-contest/31557)
+
+
+data analysis prompt - https://clickup.com/templates/ai-prompts/market-research-and-analysis
