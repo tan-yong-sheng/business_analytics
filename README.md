@@ -20,12 +20,17 @@ The modules are as follows:
 
 2. Data Collection
    - Understand how to define the problem effectively by asking questions with [SMART framework](https://emkautsar.medium.com/highly-effective-questions-are-smart-questions-59040efea480). Asking good questions helps clarify the specific details or requirements of a data analysis project.
-   - Learn to prepare data collection plan. A data collection plan is a document that explains what problem you're solving, what questions you need to answer, where I'll get the data, who'll collect it, how it'll be kept safe, and how any issues or limitations will be handled.
+   - Learn to prepare a data collection plan. A data collection plan is a document that explains what problem you're solving, what questions you need to answer, where I'll get the data, who'll collect it, how it'll be kept safe, and how any issues or limitations will be handled.
    - Understand how to read reports and collect data from [Google Analytics 4](https://github.com/tys203831/business_analytics/blob/main/ii.%20Course%20Introduction%20and%20Data%20Collection/6.%20Data%20Collection%20with%20Google%20Analytics%204/C6_Assignment_Questions_v3.pdf).
   
 3. Data Wrangling
-   - Wrangling [](https://github.com/tan-yong-sheng/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/2.%20Data%20Wrangling%20with%20Google%20Sheets/Chapter%203%20-%20Data%20Wrangling%20with%20Google%20Sheets.pdf)
+   - [Wrangling and Cleaning data with Google Sheets](https://github.com/tan-yong-sheng/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/2.%20Data%20Wrangling%20with%20Google%20Sheets/Chapter%203%20-%20Data%20Wrangling%20with%20Google%20Sheets.pdf)
    - Clean Big Data with [SQL in BigQuery](https://github.com/tys203831/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/3%20-%205.%20Data%20Wrangling%20with%20SQL%20%26%20Python/Part%201%20SQL/Assignment/Assignment_Chapter_4_-_Data_Wrangling_with_SQL.pdf)
-   - Become more familiar with [pandas - a popular Python library](https://github.com/tys203831/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/3%20-%205.%20Data%20Wrangling%20with%20SQL%20%26%20Python/Part%202%20%26%203%20Python/Assignment/Assignment%20Chapter%206%20-%20Data%20Wrangling%20with%20Python.pdf)
+  - Become more familiar with [pandas - a popular Python library](https://github.com/tys203831/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/3%20-%205.%20Data%20Wrangling%20with%20SQL%20%26%20Python/Part%202%20%26%203%20Python/Assignment/Assignment%20Chapter%206%20-%20Data%20Wrangling%20with%20Python.pdf)
 
-   
+4. Data Analysis (Insight Generation)
+  - Learn to use 
+  - Learn to use (BigQuery SQL to aggregate and summarize data)[https://github.com/tan-yong-sheng/business_analytics/blob/main/iv%20Data%20Analysis%20(Insight%20Generation)/5.%20Fundamental%20Data%20Analysis%20with%20SQL/Assignment/Chapter%205%20Assignment%20-%20SQL%20Insight%20Generation.pdf]. Learn some SQL syntax like AVG, PERCENTILE_CONT, GROUP BY, HAVING and ORDER BY, etc.
+  - Learn to use Python to do exploratory data analysis such as (univariate)[https://github.com/tan-yong-sheng/business_analytics/blob/main/iv%20Data%20Analysis%20(Insight%20Generation)/7.%20Exploratory%20Data%20Analysis%20with%20Python%20-%20Univariate%20Analysis/Assignment/Assignment_7.pdf], (bivariate)[https://github.com/tan-yong-sheng/business_analytics/blob/main/iv%20Data%20Analysis%20(Insight%20Generation)/8.%20Exploratory%20Data%20Analysis%20with%20Python%20-%20Bivariate%20Analysis/Assignment/Assignment_8.pdf], and (multivariate analysis)[https://github.com/tan-yong-sheng/business_analytics/blob/main/iv%20Data%20Analysis%20(Insight%20Generation)/9.%20Exploratory%20Data%20Analysis%20with%20Python%20-%20Multivariate%20Analysis/Assignment%209/Assignment_9.pdf]
+
+
