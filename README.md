@@ -20,9 +20,9 @@ The modules are as follows:
 
 2. Data Collection
    - Understand how to define the problem effectively by asking questions with [SMART framework](https://emkautsar.medium.com/highly-effective-questions-are-smart-questions-59040efea480). Asking good questions helps clarify the specific details or requirements of a data analysis project.
-   - Learn to prepare a data collection plan. A data collection plan is a document that explains what problem you're solving, what questions you need to answer, where I'll get the data, who'll collect it, how it'll be kept safe, and how any issues or limitations will be handled.
+   - Learn to prepare a data collection plan. A data collection plan is a document that explains what problem you're solving, what questions you need to answer, where you'll get the data, who'll collect it, how it'll be kept safe, and how any issues or limitations will be handled.
    - Understand how to read reports and collect data from [Google Analytics 4](https://github.com/tys203831/business_analytics/blob/main/ii.%20Course%20Introduction%20and%20Data%20Collection/6.%20Data%20Collection%20with%20Google%20Analytics%204/C6_Assignment_Questions_v3.pdf).
-   - Google Analytics 4 Case study: [Prepare Data Analytics Plan for Game Company](https://github.com/tan-yong-sheng/business_analytics/blob/main/ii.%20Course%20Introduction%20and%20Data%20Collection/Final%20Project/C6-Final_Project.pdf)
+   - Completed a Google Analytics 4 Case study which is to [prepare a Data Analytics Plan for a Game Company](https://github.com/tan-yong-sheng/business_analytics/blob/main/ii.%20Course%20Introduction%20and%20Data%20Collection/Final%20Project/C6-Final_Project.pdf)
   
 3. Data Wrangling
    - [Wrangling and Cleaning data with Google Sheets](https://github.com/tan-yong-sheng/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/2.%20Data%20Wrangling%20with%20Google%20Sheets/Chapter%203%20-%20Data%20Wrangling%20with%20Google%20Sheets.pdf)
@@ -35,5 +35,5 @@ The modules are as follows:
    - Use Python for A/B testing to find the most effective promotion strategies to maximize sales outcomes. For example, in this [project](https://github.com/tan-yong-sheng/business_analytics/blob/main/iv%20Data%20Analysis%20(Insight%20Generation)/Final%20Project/Assignment%205/EDA_Final_Project.pdf), we use t-test to find Promotion 1 and Promotion 3 indeed outperform Promotion 2.
 
 5. Data Visualisation
-   - Learn to visualize the business insights with the visualization tools like [Power BI](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/2.%20Power%20BI/Assignment) and [Tableau](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/1.%20Tableau/Assignment)
+   - Learn to visualize the business insights with visualization tools like [Power BI](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/2.%20Power%20BI/Assignment) and [Tableau](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/1.%20Tableau/Assignment)
    - 
