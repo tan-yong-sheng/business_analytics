@@ -13,13 +13,14 @@ The modules are as follows:
 4. Data Analysis (Insight Generation)
 5. Data Visualisation
 
-## My Learnings for each modules:
+## My Learnings for each module:
 1. Career Workshop
    - Acquire the skill of tailoring [my resume](https://github.com/tys203831/business_analytics/blob/main/i%20Career%20Workshop/1.%20CV%20Writing%20Workshop/Resume%20v1/Tan%20Yong%20Sheng%20-%20Business%20Analyst.pdf) to match each job application by incorporating all the key points I've found from the job description into it.
    - Learn how to write impactful job experience statements on my resume, by including  “what”, “how” and “result” elements.
 
 2. Data Collection
    - Understand how to define the problem effectively by asking questions with [SMART framework](https://emkautsar.medium.com/highly-effective-questions-are-smart-questions-59040efea480). Asking good questions helps clarify the specific details or requirements of a data analysis project.
+   - Learn about the importance of documentation for your data collected to build trust towards your stakeholders (e.g., management, customers).
    - Learn to prepare a data collection plan. A data collection plan is a document that explains what problem you're solving, what questions you need to answer, where you'll get the data, who'll collect it, how it'll be kept safe, and how any issues or limitations will be handled.
    - Understand how to read reports and collect data from [Google Analytics 4](https://github.com/tys203831/business_analytics/blob/main/ii.%20Course%20Introduction%20and%20Data%20Collection/6.%20Data%20Collection%20with%20Google%20Analytics%204/C6_Assignment_Questions_v3.pdf).
    - Completed a Google Analytics 4 Case study which is to [prepare a Data Analytics Plan for a Game Company](https://github.com/tan-yong-sheng/business_analytics/blob/main/ii.%20Course%20Introduction%20and%20Data%20Collection/Final%20Project/C6-Final_Project.pdf)
@@ -36,4 +37,4 @@ The modules are as follows:
 
 5. Data Visualisation
    - Learn to visualize the business insights with visualization tools like [Power BI](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/2.%20Power%20BI/Assignment) and [Tableau](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/1.%20Tableau/Assignment)
-   - 
+   - Apply what I've learned in the previous modules such as data cleaning, explanatory data analysis, and data visualization skills to complete the final assignment.
