@@ -34,3 +34,5 @@ The modules are as follows:
    - Use Python for A/B testing to find the most effective promotion strategies to maximize sales outcomes. For example, in this [project](https://github.com/tan-yong-sheng/business_analytics/blob/main/iv%20Data%20Analysis%20(Insight%20Generation)/Final%20Project/Assignment%205/EDA_Final_Project.pdf), we use t-test to find Promotion 1 and Promotion 3 indeed outperform Promotion 2.
 
 5. Data Visualisation
+   - Learn to visualize the business insights with the visualization tools like [Power BI](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/2.%20Power%20BI/Assignment) and [Tableau](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/1.%20Tableau/Assignment)
+   - 
