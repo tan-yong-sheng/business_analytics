@@ -1,10 +1,14 @@
 # TalentLabs: Certified Associate in Business Analytics
 
-A series of TalentLabs Assignment submitted for my programme: Certified Associate in Business Analytics.
+UPDATE: I'm proud to announce that I've completed the [Certified Associate in Business Analytics](https://www.talentlabs.org/classroom/course/8JllAytGRyiZxQLCwE2tZg/gradProof/mKhA9hyQT6asAvGLo-3YNQ)
 
-The modules are as below:
+---
+
+A series of TalentLabs assignments submitted for my program: Certified Associate in Business Analytics.
+
+The modules are as follows:
 1. Career Workshop
-2. Course introduction and Data Collection
+2. Course Introduction and Data Collection
 3. Preparing data for analysis
 4. Data Analysis (Insight Generation)
 5. Data Visualisation
@@ -20,5 +24,8 @@ The modules are as below:
    - Understand how to read reports and collect data from [Google Analytics 4](https://github.com/tys203831/business_analytics/blob/main/ii.%20Course%20Introduction%20and%20Data%20Collection/6.%20Data%20Collection%20with%20Google%20Analytics%204/C6_Assignment_Questions_v3.pdf).
   
 3. Data Wrangling
+   - Wrangling [](https://github.com/tan-yong-sheng/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/2.%20Data%20Wrangling%20with%20Google%20Sheets/Chapter%203%20-%20Data%20Wrangling%20with%20Google%20Sheets.pdf)
    - Clean Big Data with [SQL in BigQuery](https://github.com/tys203831/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/3%20-%205.%20Data%20Wrangling%20with%20SQL%20%26%20Python/Part%201%20SQL/Assignment/Assignment_Chapter_4_-_Data_Wrangling_with_SQL.pdf)
    - Become more familiar with [pandas - a popular Python library](https://github.com/tys203831/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/3%20-%205.%20Data%20Wrangling%20with%20SQL%20%26%20Python/Part%202%20%26%203%20Python/Assignment/Assignment%20Chapter%206%20-%20Data%20Wrangling%20with%20Python.pdf)
+
+   
