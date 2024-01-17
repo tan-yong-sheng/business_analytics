@@ -37,4 +37,4 @@ The modules are as follows:
 
 5. Data Visualisation
    - Learn to visualize the business insights with visualization tools like [Power BI](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/2.%20Power%20BI/Assignment) and [Tableau](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/1.%20Tableau/Assignment)
-   - Apply what I've learned in the previous modules such as data cleaning, explanatory data analysis, and data visualization skills to complete the final assignment.
+   - Apply what I've learned in the previous modules such as data cleaning, explanatory data analysis, and data visualization skills to complete the [final assignment](https://github.com/tan-yong-sheng/business_analytics/blob/main/v%20Data%20Visualization/Final%20Project/Final%20Project.pdf).
