@@ -1,4 +1,4 @@
-Chapter 6 - Final Project (Data Analytics Plan for Game Company)
+Final Project (Data Analytics Plan for Game Company)
 =============================================
 
 The goal of this final project is to combine and apply the skills learned throughout this Data Collection module. 
