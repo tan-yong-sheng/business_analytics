@@ -4,7 +4,7 @@ The project involves a fast-food chain plans to add a new item to its menu. Howe
 
 We will employ an A/B testing which Promotion 1 serving as the control group and Promotions 2 and 3 as the experimental groups (challengers). We'll find the most effective marketing strategy among the three promotion types.
 
-Simply go to the URL below and it will launch an interactive Python environment for this project:
+Simply click the URL below and it will launch an interactive Python environment for this project:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tan-yong-sheng/business_analytics/main?labpath=iv+Data+Analysis+%28Insight+Generation%29%2FFinal+Project%2FAssignment+5%2FEDA_Final_Project.ipynb)
 
