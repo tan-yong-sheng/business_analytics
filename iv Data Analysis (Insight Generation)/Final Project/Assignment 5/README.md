@@ -8,12 +8,11 @@ Simply go to the URL below and it will launch an interactive Python environment 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tan-yong-sheng/business_analytics/main?labpath=iv+Data+Analysis+%28Insight+Generation%29%2FFinal+Project%2FAssignment+5%2FEDA_Final_Project.ipynb)
 
-**Datasets:**
 
-Food Chain Campaign( a bit more on statistics): https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test
+**Datasets:** Food Chain Campaign( a bit more on statistics): https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test
+
 
 **Rubric as below:**
-
 
 | Section           | Criteria                                                                                                  | Points |
 | ----------------- | --------------------------------------------------------------------------------------------------------- | ------ |
