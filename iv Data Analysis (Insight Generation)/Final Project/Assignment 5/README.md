@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tan-yong-sheng/business_analytics/main?urlpath=https%3A%2F%2Fgithub.com%2Ftan-yong-sheng%2Fbusiness_analytics%2Ftree%2Fmain%2Fiv%2520Data%2520Analysis%2520%28Insight%2520Generation%29)
