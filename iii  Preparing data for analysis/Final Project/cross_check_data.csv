@@ -1,30 +1,30 @@
 ,Date,Type,Country,Area,Location,Activity,Sex,Age,Fatal (Y/N),Time,Species,original order
 0,2017-06-11,Unprovoked,AUSTRALIA,Western Australia,"Point Casuarina, Bunbury",Body boarding,M,48,N,08h30,"White shark, 4 m",6095
-1,2017-06-10,Unprovoked,AUSTRALIA,Victoria,"Flinders, Mornington Penisula",Surfing,F,Unknown,N,15h45,7 gill shark,6094
+1,2017-06-10,Unprovoked,AUSTRALIA,Victoria,"Flinders, Mornington Penisula",Surfing,F,-1,N,15h45,7 gill shark,6094
 2,2017-06-10,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,19,N,10h00,Other,6093
 3,2017-06-07,Unprovoked,UNITED KINGDOM,South Devon,Bantham Beach,Surfing,M,30,N,Unknown,"3m shark, probably a smooth hound",6092
-4,2017-06-04,Unprovoked,USA,Florida,"Middle Sambo Reef off Boca Chica, Monroe County",Spearfishing,M,Unknown,N,Unknown,8' shark,6091
+4,2017-06-04,Unprovoked,USA,Florida,"Middle Sambo Reef off Boca Chica, Monroe County",Spearfishing,M,-1,N,Unknown,8' shark,6091
 5,2017-06-02,Unprovoked,BAHAMAS,New Providence,Athol Island,Snorkeling,F,32,N,12h00,Tiger shark,6090
 6,2017-05-30,Provoked,USA,South Carolina,"Awendaw, Charleston County",Touching a shark,F,20,N,Unknown,3' shark,6089
-7,2017-05-28,Unprovoked,USA,Florida,Off Jupiter,Feeding sharks,M,Unknown,N,Unknown,Tiger shark,6088
+7,2017-05-28,Unprovoked,USA,Florida,Off Jupiter,Feeding sharks,M,-1,N,Unknown,Tiger shark,6088
 8,2017-05-27,Unknown,AUSTRALIA,New South Wales,Evans Head,Fishing,M,73,N,Unknown,Other,6087
 9,2017-05-12,Unprovoked,UNITED ARAB EMIRATES,Sharjah,Khor Fakkan,Spearfishing,M,41,N,Unknown,Other,6086
 10,2017-05-06,Provoked,AUSTRALIA,Queensland,Weipa,Attempting to lasso a shark,M,29,N,Unknown,9' shark,6085
 11,2017-05-05,Unprovoked,MEXICO,Baja California Sur,"Los Arbolitos, Cabo Pulmo",Snorkeling,M,33,Y,17h00,Other,6084
 12,2017-05-03,Invalid,USA,California,"Sunset Beach, Orange County",Surfing,F,18,N,14h30,Shark involvement highly doubtful,6083
-13,2017-04-29,Unprovoked,USA,California,"San Onofre, San Diego County ",Unknown,F,Unknown,N,17h34,Other,6082
+13,2017-04-29,Unprovoked,USA,California,"San Onofre, San Diego County ",Unknown,F,-1,N,17h34,Other,6082
 14,2017-04-29,Unprovoked,SOUTH AFRICA,Western Cape Province,"Keurbooms, Plettenberg Bay",Surfing,M,14,N,17h10,Other,6081
 15,2017-04-29,Unprovoked,USA,South Carolina,"Folly Beach, Charleston County",Surfing,F,33,N,11h00,Other,6080
 16,2017-04-29,Unprovoked,REUNION,Saint-Leu,Pointe au Sal,Body boarding,M,28,Y,11h15,Other,6079
 17,2017-04-27,Unprovoked,NEW ZEALAND,South Island,"Porpoise Bay, Catlins",Body boarding,F,20,N,14h00,Other,6078
-18,2017-04-26,Invalid,USA,Florida,Other,Photo shoot,F,Unknown,Unknown,Unknown,No shark invovlement - it ws a publicity stunt,6077
+18,2017-04-26,Invalid,USA,Florida,Other,Photo shoot,F,-1,Unknown,Unknown,No shark invovlement - it ws a publicity stunt,6077
 19,2017-04-22,Unprovoked,"ST HELENA, British overseas territory",Ascension Island,English Bay,Snorkeling,F,40,N,16h00,Other,6076
-20,2017-04-20,Invalid,USA,South Carolina,Georgetown County,Swimming,M,Unknown,N,08h50,Shark involvement not confirmed,6075
-21,2017-04-17,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Unknown,Unknown,Unknown,N,Unknown,Other,6074
+20,2017-04-20,Invalid,USA,South Carolina,Georgetown County,Swimming,M,-1,N,08h50,Shark involvement not confirmed,6075
+21,2017-04-17,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Unknown,Unknown,-1,N,Unknown,Other,6074
 22,2017-04-17,Unprovoked,AUSTRALIA,Western Australia,Kelpies near Wylie Bay,Surfing,F,17,Y,16h00,White shark,6073
 23,2017-04-14,Unprovoked,USA,Hawaii,"Kekaha Beach, Kauai",Surfing,M,28,N,09h00,"Tiger shark, 12'",6072
 24,2017-04-13,Unprovoked,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,M,17,N,13h30,Other,6071
-25,2017-04-12,Unprovoked,USA,Florida,St. Augustine,Surfing,F,Unknown,N,13h45,Other,6070
+25,2017-04-12,Unprovoked,USA,Florida,St. Augustine,Surfing,F,-1,N,13h45,Other,6070
 26,2017-04-12,Invalid,SOUTH AFRICA,KwaZulu-Natal,Protea Banks,Scuba Diving,M,68,Unknown,Unknown,Other,6069
 27,2017-04-11,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,F,35,N,16h00,Other,6068
 28,2017-04-10,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Paddle boarding,F,10,N,17h45,Other,6067
@@ -35,27 +35,27 @@
 33,2017-04-02,Unprovoked,USA,Florida,"Destin, Okaloosa County",Swimming,F,17,N,15h00,5' shark,6062
 34,2017-03-27,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,58,N,10h00,Other,6061
 35,2017-03-19,Unprovoked,AUSTRALIA,New South Wales,The Farm,Body boarding,M,30,N,18h30,Other,6060
-36,2017-03-18,Unprovoked,USA,California,Monterey Bay,Kayaking,M,Unknown,N,14h30,White shark,6059
+36,2017-03-18,Unprovoked,USA,California,Monterey Bay,Kayaking,M,-1,N,14h30,White shark,6059
 37,2017-03-09,Unprovoked,BAHAMAS,Great Exuma,Other,Washing hands,M,58,N,Unknown,Lemon shark,6058
-38,2017-02-25,Unprovoked,AUSTRALIA,Western Australia,Mauds Point,Snorkeling,F,Unknown,N,Unknown,"Bull shark, 1.5",6057
-39,2017-02-24,Unprovoked,AUSTRALIA,Western Australia,"Falcon Bay Beach, Mandurah",Surfing,M,Unknown,N,Unknown,Other,6056
+38,2017-02-25,Unprovoked,AUSTRALIA,Western Australia,Mauds Point,Snorkeling,F,-1,N,Unknown,"Bull shark, 1.5",6057
+39,2017-02-24,Unprovoked,AUSTRALIA,Western Australia,"Falcon Bay Beach, Mandurah",Surfing,M,-1,N,Unknown,Other,6056
 40,2017-02-21,Unprovoked,REUNION,Saint-Andre,Other,Body boarding,M,26,Y,09h30,Other,6055
 41,2017-02-17,Unprovoked,AUSTRALIA,Queensland,Eva Rock,Spearfishing,M,26,N,10h20,Other,6054
 42,2017-02-11,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,M,22,N,13h30,Other,6053
-43,2017-02-06,Provoked,BRAZIL,Pernambuco,Fernando de Noronha Marine Park,Grabbing shark for a selfie,F,Unknown,N,Unknown,Lemon shark pup,6052
-44,2017-02-06,Boat,SOUTH AFRICA,KwaZulu-Natal,Eastmoor Crescent Beach,Kayak fishing,M,Unknown,N,Unknown,Tiger shark,6051
-45,2017-02-01,Boat,USA,South Carolina,16 miles off Hilton Head,Tagging sharks,Unknown,Unknown,N,Unknown,"White shark, female, 14'",6050
+43,2017-02-06,Provoked,BRAZIL,Pernambuco,Fernando de Noronha Marine Park,Grabbing shark for a selfie,F,-1,N,Unknown,Lemon shark pup,6052
+44,2017-02-06,Boat,SOUTH AFRICA,KwaZulu-Natal,Eastmoor Crescent Beach,Kayak fishing,M,-1,N,Unknown,Tiger shark,6051
+45,2017-02-01,Boat,USA,South Carolina,16 miles off Hilton Head,Tagging sharks,Unknown,-1,N,Unknown,"White shark, female, 14'",6050
 46,2017-02-01,Unprovoked,BAHAMAS,Bimini,Other,Scuba Diving,M,37,N,Unknown,Caribbean reef shark,6049
 47,2017-01-22,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Unknown,M,15.0,N,14h00,Other,6048
 48,2017-01-21,Unprovoked,AUSTRALIA,Queensland,"Boot Reef, Torres Strait",Scuba Diving,M,55,N,12h00,"Bull shark, 4 m",6047
 49,2017-01-13,Unprovoked,AUSTRALIA,Queensland,Clairview,Swimming,M,57,N,13h30,Other,6046
-50,2017-01-13,Unprovoked,USA,Florida,Jensen Beach,Unknown,M,Unknown,N,Unknown,Other,6045
+50,2017-01-13,Unprovoked,USA,Florida,Jensen Beach,Unknown,M,-1,N,Unknown,Other,6045
 51,2017-01-09,Unprovoked,INDONESIA,Bali,Balian Beach,Surfing,M,48,N,07h30,"Bull shark, 1 m",6044
 52,2017-01-08,Invalid,AUSTRALIA,Queensland,Other,Spearfishing,M,35,Unknown,Unknown,Bull shark,6043
 53,2017-01-05,Unprovoked,USA,Florida,"Blockhouse Beach, Brevard County",Wading,M,47,N,12h30,Other,6042
 54,2017-01-03,Invalid,AUSTRALIA,New South Wales,Merimbula,Wading,M,20,N,18h00,Other,6041
 55,2016-12-27,Unprovoked,USA,Florida,"Avalon State Park Beach, North Hutchinson Island, St Lucie County",Surfing,M,16,N,17h00,Other,6040
-56,2016-12-24,Unprovoked,AUSTRALIA,Western Australia,"Bundegi Sanctuary Zone, Ningaloo",Snorkeling,F,Unknown,N,Unknown,a small shark,6039
+56,2016-12-24,Unprovoked,AUSTRALIA,Western Australia,"Bundegi Sanctuary Zone, Ningaloo",Snorkeling,F,-1,N,Unknown,a small shark,6039
 57,2016-12-19,Unprovoked,SOUTH AFRICA,Western Cape Province,"Keurbooms Lagoon, Plettenberg Bay",Surf skiing,M,55,N,07h00,"White shark, 4 m",6038
 58,2016-12-14,Unprovoked,AUSTRALIA,Western Australia,Trigg Beach,Free diving,M,61,N,09h30,Other,6037
 59,2016-12-11,Invalid,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,19,N,Unknown,Other,6036
@@ -68,9 +68,9 @@
 66,2016-10-29,Unprovoked,USA,Florida,Mayport Naval Station  Duval County,Surfing,M,42,N,Unknown,Other,6029
 67,2016-10-24,Unprovoked,AUSTRALIA,New South Wales,Broken Head Beach,Surfing,M,36,N,07h30,Other,6028
 68,2016-10-21,Unprovoked,USA,Hawaii,"Hooipa Beach Park, Maui",Surfing,M,36,N,17h00,6' to 8' shark,6027
-69,2016-10-15,Unprovoked,AUSTRALIA,Queensland,"Kings Beach, Caloundra",Surfing,M,Unknown,N,18h00,Other,6026
+69,2016-10-15,Unprovoked,AUSTRALIA,Queensland,"Kings Beach, Caloundra",Surfing,M,-1,N,18h00,Other,6026
 70,2016-10-14,Unprovoked,USA,Hawaii,"Charlie Young Beach, Kihei, Maui",Snorkeling,F,66,N,09h50,Other,6025
-71,2016-10-13,Invalid,MEXICO,Other,Guadalupe Island,Cage Diving,M,Unknown,N,Unknown,White shark,6024
+71,2016-10-13,Invalid,MEXICO,Other,Guadalupe Island,Cage Diving,M,-1,N,Unknown,White shark,6024
 72,2016-10-12,Unprovoked,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",Surfing,M,25,N,10h30,Other,6023
 73,2016-10-10,Unprovoked,USA,Oregon,"Indian Beach, Ecola State Park, Clatsop County",Surfing,M,29,N,16h00,Other,6022
 74,2016-10-02,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,21,N,11h30,Other,6021
@@ -80,17 +80,17 @@
 78,2016-09-18,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,36,N,11h00,Other,6017
 79,2016-09-18,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,43,N,10h43,Other,6016
 80,2016-09-17,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,M,43,N,Unknown,Other,6015
-81,2016-09-17,Unprovoked,AUSTRALIA,Victoria,Thirteenth Beach,Surfing,M,Unknown,N,Unknown,Other,6014
-82,2016-09-16,Unprovoked,AUSTRALIA,Victoria,Bells Beach,Surfing,M,Unknown,N,Unknown,2 m shark,6013
-83,2016-09-15,Boat,AUSTRALIA,Western Australia,Bunbury,Fishing,Unknown,Unknown,N,Unknown,Other,6012
+81,2016-09-17,Unprovoked,AUSTRALIA,Victoria,Thirteenth Beach,Surfing,M,-1,N,Unknown,Other,6014
+82,2016-09-16,Unprovoked,AUSTRALIA,Victoria,Bells Beach,Surfing,M,-1,N,Unknown,2 m shark,6013
+83,2016-09-15,Boat,AUSTRALIA,Western Australia,Bunbury,Fishing,Unknown,-1,N,Unknown,Other,6012
 84,2016-09-11,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Wading,M,60,N,15h15,3' to 4' shark,6011
 85,2016-09-07,Unprovoked,USA,Hawaii,"Makaha, Oahu",Swimming,F,51,N,14h30,"Tiger shark, 10'",6010
 86,2016-09-06,Unprovoked,NEW CALEDONIA,North Province,Koumac,Kite surfing,M,50,Y,15h40,Other,6009
 87,2016-09-05,Unprovoked,USA,South Carolina,"Kingston Plantation, Myrtle Beach, Horry County",Boogie boarding,F,12,N,Unknown,Other,6008
-88,2016-09-05,Unprovoked,AUSTRALIA,Western Australia,Injidup,Surfing,M,Unknown,N,Unknown,Other,6007
+88,2016-09-05,Unprovoked,AUSTRALIA,Western Australia,Injidup,Surfing,M,-1,N,Unknown,Other,6007
 89,2016-09-04,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body boarding,M,9,N,Unknown,Other,6006
 90,2016-09-01,Unprovoked,USA,California,"Refugio State Beach, Santa Barbara County",Spearfishing,M,22,N,Unknown,"White shark, 8' to 10'",6005
-91,2020-09-16,Invalid,MEXICO,Other,Guadalupe Island,Cage Diving,Unknown,Unknown,Unknown,Unknown,White shark,6004
+91,2020-09-16,Invalid,MEXICO,Other,Guadalupe Island,Cage Diving,Unknown,-1,Unknown,Unknown,White shark,6004
 92,2016-08-29,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,25,N,15h00,"Bull shark, 6'",6003
 93,2016-08-29,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,37,N,14h00,Other,6002
 94,2016-08-27,Unprovoked,REUNION,Other,Boucan Canot,Surfing,M,20,N,17h00,"Bull shark, 3.5 m",6001
@@ -100,23 +100,23 @@
 98,2016-08-04,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,22,N,Unknown,Blacktip shark,5997
 99,2016-07-29,Unprovoked,SPAIN,Alicante Province,Arenales del Sol,Swimming,M,40,N,11h30,Blue shark,5996
 100,2016-07-28,Unprovoked,CHINA,Hong Kong,Other,Swimming,M,72,N,Unknown,Other,5995
-101,2016-07-28,Boat,AUSTRALIA,Western Australia,Near Albany,Kayaking,M,Unknown,N,Unknown,White shark,5994
+101,2016-07-28,Boat,AUSTRALIA,Western Australia,Near Albany,Kayaking,M,-1,N,Unknown,White shark,5994
 102,2016-07-27,Provoked,USA,Florida,"Florida Keys, Monroe County",Lobstering,M,43,N,Unknown,"Nurse shark, 4'",5993
 103,2016-07-26,Unprovoked,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",Surfing,M,18,N,12h00,Other,5992
 104,2016-07-24,Unprovoked,JAPAN,Kochi Prefecture,Irino Beach,Surfing,M,29,N,19h05,Other,5991
 105,2016-07-23,Unprovoked,AUSTRALIA,Tasmania,Clifton Beach,Surfing,M,36,N,Unknown,Other,5990
-106,2016-07-23,Unprovoked,BAHAMAS,Abaco Islands,Green Turtle Cay,Spearfishing,M,Unknown,N,Unknown,"Bull shark, 6'",5989
+106,2016-07-23,Unprovoked,BAHAMAS,Abaco Islands,Green Turtle Cay,Spearfishing,M,-1,N,Unknown,"Bull shark, 6'",5989
 107,2016-07-20,Provoked,AUSTRALIA,Queensland,"20 k off The Spit, off the Gold Coast",Fishing,M,31,N,Unknown,"reef shark, 1m",5988
-108,2016-07-17,Boat,USA,Alabama,8 miles off Mobile,Fishing in Alabama Deep Fishing Rodeo,Unknown,Unknown,N,Unknown,"Tiger shark, 10' ",5987
+108,2016-07-17,Boat,USA,Alabama,8 miles off Mobile,Fishing in Alabama Deep Fishing Rodeo,Unknown,-1,N,Unknown,"Tiger shark, 10' ",5987
 109,2016-07-16,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,9,N,13h00,Other,5986
 110,2016-07-16,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Unknown,F,11,N,11h00,Other,5985
 111,2016-07-15,Unprovoked,USA,California,"Surfside, Orange County",Kite surfing,M,61,N,17h00,"White shark, 10' to 12'",5984
-112,2016-07-15,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Swimming,M,Unknown,N,Unknown,Other,5983
-113,2016-07-14,Unprovoked,BAHAMAS,Other,Tiger Beach,Scuba Diving,M,Unknown,N,Unknown,"Lemon shark, 9'",5982
+112,2016-07-15,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Swimming,M,-1,N,Unknown,Other,5983
+113,2016-07-14,Unprovoked,BAHAMAS,Other,Tiger Beach,Scuba Diving,M,-1,N,Unknown,"Lemon shark, 9'",5982
 114,2016-07-08,Unprovoked,SPAIN,Canary Islands,"Las Teresitas, Tenerife",Wading,F,10,N,Unknown,Angel shark,5981
-115,2016-07-08,Boat,USA,California,"Capitola, Santa Cruz County",Fishing for squid,M,Unknown,N,Unknown,White shark,5980
+115,2016-07-08,Boat,USA,California,"Capitola, Santa Cruz County",Fishing for squid,M,-1,N,Unknown,White shark,5980
 116,2016-07-07,Provoked,USA,Massachusetts,"Off Gloucester, Essec County",Fishing,M,59,N,10h00,dogfish shark,5979
-117,2016-07-07,Boat,USA,California,"Off Palos Verdes peninsula, Los Angeles County",Fishing for sharks,M,Unknown,N,Unknown,White shark,5978
+117,2016-07-07,Boat,USA,California,"Off Palos Verdes peninsula, Los Angeles County",Fishing for sharks,M,-1,N,Unknown,White shark,5978
 118,2016-07-06,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,F,42,N,14h30,Other,5977
 119,2016-07-04,Provoked,AUSTRALIA,Queensland,Palm Cove,Fishing,M,34,N,22h00,Tawny nurse shark,5976
 120,2016-06-27,Unprovoked,USA,South Carolina,Sullivan's Island,Unknown,M,35,N,16h20,3' to 4' shark,5975
@@ -124,8 +124,8 @@
 122,2016-06-24,Unprovoked,COLUMBIA,Isla Provedencia,Other,Scuba Diving,M,59,N,11h00,"Caribbean reef shark, 4.5'",5973
 123,2016-06-23,Unprovoked,SOUTH AFRICA,Western Cape Province,Ryspunt,Spearfishing,M,43,N,Unknown,White shark,5972
 124,2016-06-21,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Floating,M,42,N,15h25,3' to 5' shark,5971
-125,2016-06-21,Unprovoked,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Wading,M,Unknown,N,14h55,Other,5970
-126,2016-06-15,Unprovoked,USA,Hawaii,"Kalapaki Beach, Kauai",Surfing,M,Unknown,N,06h00,3' to 4' shark,5969
+125,2016-06-21,Unprovoked,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Wading,M,-1,N,14h55,Other,5970
+126,2016-06-15,Unprovoked,USA,Hawaii,"Kalapaki Beach, Kauai",Surfing,M,-1,N,06h00,3' to 4' shark,5969
 127,2016-06-15,Provoked,AUSTRALIA,Western Australia,Coral Bay,Spearfishing,M,19,N,Unknown,5' shark,5968
 128,2016-06-14,Unprovoked,USA,Texas,"Pirates Beach, Galveston",Floating in tube,F,6,N,17h30,3' to 4' shark,5967
 129,2016-06-11,Unprovoked,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Standing,M,19,N,15h00,3' shark,5966
@@ -133,8 +133,8 @@
 131,2016-06-05,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Swimming,M,64,N,08h30,Other,5964
 132,2016-06-05,Unprovoked,AUSTRALIA,Western Australia,Mindarie,Diving,F,60,Y,11h30,3+ m shark,5963
 133,2016-06-04,Unprovoked,EGYPT,Suez,Ain Sokhna,Swimming,M,23,N,Unknown,Mako shark,5962
-134,2016-06-02,Unprovoked,AUSTRALIA,New South Wales,Kingscliff,Spearfishing,M,Unknown,Unknown,Unknown,Bronze whaler sharks x 3,5961
-135,2016-06-02,Unprovoked,NEW CALEDONIA,Other," Côte-Blanche, Nouméa ",Kite surfing,M,Unknown,N,Unknown,3 m shark,5960
+134,2016-06-02,Unprovoked,AUSTRALIA,New South Wales,Kingscliff,Spearfishing,M,-1,Unknown,Unknown,Bronze whaler sharks x 3,5961
+135,2016-06-02,Unprovoked,NEW CALEDONIA,Other," Côte-Blanche, Nouméa ",Kite surfing,M,-1,N,Unknown,3 m shark,5960
 136,2016-05-31,Unprovoked,AUSTRALIA,Western Australia,"Falcon Beach, Mandurah",Surfing,M,29,Y,16h00,White shark,5959
 137,2016-05-29,Unprovoked,USA,California,"Corona Del Mar, Newport, Orange County",Swimming,F,52,N,16h00,Other,5958
 138,2016-05-29,Unprovoked,USA,Florida,"Neptune, Duval County",Swimming,M,13,N,15h45,5' shark,5957
@@ -147,52 +147,52 @@
 145,2016-05-02,Provoked,NEW ZEALAND,North Island,Cormandel,Fishing,M,39,N,Unknown,"Mako shark, 1.5 m [5'] ",5950
 146,2016-04-25,Unprovoked,INDONESIA,Bali,Balian,Surfing,M,24,N,07h00,"Bull shark, 6'",5949
 147,2016-04-23,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,15,N,17h30,Other,5948
-148,2016-04-22,Unprovoked,SOUTH AFRICA,Western Cape Province,"Robberg Beach, Plettenberg Bay",Surf-skiing,M,Unknown,N,08h00,White shark,5947
+148,2016-04-22,Unprovoked,SOUTH AFRICA,Western Cape Province,"Robberg Beach, Plettenberg Bay",Surf-skiing,M,-1,N,08h00,White shark,5947
 149,2016-04-19,Unprovoked,AUSTRALIA,New South Wales,"First Sun Beach, Byron Bay",Swimming,M,12,N,12h00,Wobbegong shark,5946
 150,2016-04-18,Provoked,FRENCH POLYNESIA,Tuamotos,Makemo Atoll,Spearfishing,M,26,N,Unknown,"Grey reef shark, 2 m",5945
 151,2016-04-13,Unprovoked,USA,Florida,"Off Singer Island, Palm Beach County",Spearfishing,M,26,N,Unknown,"Bull shark, 7'",5944
 152,2016-04-09,Unprovoked,NEW CALEDONIA,Grand Terre,Poe Beach,Walking,F,69,Y,10h45,"Tiger shark, 2.5 m",5943
 153,2016-04-08,Invalid,CAPE VERDE,Boa Vista Island,Other,Unknown,M,60,N,Unknown,Shark involvement not confirmed,5942
 154,2016-04-07,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Fishing,M,34,N,Unknown,5' to 6' shark,5941
-155,2016-04-07,Invalid,USA,Florida,"Corners Beach, Jupiter, Palm Beach County",SUP,M,Unknown,N,Unknown,Other,5940
+155,2016-04-07,Invalid,USA,Florida,"Corners Beach, Jupiter, Palm Beach County",SUP,M,-1,N,Unknown,Other,5940
 156,2016-03-31,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,F,46,N,11h00,Other,5939
 157,2016-03-30,Unprovoked,AUSTRALIA,New South Wales,Bombo Beach,Surfing,M,22,N,19h00,Other,5938
 158,2016-03-28,Unprovoked,USA,Florida,"Fort Myers Beach, Lee County",Unknown,M,15.0,N,Unknown,Shark involvement not confirmed,5937
 159,2016-03-28,Unprovoked,AUSTRALIA,New South Wales,North Cronulla Beach,Surfing,M,41,N,11h00,Other,5936
 160,2016-03-26,Provoked,BAHAMAS,Other,Other,Unknown,M,9,N,Unknown,"Nurse shark, 2.5-ft",5935
-161,2016-03-13,Invalid,USA,California,"Bolsa Chica State Park, Orange County",Surfing,Unknown,Unknown,N,Unknown,Shark involvement not confirmed,5934
+161,2016-03-13,Invalid,USA,California,"Bolsa Chica State Park, Orange County",Surfing,Unknown,-1,N,Unknown,Shark involvement not confirmed,5934
 162,2016-03-11,Unprovoked,USA,Florida,"Vero Beach, St. Lucie County",Body surfing,M,19,N,13h30,Other,5933
 163,2016-03-10,Unprovoked,Fiji,Vanua Levu,Other,Diving for beche-de-mer,M,45,Y,Unknown,Other,5932
 164,2016-03-04,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Unknown,M,12,N,Unknown,Other,5931
-165,2016-03-03,Unprovoked,AUSTRALIA,South Australia,Wrights Bay,Fishing,M,Unknown,N,Unknown,Bronze whaler,5930
+165,2016-03-03,Unprovoked,AUSTRALIA,South Australia,Wrights Bay,Fishing,M,-1,N,Unknown,Bronze whaler,5930
 166,2016-03-02,Unprovoked,BRAZIL,Santa Catarina State,Escalerio Beach Balneário Camboriú,Swimming,M,41,N,Unknown,Sandtiger shark,5929
 167,2016-02-22,Unprovoked,NEW CALEDONIA,South Province,"Ricaudy Reef, Noumea",Kite surfing,M,21,N,19h00,Other,5928
 168,2016-02-19,Unprovoked,NEW CALEDONIA,South Province,Yate,Spearfishing,M,31,N,16h00,Other,5927
-169,2016-02-12,Unprovoked,DOMINICAN REPUBLIC,Altagracia Province,"Bavaro Beach, Punta Cana",Wading,F,Unknown,N,15h00,Other,5926
+169,2016-02-12,Unprovoked,DOMINICAN REPUBLIC,Altagracia Province,"Bavaro Beach, Punta Cana",Wading,F,-1,N,15h00,Other,5926
 170,2016-02-10,Invalid,CAYMAN ISLANDS,Grand Cayman,Stingray City Bar,Feeding stingrays?,M,65,N,Unknown,No shark involvement,5925
-171,2016-02-10,Invalid,AUSTRALIA,Tasmania,Nettley Bay,Surfing,M,Unknown,N,12h30,No shark involvement,5924
+171,2016-02-10,Invalid,AUSTRALIA,Tasmania,Nettley Bay,Surfing,M,-1,N,12h30,No shark involvement,5924
 172,2016-02-05,Unprovoked,AUSTRALIA,Queensland,Stradbroke Island,Walking,F,45,N,13h20,Other,5923
 173,2016-02-04,Unprovoked,AUSTRALIA,New South Wales,Hams Beach,Windsurfing,M,40,N,Unknown,Other,5922
-174,2016-01-29,Boat,SOUTH AFRICA,KwaZulu-Natal,Other,Kayak fishing,M,Unknown,N,Unknown,Other,5921
-175,2016-01-28,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,M,Unknown,N,14h00,"Reef shark, 5'",5920
+174,2016-01-29,Boat,SOUTH AFRICA,KwaZulu-Natal,Other,Kayak fishing,M,-1,N,Unknown,Other,5921
+175,2016-01-28,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,M,-1,N,14h00,"Reef shark, 5'",5920
 176,2016-01-25,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai, ",Surfing,F,15,N,11h30,Other,5919
-177,2016-01-24,Unprovoked,USA,Texas,Off Surfside,Spearfishing,M,Unknown,N,09h30,Bull sharks x 2,5918
-178,2016-01-24,Boat,UNITED ARAB EMIRATES,Fujairah Emirate,35 miles off Fujairah,Fishing,M,Unknown,N,Unknown,Mako shark,5917
+177,2016-01-24,Unprovoked,USA,Texas,Off Surfside,Spearfishing,M,-1,N,09h30,Bull sharks x 2,5918
+178,2016-01-24,Boat,UNITED ARAB EMIRATES,Fujairah Emirate,35 miles off Fujairah,Fishing,M,-1,N,Unknown,Mako shark,5917
 179,2016-01-23,Unprovoked,USA,Hawaii,"Wailea Beach, Maui",Paddle boarding,M,48,N,Unknown,"Tiger shark, 14'",5916
-180,2016-01-11,Unprovoked,AUSTRALIA,Queensland,"Happy Valley Beach, Caloundra",Surfing,M,Unknown,N,Unknown,Wobbegong shark,5915
+180,2016-01-11,Unprovoked,AUSTRALIA,Queensland,"Happy Valley Beach, Caloundra",Surfing,M,-1,N,Unknown,Wobbegong shark,5915
 181,2016-01-05,Unprovoked,AUSTRALIA,Queensland,Heron Island,Wading,M,11,N,Unknown,Blacktip shark,5914
 182,2016-01-02,Unprovoked,AUSTRALIA,Queensland,Miall Island,Spearfishing,M,31,N,11h30,3 m shark,5913
-183,2015-12-26,Boat,SOUTH AFRICA,KwaZulu-Natal,Westbrook Beach,Kayak Fishing,M,Unknown,N,Unknown,"White shark, 3 m",5912
+183,2015-12-26,Boat,SOUTH AFRICA,KwaZulu-Natal,Westbrook Beach,Kayak Fishing,M,-1,N,Unknown,"White shark, 3 m",5912
 184,2015-12-25,Unprovoked,SPAIN,Grand Canary Island,"Arinaga Beach, Aguimes, Gran Canaria",Swimming,F,38,N,Unknown,"Silky shark, 6.5'",5911
 185,2015-12-22,Unprovoked,USA,Hawaii,La'aloa Beach Park,Paddle boarding,M,71,N,Unknown,9' shark,5910
 186,2015-12-21,Unprovoked,AUSTRALIA,New South Wales,Bondi Beach,Surfing,M,43,N,07h00,"Bronze whaler shark, 6'",5909
 187,2015-12-21,Unprovoked,BRAZIL,Pernambuco,Fernano de Noronha,Scuba diving,M,32,N,Unknown,"Tiger shark, 1.5 m ",5908
 188,2015-12-19,Unprovoked,ARUBA,Other,Boat capsized,Sea disaster,M,58,Y,Unknown,Other,5907
-189,2015-12-13,Boat,AUSTRALIA,New South Wales,Lake Macquarie,Fishing,Unknown,Unknown,N,10h30,"White shark, 3.5 m",5906
+189,2015-12-13,Boat,AUSTRALIA,New South Wales,Lake Macquarie,Fishing,Unknown,-1,N,10h30,"White shark, 3.5 m",5906
 190,2015-12-11,Unprovoked,BAHAMAS,Other,Off Andros Island,Lobster fishing,M,26,N,Unknown,Bull shark,5905
 191,2015-12-08,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Mpande,Swimming / Wading,F,22,N,Unknown,Other,5904
 192,2015-11-20,Unprovoked,ECUADOR,Galapagos Islands,"Punta Vicente Roca, Isabella Island",Snorkeling,M,55,N,10h15,Galapagos shark,5903
-193,2015-11-15,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Swimming,F,Unknown,N,11h00,Other,5902
+193,2015-11-15,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Swimming,F,-1,N,11h00,Other,5902
 194,2015-11-15,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,M,28,N,Unknown,"Spinner shark, 7'",5901
 195,2015-11-10,Unprovoked,AUSTRALIA,New South Wales,East Ballina,Surfing,M,20,N,18h15,"Bull shark, 2.8 to 3.1 m",5900
 196,2015-11-07,Invalid,USA,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,F,9,N,11h00,Shark involvement not confirmed,5899
@@ -207,33 +207,33 @@
 205,2015-10-17,Unprovoked,MOZAMBIQUE,Inhambane Province,"Nahaduga, Inhambane Bay",Fishing for shrimp,F,35,Y,Unknown,Other,5890
 206,2015-10-17,Invalid,USA,Hawaii,"Waikiki, ",Surfing,M,32,N,19h20,No shark involvement,5889
 207,2015-10-17,Unprovoked,USA,Hawaii,"Lanikai Beach, Kailua, Oahu",Swimming,M,44,N,11h30,"Tiger shark, 7'",5888
-208,2015-10-13,Boat,USA,California,"Off Leffingwell Landing, San Luis Obispo County",Kayak Fishing,M,Unknown,N,11h00,Hammerhead sp.,5887
+208,2015-10-13,Boat,USA,California,"Off Leffingwell Landing, San Luis Obispo County",Kayak Fishing,M,-1,N,11h00,Hammerhead sp.,5887
 209,2015-10-09,Unprovoked,USA,South Carolina,"Shipyard Beach Club, Hilton Head Island, Beaufort County",Boogie boarding,F,9,N,16h20,Other,5886
 210,2015-10-09,Unprovoked,USA,Hawaii,"Leftovers, Oahu",Surfing,M,25,N,10h25,"Tiger shark, 13' ",5885
-211,2015-10-08,Unprovoked,MOZAMBIQUE,Inhambane Province,"Maxixe, Inhambane Bay",Fishing,M,Unknown,N,Unknown,Other,5884
+211,2015-10-08,Unprovoked,MOZAMBIQUE,Inhambane Province,"Maxixe, Inhambane Bay",Fishing,M,-1,N,Unknown,Other,5884
 212,2015-10-07,Unprovoked,AUSTRALIA,Western Australia,Pyramids Beach,Surfing,M,18,N,16h50,Other,5883
 213,2015-10-05,Unprovoked,USA,Florida,"Pepper Park Beach, St. Lucie County",Body boarding,M,22,N,13h00,Other,5882
 214,2015-10-05,Unprovoked,USA,Texas,Galveston,Wading,M,13,N,10h00,4' to 5' shark,5881
 215,2015-10-04,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,14,N,08h30,"Blacktip shark, 4' to 5'",5880
 216,2015-09-29,Unprovoked,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,M,22,N,16h20,"Blacktip shark, 5' to 6'",5879
 217,2015-09-26,Unprovoked,AUSTRALIA,Queensland,"Russel Island, Frankland Group",Snorkeling,F,7,N,Unknown,Other,5878
-218,2015-09-24,Unprovoked,USA,California,"Horseshoe Rock, Santa Barbara County",Kayak fishing,M,Unknown,N,10h45,"White shark, 19'",5877
+218,2015-09-24,Unprovoked,USA,California,"Horseshoe Rock, Santa Barbara County",Kayak fishing,M,-1,N,10h45,"White shark, 19'",5877
 219,2015-09-20,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,14,N,16h45,juvenile shark,5876
 220,2015-09-20,Unprovoked,USA,Hawaii,"Upolu Point, North Kohala, Big Island",Spearfishing,M,27,N,15h52,"Tiger shark, 13'",5875
 221,2015-09-20,Unprovoked,USA,Florida,"Fernandina Beach, Amelia Island, Nassau County",Wading,M,12,N,12h30,4' shark,5874
 222,2015-09-20,Unprovoked,USA,Florida,"Vilano Beach, St.  Johns County",Photographing fish,M,16,N,07h30,Other,5873
-223,2015-09-18,Unprovoked,USA,Florida,"Big Talbot Island, Duval County",Swimming,M,Unknown,N,19h00,Other,5872
+223,2015-09-18,Unprovoked,USA,Florida,"Big Talbot Island, Duval County",Swimming,M,-1,N,19h00,Other,5872
 224,2015-09-17,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,M,20,N,15h00,Other,5871
 225,2015-09-08,Unprovoked,AUSTRALIA,New South Wales,North Shelly Beach,Surfing,M,42,N,06h15,6' shark,5870
 226,2015-09-06,Unprovoked,USA,California,"El Pescador Beach, Los Angeles County",Stand-Up Paddleboarding,F,50,N,17h30,"White shark, 11' to 12'",5869
 227,2015-09-05,Provoked,USA,California,"Deer Creek Beach, Ventura County",Kayak Fishing,M,29,N,14h40,Hammerhead shark.,5868
 228,2015-09-04,Unprovoked,AUSTRALIA,New South Wales,Hallidays Point,Surf-skiing,M,62,N,11h30,"White shark, 2.5 m",5867
-229,2015-09-03,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Unknown,M,Unknown,N,16h00,4' shark?,5866
+229,2015-09-03,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Unknown,M,-1,N,16h00,4' shark?,5866
 230,2015-09-01,Unprovoked,THAILAND,Phuket,Karon Beach,Wading,F,37,N,08h30,small shark,5865
-231,2020-09-15,Unprovoked,FIJI,Other,Other,Spearfishing,M,Unknown,N,Unknown,Tiger shark,5864
+231,2020-09-15,Unprovoked,FIJI,Other,Other,Spearfishing,M,-1,N,Unknown,Tiger shark,5864
 232,2015-08-29,Unprovoked,USA,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,F,54,N,10h25,"White shark, 11' to 12'",5863
 233,2015-08-29,Unprovoked,USA,California,"Morro Bay, San Luis Obispo County",Surfing,M,21,N,10h00,"White shark, 10' to 12' ",5862
-234,2015-08-22,Invalid,USA,Florida,"Cocoa Beach, Brevard  County",Unknown,M,Unknown,N,19h45,Shark involvement not confirmed,5861
+234,2015-08-22,Invalid,USA,Florida,"Cocoa Beach, Brevard  County",Unknown,M,-1,N,19h45,Shark involvement not confirmed,5861
 235,2015-08-22,Unprovoked,AUSTRALIA,New South Wales,Lighthouse Beach,Surfing,M,38,N,17h10,Other,5860
 236,2015-08-20,Unprovoked,USA,South Carolina,"Murrells Inlet, Georgetown County",Surfing,M,15,N,12h30,4' shark,5859
 237,2015-08-19,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Walking,F,10,N,15h30,3' shark,5858
@@ -251,17 +251,17 @@
 249,2015-07-19,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Jeffrey's Bay,Surfing,M,34,N,Unknown,White shark,5846
 250,2015-07-10,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,M,38,N,08h45,"White shark, 7'",5845
 251,2015-07-08,Invalid,USA,California,"Huntington Beach, Orange County",Treading water,M,39,N,Unknown,Shark involvement not cofirmed,5844
-252,2015-07-06,Invalid,FRENCH POLYNESIA,Bora Bora,Other,Swimming,M,Unknown,N,Unknown,No shark involvement,5843
+252,2015-07-06,Invalid,FRENCH POLYNESIA,Bora Bora,Other,Swimming,M,-1,N,Unknown,No shark involvement,5843
 253,2015-07-04,Unprovoked,BAHAMAS,Grand Bahama Island,"Port Lucaya, Freeport",Spearfishing,F,23,N,Unknown,6' shark,5842
 254,2015-07-04,Unprovoked,USA,North Carolina,"Off Surf City, Pender County",Unknown,M,32,N,Unknown,Other,5841
 255,2015-07-03,Unprovoked,AUSTRALIA,New South Wales,Lennox Head,Surfing,M,52,N,09h00,White shark,5840
 256,2015-07-02,Unprovoked,AUSTRALIA,New South Wales,East Ballina,Body boarding,M,32,N,09h00,White shark,5839
 257,2015-07-01,Unprovoked,USA,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",Swimming,M,68,N,12h10,6' to 7' shark,5838
-258,2015-06-30,Unprovoked,AUSTRALIA,New South Wales,"Flat Rock, Yamba",Surfing,M,Unknown,N,Unknown,Other,5837
+258,2015-06-30,Unprovoked,AUSTRALIA,New South Wales,"Flat Rock, Yamba",Surfing,M,-1,N,Unknown,Other,5837
 259,2015-06-30,Unprovoked,USA,South Carolina,"Isle of Palms County Park, Isle of Palms, Charleston County",Playing in the water,M,12,N,18h05,4' to 5' shark,5836
 260,2015-06-27,Unprovoked,USA,North Carolina,"Rodanthe, Dare County",Swimming,M,18,N,16h00,Bull shark,5835
 261,2015-06-27,Unprovoked,SOUTH AFRICA,Western Cape Province,Buffels Bay near Knysna,Body Boarding,M,19,N,14h40,White shark,5834
-262,2015-06-26,Invalid,USA,Florida,"Jacksonville Beach, Duval County",Swimming,F,Unknown,N,19h30,Shark involvement not confirmed,5833
+262,2015-06-26,Invalid,USA,Florida,"Jacksonville Beach, Duval County",Swimming,F,-1,N,19h30,Shark involvement not confirmed,5833
 263,2015-06-26,Unprovoked,SOUTH AFRICA,Western Cape Province,"Lookout Beach, Plettenberg Bay",Surfing,M,23,N,16h00,"White shark, 2m to 3 m",5832
 264,2015-06-26,Unprovoked,USA,South Carolina,"South Beach, Hunting Island State Park, Beaufort County",Standing,M,43,N,11h00,4' shark,5831
 265,2015-06-25,Provoked,AUSTRALIA,Western Australia,Rottnest Island,Swimming,M,19,N,Unknown,Wobbegong shark,5830
@@ -273,7 +273,7 @@
 271,2015-06-17,Unprovoked,USA,Florida,Daytona Beach Shores,Swimming,M,10,N,13h00,Other,5824
 272,2015-06-14,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,M,16,N,17h51,Bull shark,5823
 273,2015-06-14,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,F,12,N,16h12,Bull shark,5822
-274,2015-06-13,Unprovoked,USA,California,Off San Diego,Unknown,F,Unknown,N,Unknown,Mako shark,5821
+274,2015-06-13,Unprovoked,USA,California,Off San Diego,Unknown,F,-1,N,Unknown,Mako shark,5821
 275,2015-06-11,Unprovoked,USA,North Carolina,"Ocean Isle, Brunswick County",Boogie boarding,F,13,N,12h45,4' shark,5820
 276,2015-06-07,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Playing,M,11,N,10h50,"Bull shark, 5'",5819
 277,2015-06-05,Unprovoked,USA,Florida,Fort Lauderdale,Attempting to rescue a shark,F,17,N,Unknown,small nurse shark,5818
@@ -285,8 +285,8 @@
 283,2015-05-20,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,18,N,10h30,5' shark,5812
 284,2015-05-15,Unprovoked,USA,South Carolina,Sullivan's Island,Unknown,M,30,N,14h15,6' shark,5811
 285,2015-05-09,Unprovoked,NEW CALEDONIA,Other,Kouare,Snorkeling,M,50,Y,Unknown,"Bull shark, 3.5 m",5810
-286,2015-05-07,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,M,Unknown,N,15h00,Other,5809
-287,2015-05-03,Unprovoked,AUSTRALIA,New South Wales,Saltwater Beach,Surfing,M,Unknown,N,15h00,White shark,5808
+286,2015-05-07,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,M,-1,N,15h00,Other,5809
+287,2015-05-03,Unprovoked,AUSTRALIA,New South Wales,Saltwater Beach,Surfing,M,-1,N,15h00,White shark,5808
 288,2015-05-02,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Diving,M,29,N,13h00,"White shark, 3.5 m",5807
 289,2015-04-29,Unprovoked,USA,Hawaii,Kanahena Cove,Snorkeling,F,65,Y,09h00,Other,5806
 290,2015-04-26,Unprovoked,USA,Florida,"Resident's Beach, Marco Island",Wading,M,63,N,16h30,3- to 4-foot shark,5805
@@ -295,70 +295,70 @@
 293,2015-04-13,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Photographing the shark,M,48,N,Unknown,"Blue shark, 8 to 9 feet",5802
 294,2015-04-12,Unprovoked,REUNION,Saint-Gilles-les-Bains,Cap Homard,Surfing,M,13,Y,09h00,Bull shark,5801
 295,2015-04-03,Unprovoked,USA,Florida,"3 miles off Jupiter, Palm Beach County",Spearfishing,M,70,N,Unknown,Bull shark,5800
-296,2015-04-11,Unprovoked,AUSTRALIA,New South Wales,McKenzies Beach,Paddle boarding,M,Unknown,N,07h30,Other,5799
+296,2015-04-11,Unprovoked,AUSTRALIA,New South Wales,McKenzies Beach,Paddle boarding,M,-1,N,07h30,Other,5799
 297,2015-03-29,Invalid,ITALY,Sardinia,Other,Diving,M,43,Y,Unknown,Shark involvement not cofirmed,5798
 298,2015-03-31,Invalid,BRAZIL,Pernambuco,"Praia del Chifre, Olinda",Surfing,M,23,N,11h00,No shark involvement,5797
 299,2015-03-26,Boat,SOUTH AFRICA,Eastern Cape Province,Yellow Sands Point,Kayak Fishing,M,36,N,Unknown,"White shark, 4 m",5796
 300,2015-03-21,Unprovoked,EGYPT,Other,Marsa Alam,Swimming,M,52,Y,Unknown,Mako shark,5795
 301,2015-03-18,Unprovoked,USA,Hawaii,Hapuna Beach,Standing / Snorkeling,M,58,N,11h45,"Tiger shark, 8 to 12 feet",5794
 302,2015-03-16,Unprovoked,FRENCH POLYNESIA,Bora Bora,Anau,Hand feeding sharks,M,9,N,10h00,Blacktip shark,5793
-303,2015-03-11,Boat,AUSTRALIA,New South Wales,"Julian Rocks, Byron Bay",Fishing,M,Unknown,N,Unknown,Other,5792
+303,2015-03-11,Boat,AUSTRALIA,New South Wales,"Julian Rocks, Byron Bay",Fishing,M,-1,N,Unknown,Other,5792
 304,2015-03-10,Provoked,MEXICO,Sinaloa,Mazlatan,Fishing,M,36,N,10h20,Other,5791
 305,2015-03-07,Unprovoked,FRENCH POLYNESIA,Central Tuamotu,"Tupapati, Hikueru Atoll",Sitting in the water,M,1.5,N,Unknown,Blacktip Reef shark,5790
-306,2015-02-15,Boat,ATLANTIC OCEAN,Other,Other,Transatlantic Rowing,Unknown,Unknown,N,Unknown,White shark,5789
+306,2015-02-15,Boat,ATLANTIC OCEAN,Other,Other,Transatlantic Rowing,Unknown,-1,N,Unknown,White shark,5789
 307,2015-02-14,Unprovoked,REUNION,d’Étang-Salé,Ravine Mula,Swimming,F,22,Y,18h30,"Tiger shark, 3.5 m",5788
 308,2015-02-09,Unprovoked,AUSTRALIA,New South Wales,Shelly Beach,Surfing,M,41,Y,10h00,3.5 to 4 m shark,5787
 309,2015-02-08,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Byron Bay",Surfing,M,35,N,06h45,2 m to  3 m shark,5786
-310,2015-02-05,Unprovoked,AUSTRALIA,New South Wales,Mereweather Beach,Bodysurfing,M,Unknown,N,Unknown,1.8 m shark,5785
+310,2015-02-05,Unprovoked,AUSTRALIA,New South Wales,Mereweather Beach,Bodysurfing,M,-1,N,Unknown,1.8 m shark,5785
 311,2015-01-30,Boat,AUSTRALIA,Queensland,"Nerang River, Surfer's  Paradise",Rowing,M,57,N,05h00,"Bull shark, 1.3 m",5784
 312,2015-01-27,Provoked,USA,Hawaii,Lahaina,Shark fishing,M,20,N,03h30,4' shark,5783
-313,2015-01-24,Unprovoked,AUSTRALIA,New South Wales,Flat Rock,Surfing,M,Unknown,N,Unknown,Other,5782
+313,2015-01-24,Unprovoked,AUSTRALIA,New South Wales,Flat Rock,Surfing,M,-1,N,Unknown,Other,5782
 314,2015-01-23,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Nahoon Beach,Floating,M,24,N,Unknown,Other,5781
-315,2015-01-19,Boat,USA,Florida,Off Panama City,Fishing,M,Unknown,N,Unknown,White shark,5780
-316,2015-01-19,Invalid,AUSTRALIA,New South Wales,"Wategos Beach, Byon Bay",Surfing & filming dolphins,F,Unknown,N,Unknown,Shark involvement not confirmed,5779
-317,2015-01-17,Boat,AUSTRALIA,New South Wales,Off Blacksmith Beach,Fishing,M,Unknown,N,13h45,5 m shark,5778
+315,2015-01-19,Boat,USA,Florida,Off Panama City,Fishing,M,-1,N,Unknown,White shark,5780
+316,2015-01-19,Invalid,AUSTRALIA,New South Wales,"Wategos Beach, Byon Bay",Surfing & filming dolphins,F,-1,N,Unknown,Shark involvement not confirmed,5779
+317,2015-01-17,Boat,AUSTRALIA,New South Wales,Off Blacksmith Beach,Fishing,M,-1,N,13h45,5 m shark,5778
 318,2015-01-16,Unprovoked,AUSTRALIA,New South Wales,"Mollymook Beach, Bannister Head",Filming,M,17,N,Unknown,1.5 m shark,5777
 319,2015-01-08,Invalid,USA,Florida,Other,Swimming after falling overboard,M,38,N,Unknown,No shark involvement,5776
 320,2015-01-06,Unprovoked,BAHAMAS,Abaco Islands,"Tahiti Beach, Elbow Cay",Snorkeling,F,34,N,16h00,White shark or oceanic whitetip shark,5775
 321,2015-01-03,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Chintsa East Beach,Surfing,M,15,N,08h00,"Raggedtooth shark, 1.3 m",5774
 322,2015-01-01,Unprovoked,USA,Florida,"Windsor Beach, Indian River County",Unknown,M,12,N,Unknown,"""A small shark""",5773
-323,2014-12-29,Unprovoked,AUSTRALIA,New South Wales,Bherwerre Beach,Surfing,Unknown,Unknown,N,Unknown,2 m shark,5772
+323,2014-12-29,Unprovoked,AUSTRALIA,New South Wales,Bherwerre Beach,Surfing,Unknown,-1,N,Unknown,2 m shark,5772
 324,2014-12-29,Unprovoked,AUSTRALIA,Western Australia,Three Stripes near Cheynes Beach,Spearfishing,M,17,Y,Unknown,"White shark, 4 to 5 m",5771
-325,2014-12-28,Sea Disaster,GREECE,Other,33 nautical miles off Othonoi Island,Unknown,Unknown,Unknown,N,Unknown,Shark involvement prior to death still to be determined,5770
-326,2014-12-28,Invalid,SOUTH AFRICA,KwaZulu-Natal,Durban,Swimming,Unknown,Unknown,N,Unknown,Shark involvement not confirmed & highly unlikely,5769
+325,2014-12-28,Sea Disaster,GREECE,Other,33 nautical miles off Othonoi Island,Unknown,Unknown,-1,N,Unknown,Shark involvement prior to death still to be determined,5770
+326,2014-12-28,Invalid,SOUTH AFRICA,KwaZulu-Natal,Durban,Swimming,Unknown,-1,N,Unknown,Shark involvement not confirmed & highly unlikely,5769
 327,2014-12-28,Unprovoked,USA,California,"Montaña de Oro State Park, San Luis Obispo County ",Surfing,M,50,N,11h30,"White shark, 8' to 10'",5768
 328,2014-12-28,Provoked,AUSTRALIA,Victoria,Paradise Beach,Fishing,M,40,N,Unknown,1.5 m shark,5767
-329,2014-12-23,Unprovoked,JAPAN,Other,Other,Diving / Filming,M,Unknown,N,Unknown,Goblin shark,5766
+329,2014-12-23,Unprovoked,JAPAN,Other,Other,Diving / Filming,M,-1,N,Unknown,Goblin shark,5766
 330,2014-12-15,Unprovoked,AUSTRALIA,Queensland,Rudder Reef,Spearfishing,M,17,Y,11h30,Tiger shark,5765
-331,2014-12-03,Provoked,SPAIN,Granada,Off Motril,Fishing for blue sharks,M,Unknown,N,07h00,Other,5764
+331,2014-12-03,Provoked,SPAIN,Granada,Off Motril,Fishing for blue sharks,M,-1,N,07h00,Other,5764
 332,2014-11-29,Unprovoked,AUSTRALIA,Western Australia,"Pyramids Beach, Port Bouvard",Surfing,M,13,N,06h00,Other,5763
 333,2014-11-20,Provoked,MAURITIUS,Cargados Carajos Shoals (St. Brandon),Other,Fishing,M,39,Y,Unknown,Other,5762
-334,2014-11-19,Boat,AUSTRALIA,Western Australia,Freo,Fishing,M,Unknown,N,Unknown,White shark,5761
-335,2014-11-17,Boat,USA,California,"Franklin Point, San Mateo County",Unknown,Unknown,Unknown,N,Unknown,White shark,5760
+334,2014-11-19,Boat,AUSTRALIA,Western Australia,Freo,Fishing,M,-1,N,Unknown,White shark,5761
+335,2014-11-17,Boat,USA,California,"Franklin Point, San Mateo County",Unknown,Unknown,-1,N,Unknown,White shark,5760
 336,2014-11-16,Unprovoked,USA,Florida,"Indian Harbor Beach, Brevard County",Surfing,M,44,N,13h00,2' shark,5759
 337,2014-11-13,Unprovoked,USA,Hawaii,"Airplane Beach, Lahina, West Maui",Snorkeling,M,53,N,13h30,1.5 m shark,5758
-338,2014-11-10,Unprovoked,AUSTRALIA,New South Wales,Moonee Beach,Surfing,M,Unknown,N,06h30,Other,5757
+338,2014-11-10,Unprovoked,AUSTRALIA,New South Wales,Moonee Beach,Surfing,M,-1,N,06h30,Other,5757
 339,2014-11-08,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St. Lucie County",Surfing,M,18,N,16h30,Other,5756
 340,2014-10-31,Unprovoked,USA,Hawaii,"North Kohala, Hawaii County",Surfing,F,34,N,11h00,"Tiger shark, 12'",5755
 341,2014-10-29,Provoked,AUSTRALIA,New South Wales,Wallabi Point,Surfing,M,20,N,18h00,Other,5754
-342,2014-10-22,Unprovoked,USA,Hawaii,"Kihei, Maui",Stand-Up Paddleboarding,F,Unknown,N,10h00,Tiger shark,5753
-343,2014-10-20,Unprovoked,USA,Hawaii,"Kahului, Maui",Stand-Up Paddleboarding,M,Unknown,N,08h00,Other,5752
-344,2014-10-19,Boat,USA,California,"Leadbetter Beach, Santa Barbara County",Canoeing,F,Unknown,N,Unknown,Other,5751
-345,2014-10-18,Unprovoked,USA,Hawaii,"Maalaea, South Maui",Surfing,M,Unknown,N,11h15,12' to 14' shark,5750
+342,2014-10-22,Unprovoked,USA,Hawaii,"Kihei, Maui",Stand-Up Paddleboarding,F,-1,N,10h00,Tiger shark,5753
+343,2014-10-20,Unprovoked,USA,Hawaii,"Kahului, Maui",Stand-Up Paddleboarding,M,-1,N,08h00,Other,5752
+344,2014-10-19,Boat,USA,California,"Leadbetter Beach, Santa Barbara County",Canoeing,F,-1,N,Unknown,Other,5751
+345,2014-10-18,Unprovoked,USA,Hawaii,"Maalaea, South Maui",Surfing,M,-1,N,11h15,12' to 14' shark,5750
 346,2014-10-17,Unprovoked,AUSTRALIA,New South Wales,Avoca Beach,Surfing,F,13,N,06h30,1 m shark,5749
 347,2014-10-14,Unprovoked,USA,South Carolina,"Hilton Head Island, Beaufort County",Standing in inner tube,F,7,N,Unknown,"Bull shark, 3' to 4'",5748
-348,2014-10-12,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Body surfing or Boogie boarding,F,Unknown,N,15h30,Other,5747
-349,2014-10-11,Boat,AUSTRALIA,Western Australia,"Castle Rock, north of Dunsborough",Kayaking,M,Unknown,N,17h20,Other,5746
+348,2014-10-12,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Body surfing or Boogie boarding,F,-1,N,15h30,Other,5747
+349,2014-10-11,Boat,AUSTRALIA,Western Australia,"Castle Rock, north of Dunsborough",Kayaking,M,-1,N,17h20,Other,5746
 350,2014-10-05,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,29,N,11h30,Blacktip shark,5745
 351,2014-10-07,Unprovoked,USA,Florida,"Cherie Down Park, Brevard County",Fishing,F,40,N,Unknown,Other,5744
 352,2014-10-05,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,15,N,11h00,Blacktip shark,5743
-353,2014-10-03,Boat,USA,California,Santa Barbara County,Kayaking,M,Unknown,N,14h00,"White shark, 18' to 20'",5742
-354,2014-10-03,Boat,USA,California,Santa Barbara County,Kayaking,M,Unknown,N,11h30,White shark,5741
+353,2014-10-03,Boat,USA,California,Santa Barbara County,Kayaking,M,-1,N,14h00,"White shark, 18' to 20'",5742
+354,2014-10-03,Boat,USA,California,Santa Barbara County,Kayaking,M,-1,N,11h30,White shark,5741
 355,2014-10-02,Unprovoked,USA,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,M,28,N,17h30,8' to 10' shark,5740
 356,2014-10-02,Unprovoked,AUSTRALIA,Western Australia,"Kelpids Beach, Wylie Bay, Esperance",Surfing,M,23,N,11h00,"2 white shark: 13' & 9""8""",5739
-357,2014-09-21,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,Unknown,N,11h30,Other,5738
+357,2014-09-21,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,-1,N,11h30,Other,5738
 358,2014-09-12,Unprovoked,FRENCH POLYNESIA,Moorea,Tiahura Lagoon,Feeding fish,F,36,N,Unknown,Blacktip shark,5737
-359,2014-09-13,Invalid,USA,California,"Manresa State Beach, Santa Cruz County",Surfing,M,Unknown,N,18h45,No shark involvement,5736
+359,2014-09-13,Invalid,USA,California,"Manresa State Beach, Santa Cruz County",Surfing,M,-1,N,18h45,No shark involvement,5736
 360,2014-09-09,Unprovoked,AUSTRALIA,New South Wales,"Clarkes Beach, Byron Bay",Swimming,M,50,Y,10h45,7' shark,5735
 361,2014-09-06,Unprovoked,USA,Alabama,"Katrina Cut, Dauphin Island, Mobile County",Fishing,M,43,N,13h00,Bull shark,5734
 362,2014-09-03,Unprovoked,USA,Massachusetts,"Manomet Point, Plymouth, Plymouth County",Kayaking,F,20,N,18h00,"White shark, 12' to 14'",5733
@@ -366,17 +366,17 @@
 364,2020-09-14,Unprovoked,SPAIN,Catalonia,Salou,Playing with an air mattress,M,16,N,Unknown,Other,5731
 365,2014-08-31,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,F,13,N,16h40,Spinner shark,5730
 366,2014-08-29,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,17,N,Unknown,Spinner shark or blacktip shark,5729
-367,2014-08-29,Invalid,USA,Florida,"Atlantic Beach, Duval County",Unknown,Unknown,Unknown,N,16h18,Shark involvement not confirmed,5728
+367,2014-08-29,Invalid,USA,Florida,"Atlantic Beach, Duval County",Unknown,Unknown,-1,N,16h18,Shark involvement not confirmed,5728
 368,2014-08-28,Provoked,USA,Maryland,Assateague National Seashore,Fishing,M,33,N,Unknown,Other,5727
 369,2014-08-27,Unprovoked,SPAIN,Alicante,Benidorm,Swimming,F,30,N,Unknown,small shark,5726
 370,2014-08-27,Unprovoked,USA,North Carolina,"Figure Eight Island,  New Hanover County",Surfing,M,29,N,Unknown,4' to 6' shark,5725
-371,2014-08-27,Unprovoked,USA,South Carolina,"Surfside Beach, Horry  County",Standing,F,Unknown,N,15h00,Other,5724
-372,2014-08-25,Provoked,USA,Florida,Apalachicola Bay,Fishing for sharks,M,Unknown,N,Unknown,"Bull shark, 4.5' ",5723
-373,2014-08-24,Unprovoked,USA,North Carolina,"Off Masonboro Island, New Hanover County",Kite boarding,Unknown,Unknown,N,Unknown,4' shark,5722
+371,2014-08-27,Unprovoked,USA,South Carolina,"Surfside Beach, Horry  County",Standing,F,-1,N,15h00,Other,5724
+372,2014-08-25,Provoked,USA,Florida,Apalachicola Bay,Fishing for sharks,M,-1,N,Unknown,"Bull shark, 4.5' ",5723
+373,2014-08-24,Unprovoked,USA,North Carolina,"Off Masonboro Island, New Hanover County",Kite boarding,Unknown,-1,N,Unknown,4' shark,5722
 374,2014-08-16,Unprovoked,AUSTRALIA,Western Australia,Gnaraloo,Spearfishing,M,31,N,Unknown,reef shark,5721
-375,2014-08-12,Unprovoked,USA,Florida,"3 to 4 miles west of Indian Pass, Gulf County",Standing,M,Unknown,N,11h10," Bull shark, 8'",5720
+375,2014-08-12,Unprovoked,USA,Florida,"3 to 4 miles west of Indian Pass, Gulf County",Standing,M,-1,N,11h10," Bull shark, 8'",5720
 376,2014-08-10,Unprovoked,USA,Florida,"Hallandale Beach, Broward County",Unknown,M,26,N,Unknown,Other,5719
-377,2014-08-09,Unprovoked,BAHAMAS,Other,Other,Spearfishing,M,Unknown,N,Unknown,"Bull shark, 9' to 10'",5718
+377,2014-08-09,Unprovoked,BAHAMAS,Other,Other,Spearfishing,M,-1,N,Unknown,"Bull shark, 9' to 10'",5718
 378,2014-08-09,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Swimming,F,10,N,13h30,Other,5717
 379,2014-08-08,Unprovoked,USA,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",Swimming,M,7,N,Unknown," Bull shark, 5'",5716
 380,2014-08-06,Unprovoked,USA,South Carolina,"Folly Beach, Charleston County",Boogie boarding,M,10,N,14h00,4' tp 5' shark,5715
@@ -384,71 +384,71 @@
 382,2014-08-02,Unprovoked,USA,Florida,"South of Cocoa Beach, Brevard County",Surfing,M,50,N,Unknown,Other,5713
 383,2014-08-02,Unprovoked,USA,Florida,"Table Beach, Brevard County",Boogie boarding,M,8,N,13h00,Other,5712
 384,2014-08-01,Unprovoked,SOUTH AFRICA,Western Cape Province,Muizenberg,Surfing,M,20,N,14h00,White shark,5711
-385,2020-08-14,Invalid,Other,Other,Other,Sea disaster,M,Unknown,Y,Unknown,Shark involvement not confirmed,5710
+385,2020-08-14,Invalid,Other,Other,Other,Sea disaster,M,-1,Y,Unknown,Shark involvement not confirmed,5710
 386,2014-07-27,Unprovoked,USA,North Carolina,"Sunset Beach, Brunswick County",Swimming,M,15.0,N,Unknown,Possibly juvenile tiger shark,5709
 387,2014-07-22,Unprovoked,REUNION,Saint-Leu,Other,Surfing,M,51,N,15h00,1.8 metre shark,5708
 388,2014-07-21,Unprovoked,USA,Florida,"Indialantic, Brevard County",Standing,M,8,N,Unknown,Other,5707
-389,2014-07-20,Unprovoked,SPAIN,Canary Islands,"Teresita, Santa Cruz, Tenerife",Wading,Unknown,Unknown,N,Unknown,Angel shark,5706
+389,2014-07-20,Unprovoked,SPAIN,Canary Islands,"Teresita, Santa Cruz, Tenerife",Wading,Unknown,-1,N,Unknown,Angel shark,5706
 390,2014-07-16,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Swimming,M,61,N,17h50,6' to 8' shark,5705
 391,2014-07-14,Unprovoked,USA,Florida,Okaloosa Island,Swimming,M,39,N,14h30,4' shark,5704
 392,2014-07-13,Invalid,BAHAMAS,West End,Tiger Beach,Shark diving,M,63,Y,Unknown,Shark involvement not confirmed,5703
-393,2014-07-12,Unprovoked,USA,North Carolina,"Masonboro Island, New Hanover County",Body surfing,M,Unknown,N,Unknown,Other,5702
+393,2014-07-12,Unprovoked,USA,North Carolina,"Masonboro Island, New Hanover County",Body surfing,M,-1,N,Unknown,Other,5702
 394,2014-07-09,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,14,N,14h00,Other,5701
-395,2014-07-05,Provoked,USA,California,"Manhattan Beach, Los Angeles County",Swimming,M,Unknown,N,09h30," White shark, 7' ",5700
-396,2014-07-05,Unprovoked,USA,California,"Oceano Dunes State Beach, San Luis Obispo County",Surfing,M,Unknown,N,07h00,Other,5699
+395,2014-07-05,Provoked,USA,California,"Manhattan Beach, Los Angeles County",Swimming,M,-1,N,09h30," White shark, 7' ",5700
+396,2014-07-05,Unprovoked,USA,California,"Oceano Dunes State Beach, San Luis Obispo County",Surfing,M,-1,N,07h00,Other,5699
 397,2014-07-03,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Body surfing,M,19,N,18h15,4' to 5' shark,5698
 398,2014-06-27,Boat,ST. MARTIN,Other,20 miles from shore,Transatlantic Rowing,M,48,N,Unknown,Oceanic whitetip shark',5697
 399,2014-06-25,Unprovoked,BAHAMAS,Abaco Islands,Other,Spearfishing,M,42,N,13h00,"Caribbean reef shark, 7' to 8'",5696
-400,2014-06-18,Unprovoked,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",Surfing,M,Unknown,N,17h01,Other,5695
+400,2014-06-18,Unprovoked,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",Surfing,M,-1,N,17h01,Other,5695
 401,2014-06-18,Unprovoked,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",Body boarding,M,15,N,17h00,Other,5694
-402,2014-06-17,Provoked,AUSTRALIA,Western Australia,Horizontal Falls,Petting a shark,M,Unknown,N,Unknown," Lemon shark, 3.5 m",5693
+402,2014-06-17,Provoked,AUSTRALIA,Western Australia,Horizontal Falls,Petting a shark,M,-1,N,Unknown," Lemon shark, 3.5 m",5693
 403,2014-06-09,Unprovoked,BRAZIL,Other,500 km off the coast of Pernambuco,Fishing,M,43,N,Unknown,Other,5692
 404,2014-06-09,Unprovoked,USA,Delaware,"Cape Henlopen State Park, Sussex County",Standing,M,16,N,17h00," Sandbar shark, 3' to 4'",5691
 405,2014-06-09,Unprovoked,AUSTRALIA,South Australia,"Parsons Beach,  Fleurieu Peninsula",Body boarding,M,39,N,09h45,"Bronze whaler shark, 1.5m",5690
 406,2014-06-08,Unprovoked,JAPAN,Atsumi peninsula,Aichi,Surfing,M,43,N,Unknown,Other,5689
 407,2014-06-07,Unprovoked,USA,Texas,"West Beach, Galveston",Kneeling in the water,F,14,N,Unknown,Other,5688
 408,2014-06-01,Unprovoked,USA,Florida,Fort Lauderdale,Swimming,F,22,N,13h30,Bull shark,5687
-409,2014-06-01,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",Surfing,M,Unknown,N,Unknown,Other,5686
+409,2014-06-01,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",Surfing,M,-1,N,Unknown,Other,5686
 410,2014-06-01,Unprovoked,USA,Palmyra Atoll,Other,Tagging sharks,F,37,N,Unknown,Blacktip Reef shark,5685
 411,2014-05-24,Unprovoked,AUSTRALIA,Queensland,Nerang River near Chevron Island,Fell into the water,F,29,N,Unknown," Bull shark, 1.2m ",5684
-412,2014-05-23,Unprovoked,FRANCE,Wallis and Futuna,Wallis Island,Scuba diving,M,Unknown,N,Unknown,3m shark,5683
+412,2014-05-23,Unprovoked,FRANCE,Wallis and Futuna,Wallis Island,Scuba diving,M,-1,N,Unknown,3m shark,5683
 413,2014-05-22,Provoked,AUSTRALIA,New South Wales,The Australian Shark and Ray Centre,Teasing a shark,M,10,N,Unknown," Tawney nurse shark, 1m",5682
-414,2015-11-16,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,M,Unknown,N,Unknown,Other,5681
+414,2015-11-16,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,M,-1,N,Unknown,Other,5681
 415,2014-05-15,Unprovoked,USA,Florida,"Juan Ponce de León Landing, Melbourne Beach, Brevard County",Body boarding,F,38,N,11h30,Other,5680
 416,2014-05-14,Unprovoked,AUSTRALIA,South Australia,"Elliston, Eyre Peninsula",Surfing,M,35,N,09h30," white shark, 15' ",5679
 417,2014-05-13,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Wading,F,44,N,11h00,Other,5678
 418,2014-05-11,Unprovoked,USA,Georgia,"Tybee Island, Chatham County",Surfing,M,12,N,Unknown,Shark involvement not confirmed,5677
-419,2014-05-10,Invalid,USA,Florida,"Bethel Shoals, Indian River County",Diving,M,Unknown,N,Unknown,No shark involvement,5676
+419,2014-05-10,Invalid,USA,Florida,"Bethel Shoals, Indian River County",Diving,M,-1,N,Unknown,No shark involvement,5676
 420,2014-05-06,Unprovoked,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,F,40,N,15h00,4' to 5' shark,5675
-421,2014-05-04,Unprovoked,SOUTH AFRICA,Western Cape Province,Simonstown,Diving,Unknown,Unknown,N,Unknown,Cow shark,5674
+421,2014-05-04,Unprovoked,SOUTH AFRICA,Western Cape Province,Simonstown,Diving,Unknown,-1,N,Unknown,Cow shark,5674
 422,2014-05-01,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,23,N,15h00,3' shark,5673
-423,2014-04-24,Unprovoked,AUSTRALIA,Western Australia,"South Passage, south of Coral Bay",Spearfishing,M,Unknown,N,Unknown,reef shark?,5672
+423,2014-04-24,Unprovoked,AUSTRALIA,Western Australia,"South Passage, south of Coral Bay",Spearfishing,M,-1,N,Unknown,reef shark?,5672
 424,2014-04-22,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,M,42,N,15h30,Other,5671
 425,2014-04-15,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,M,25,N,09h57,Other,5670
-426,2014-04-12,Boat,SOUTH AFRICA,Other,Other,Shark watching,Unknown,Unknown,N,Unknown,White shark,5669
-427,2014-04-12,Provoked,SOUTH AFRICA,Eastern Cape Province,Port Alfred,Fishing,M,Unknown,N,Unknown," Raggedtooth shark, 2m",5668
+426,2014-04-12,Boat,SOUTH AFRICA,Other,Other,Shark watching,Unknown,-1,N,Unknown,White shark,5669
+427,2014-04-12,Provoked,SOUTH AFRICA,Eastern Cape Province,Port Alfred,Fishing,M,-1,N,Unknown," Raggedtooth shark, 2m",5668
 428,2014-04-04,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,15.0,N,13h50,Other,5667
 429,2014-04-04,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,15.0,N,13h30,Other,5666
 430,2014-04-03,Unprovoked,AUSTRALIA,New South Wales,Tathra,Swimming,F,63,Y,08h20,3 m to 4 m white shark,5665
 431,2014-03-29,Invalid,AUSTRALIA,Western Australia,Off Dawesville Cut,Diving for lobsters,M,38,Y,13h30,Other,5664
 432,2014-03-22,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St Johns",Swimming,M,66,Y,15h00,2 m shark,5663
-433,2014-03-22,Unprovoked,USA,Florida,Delray Beach,Kite Surfing,M,Unknown,N,Unknown,4' to 5' shark,5662
+433,2014-03-22,Unprovoked,USA,Florida,Delray Beach,Kite Surfing,M,-1,N,Unknown,4' to 5' shark,5662
 434,2014-03-21,Unprovoked,USA,Florida,Macarthur State Park,Surfing,M,9,N,Unknown,Other,5661
 435,2014-03-18,Unprovoked,NEW CALEDONIA,Baie de Sainte-Marie,Other,Kite Surfing,M,42,N,17h58,Other,5660
 436,2014-03-18,Unprovoked,AUSTRALIA,Victoria,Winkipop Beach,Surfing,M,42,N,Unknown,Other,5659
 437,2014-03-18,Invalid,AUSTRALIA,New South Wales,Lennox Head,Unknown,F,10,N,17h00,No shark involvement,5658
-438,2014-03-12,Unprovoked,AUSTRALIA,New South Wales,Lighthouse Beach,Swimming,M,Unknown,N,18h00,Wobbegong shark,5657
-439,2014-03-13,Invalid,CAYMAN ISLANDS,Other,Other,Scuba diving / culling lionfish,M,Unknown,N,Unknown,Other,5656
+438,2014-03-12,Unprovoked,AUSTRALIA,New South Wales,Lighthouse Beach,Swimming,M,-1,N,18h00,Wobbegong shark,5657
+439,2014-03-13,Invalid,CAYMAN ISLANDS,Other,Other,Scuba diving / culling lionfish,M,-1,N,Unknown,Other,5656
 440,2014-03-02,Unprovoked,USA,Florida,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",Surfing,M,21,N,Unknown,Blacktip or spinner shark?,5655
 441,2014-02-20,Unprovoked,FRENCH POLYNESIA,Society Islands,Huahine,Kitesurfing,M,21,N,16h00,Blacktip reef shark,5654
 442,2014-02-17,Boat,PAPUA NEW GUINEA,Other,Other,Sailing,M,21,N,Unknown,Other,5653
 443,2014-02-08,Unprovoked,AUSTRALIA,South Australia,"Goldsmith Beach, Yorke Peninsula",Spearfishing / Free diving,M,28,Y,12h00,Other,5652
-444,2014-02-07,Provoked,TRINIDAD & TOBAGO,Trinidad,Other,Fishing,M,Unknown,N,Unknown,Other,5651
+444,2014-02-07,Provoked,TRINIDAD & TOBAGO,Trinidad,Other,Fishing,M,-1,N,Unknown,Other,5651
 445,2014-02-07,Unprovoked,NEW ZEALAND,South Island,Porpoise Bay,Surfing,M,28,N,20h30,7-gill shark?,5650
-446,2014-01-26,Provoked,AUSTRALIA,New South Wales,Umina Beach,Fishing,M,Unknown,N,Unknown,1m shark,5649
+446,2014-01-26,Provoked,AUSTRALIA,New South Wales,Umina Beach,Fishing,M,-1,N,Unknown,1m shark,5649
 447,2014-01-25,Unprovoked,NEW ZEALAND,South Island,Garden Bay near Cosy Nook,Spearfishing,M,24,N,Unknown,7-gill shark,5648
 448,2014-01-04,Sea Disaster,JAPAN,Okinawa Prefecture,Off Miyako Island,Sea disaster,M,31,N,Unknown,Other,5647
-449,1905-07-06,Boat,NEW ZEALAND,Other,Stewart Island,Filming a documentary,Unknown,Unknown,N,Unknown,"White shark, 6 m",5646
+449,1905-07-06,Boat,NEW ZEALAND,Other,Stewart Island,Filming a documentary,Unknown,-1,N,Unknown,"White shark, 6 m",5646
 450,2013-12-25,Unprovoked,NEW CALEDONIA,North Province,"Lindéralique, Hienghène",Snorkeling,M,37,N,11h00,Reported to involve a bull shark,5645
 451,2013-12-16,Unprovoked,SOUTH AFRICA,Western Cape Province,Die Platt,Surfing,M,19,N,08h45,"White shark, 3m ",5644
 452,2013-12-13,Unprovoked,KIRIBATI,740 miles SE of Tarawa Atoll,Other,Attempting to remove fishing net from submerged object,M,35,N,Unknown,Other,5643
@@ -460,14 +460,14 @@
 458,2013-11-29,Unprovoked,USA,Hawaii,"Keawekapu Beach, Kihei, Maui",Snorkeling,F,58,N,13h00,Other,5637
 459,2013-11-23,Unprovoked,AUSTRALIA,Western Australia,Gracetown,Surfing,M,35,Y,09h00,Thought to involve a white shark,5636
 460,2013-11-22,Unprovoked,USA,Oregon,"Gleneden Beach, Lincoln County",Surfing,M,25,N,10h30,"White shark, 10 '",5635
-461,2013-11-12,Unprovoked,AUSTRALIA,Western Australia,"Trigg Beach, Perth",Surfing,M,Unknown,N,15h00,Reported to involve a white shark,5634
+461,2013-11-12,Unprovoked,AUSTRALIA,Western Australia,"Trigg Beach, Perth",Surfing,M,-1,N,15h00,Reported to involve a white shark,5634
 462,2013-11-10,Provoked,BAHAMAS,Other,Off Cape Eleuthera,Shark fishing,M,77,N,11h00,Other,5633
 463,2013-11-07,Unprovoked,USA,New Jersey,"Bay Head, Ocean County",Body boarding,M,16,N,Unknown,Other,5632
-464,2013-11-07,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,M,Unknown,N,Unknown,Other,5631
+464,2013-11-07,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,M,-1,N,Unknown,Other,5631
 465,2013-10-31,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Kiteboarding,M,46,N,15h19,Tiger shark,5630
 466,2013-10-28,Unprovoked,AUSTRALIA,Western Australia,Turquoise Bay,Snorkeling,F,60,N,Unknown,"Blacktip reef shark, 1m",5629
 467,2013-10-26,Unprovoked,REUNION,d’Étang-Salé,Ravine Mula,Body boarding,M,24,N,16h30,Thought to involve a bull shark,5628
-468,2013-10-26,Unprovoked,AUSTRALIA,Western Australia,"Little Island, near Hillarys",Diving for crayfish,M,Unknown,N,10h55,Reported to involve a 4 m white shark,5627
+468,2013-10-26,Unprovoked,AUSTRALIA,Western Australia,"Little Island, near Hillarys",Diving for crayfish,M,-1,N,10h55,Reported to involve a 4 m white shark,5627
 469,2013-10-24,Unprovoked,AUSTRALIA,New South Wales,South Narrabeen Beach,Surfing,M,41,N,18h15,Wobbegong shark,5626
 470,2013-10-23,Unprovoked,USA,Hawaii,"Waiehu, Maui",Diving,M,45,N,15h55,"Whitetip reef shark, 4' to 6'",5625
 471,2013-10-20,Unprovoked,USA,Hawaii,"Pila'a Beach, Kaua'i",Surfing,M,25,N,11h00,Tiger shark,5624
@@ -480,33 +480,33 @@
 478,2013-09-29,Provoked,ISRAEL,Southern District,Ashdod,Diving,M,27,N,11h30,Other,5617
 479,2013-09-25,Unprovoked,USA,Florida,"Panama City, Bay County",Standing,M,7,N,10h30,Other,5616
 480,2013-09-21,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,M,45,N,13h00,Other,5615
-481,2013-09-21,Unprovoked,USA,Florida,"Carlin Park, Jupiter, Palm Beach County",Surfing,M,Unknown,N,Unknown,Other,5614
+481,2013-09-21,Unprovoked,USA,Florida,"Carlin Park, Jupiter, Palm Beach County",Surfing,M,-1,N,Unknown,Other,5614
 482,2013-09-14,Unprovoked,USA,Florida,"Casino Beach, Pensacola, Escambia County",Swimming,M,21,N,15h30,Bull shark,5613
 483,2013-09-12,Unprovoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,F,13,N,13h00,3' shark,5612
-484,2013-09-08,Unprovoked,USA,South Carolina,"St. Helena Island, Beaufort County",Unknown,F,Unknown,Unknown,Unknown,Other,5611
+484,2013-09-08,Unprovoked,USA,South Carolina,"St. Helena Island, Beaufort County",Unknown,F,-1,Unknown,Unknown,Other,5611
 485,2013-09-07,Provoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,M,43,N,16h00,3' shark,5610
 486,2013-09-07,Unprovoked,USA,Florida,"New Smyrna Beach,  Volusia County",Standing,M,25,N,16h00,3' shark,5609
 487,2013-09-02,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,M,17,N,13h00,Other,5608
 488,2013-09-01,Provoked,USA,Florida,Key West Aquarium,Unknown,M,3,N,Unknown,Nurse shark,5607
-489,2013-09-01,Unprovoked,BAHAMAS,Other,Other,Unknown,M,Unknown,N,Unknown,Other,5606
+489,2013-09-01,Unprovoked,BAHAMAS,Other,Other,Unknown,M,-1,N,Unknown,Other,5606
 490,2013-09-01,Unprovoked,USA,Florida,"St Augustine Beach, St Johns County",Casting a net,M,9,N,12h00,4' shark,5605
-491,2013-08-31,Unprovoked,BAHAMAS,Other,Freetown Beach,Spearfishing,M,Unknown,N,Unknown,Blacktip shark,5604
-492,2013-08-31,Unprovoked,USA,California,"Butterfly Beach, Montecito, Santa Barbara County",Swimming,M,Unknown,N,23h00,Salmon shark,5603
+491,2013-08-31,Unprovoked,BAHAMAS,Other,Freetown Beach,Spearfishing,M,-1,N,Unknown,Blacktip shark,5604
+492,2013-08-31,Unprovoked,USA,California,"Butterfly Beach, Montecito, Santa Barbara County",Swimming,M,-1,N,23h00,Salmon shark,5603
 493,2013-08-29,Invalid,USA,California,Catalina Channel,Marathon swimming,F,47,N,Unknown,No shark involvement,5602
 494,2013-08-26,Provoked,FRANCE,Bay of Biscay,Other,Longline fishing for sharks,M,50,N,20h30,"Mako shark, 5'",5601
 495,2013-08-25,Unprovoked,USA,Florida,"Winterhaven Park,           Ponce Inlet, Volusia County",Boogie boarding,F,11,N,17h00,Other,5600
-496,2013-08-25,Unprovoked,AUSTRALIA,New South Wales,Smiths,Wrangling a shark,M,Unknown,N,15h00,Other,5599
+496,2013-08-25,Unprovoked,AUSTRALIA,New South Wales,Smiths,Wrangling a shark,M,-1,N,15h00,Other,5599
 497,2013-08-18,Unprovoked,USA,Hawaii,Pohoiki,Surfing,M,16,N,13h00,Other,5598
-498,2013-08-17,Unprovoked,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,F,Unknown,N,12h40,White shark,5597
+498,2013-08-17,Unprovoked,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,F,-1,N,12h40,White shark,5597
 499,2013-08-14,Unprovoked,USA,Hawaii,"Makenat, Maui",Snorkeling,F,20,Y,16h30,Tiger shark?,5596
 500,2013-08-13,Unprovoked,USA,Hawaii,"Ka'a Point, Maui",Kiteboarding,F,19,N,13h55,Other,5595
 501,2013-08-11,Unprovoked,USA,South Carolina,Folly Beach,Surfing,M,10,N,17h30,"Bull shark, 8'",5594
-502,2013-08-08,Unprovoked,SOUTH AFRICA,Other,Other,Attempting to free the shark,M,Unknown,N,Unknown,Blacktip shark,5593
+502,2013-08-08,Unprovoked,SOUTH AFRICA,Other,Other,Attempting to free the shark,M,-1,N,Unknown,Blacktip shark,5593
 503,2013-08-05,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Fishing,M,17,N,15h00,"Bull shark, 6' to 8'",5592
 504,2013-07-31,Unprovoked,USA,Hawaii,"Ulua Beach, Maui",Snorkeling,F,56,N,08h45,Other,5591
 505,2013-07-30,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,M,32,N,Unknown,Other,5590
 506,2013-07-28,Unprovoked,BAHAMAS,Abaco Islands,Scotland Cay,Spearfishing,M,40,N,16h05,6' shark,5589
-507,2013-07-29,Unprovoked,MEXICO,Quintana Roo,Other,Wading,F,Unknown,N,11h00,Other,5588
+507,2013-07-29,Unprovoked,MEXICO,Quintana Roo,Other,Wading,F,-1,N,11h00,Other,5588
 508,2013-07-29,Unprovoked,USA,Hawaii,"White Plains Beach, Oahu",Surfing,M,18,N,14h10,"Tiger shark, 8' to 10' ",5587
 509,2013-07-28,Unprovoked,BAHAMAS,Exuma Islands,Compass Cay,Cleaning fish,M,64,N,16h45,Nurse shark,5586
 510,2013-07-28,Unprovoked,BAHAMAS,Abaco Islands,Grand Cay,Diving,M,50,N,11h15,Other,5585
@@ -518,18 +518,18 @@
 516,2013-07-11,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Wading,F,63,N,15h20,Other,5579
 517,2013-07-07,Invalid,SPAIN,Catalonia,"Sant Marti d’Empuries Beach, L’Escala",Swimming,M,48,N,Unknown,Shark involvement not confirmed,5578
 518,2013-07-02,Unprovoked,AUSTRALIA,Victoria,"Flinders, Mornington Penisula",Body surfing,M,29,N,Unknown,Other,5577
-519,2013-06-30,Unprovoked,TAIWAN,Taitung,Other,Fishing,M,Unknown,N,Unknown,Other,5576
+519,2013-06-30,Unprovoked,TAIWAN,Taitung,Other,Fishing,M,-1,N,Unknown,Other,5576
 520,2013-06-27,Invalid,JAMAICA,Kingston Parish,Port Royal,Unknown,M,20,Y,Unknown,Other,5575
-521,2013-06-25,Unprovoked,USA,California,"Pacific State , San Mateo County",Kayaking / Fishing,M,Unknown,N,15h30,White shark,5574
-522,2013-06-25,Unprovoked,USA,Florida,"Jacksonville, Duval County",Swimming,M,Unknown,N,Unknown,"Possibly a Bull shark, 3'",5573
+521,2013-06-25,Unprovoked,USA,California,"Pacific State , San Mateo County",Kayaking / Fishing,M,-1,N,15h30,White shark,5574
+522,2013-06-25,Unprovoked,USA,Florida,"Jacksonville, Duval County",Swimming,M,-1,N,Unknown,"Possibly a Bull shark, 3'",5573
 523,2013-06-25,Unprovoked,USA,South Carolina,"Kiawah Island, Charleston County",Swimming,M,14,N,12h45,4' to 5' shark,5572
 524,2013-06-18,Unprovoked,USA,Hawaii,Kona Coast State Park,Swimming,M,28,N,12h50,"Tiger shark, 14'",5571
 525,2013-06-17,Unprovoked,USA,Texas,"Surfside Beach, Brazoria County",Swimming,M,15,N,14h45,Other,5570
-526,2013-06-16,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Queensberry Bay,Surfing,M,Unknown,N,Unknown,Other,5569
-527,2013-06-15,Unprovoked,USA,Florida,"Atlantic Beach, Duval County",Surfing,F,Unknown,N,Unknown,Other,5568
+526,2013-06-16,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Queensberry Bay,Surfing,M,-1,N,Unknown,Other,5569
+527,2013-06-15,Unprovoked,USA,Florida,"Atlantic Beach, Duval County",Surfing,F,-1,N,Unknown,Other,5568
 528,2013-06-14,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,F,10,N,Unknown,4' to 5' shark,5567
 529,2013-06-06,Provoked,USA,Florida,"Off Snipe Point, Florida Keys, Monroe County",Fishing for sharks,M,58,N,Unknown,"Lemon shark, 4'",5566
-530,2013-06-06,Unprovoked,AUSTRALIA,New South Wales,Target Beach,Surfing,M,Unknown,N,16h00,6' shark,5565
+530,2013-06-06,Unprovoked,AUSTRALIA,New South Wales,Target Beach,Surfing,M,-1,N,16h00,6' shark,5565
 531,2013-05-27,Unprovoked,USA,Hawaii,"Halewia, Oahu",Diving,M,32,N,Unknown,Galapagos shark,5564
 532,2013-05-27,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,M,11,N,Unknown,Other,5563
 533,2013-05-23,Unprovoked,BRAZIL,Pernambuco,Coral Cove Beach,Unknown,M,41,Y,Unknown,Other,5562
@@ -538,11 +538,11 @@
 536,2013-05-08,Invalid,USA,California,"Tourmaline Surf Park, San Diego County",Surfing,M,42,Y,Unknown,Other,5559
 537,2013-05-08,Unprovoked,REUNION,Saint-Gilles,Brisant Beach,Body boarding,M,36,Y,08h20,Bull shark,5558
 538,2013-05-04,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,16,N,11h15,a small shark,5557
-539,2013-04-28,Provoked,AUSTRALIA,New South Wales,Emerald Beach,Fishing,M,Unknown,N,Unknown,"Wobbegong, 2m",5556
+539,2013-04-28,Provoked,AUSTRALIA,New South Wales,Emerald Beach,Fishing,M,-1,N,Unknown,"Wobbegong, 2m",5556
 540,2013-04-24,Unprovoked,MEXICO,Quintana Roo,"Seagull Beach, Cancun",Swimming,F,34,N,13h40,Tiger shark,5555
 541,2013-04-21,Unprovoked,AUSTRALIA,New South Wales,Crowdy Head,Fishing,M,51,N,14h00,"Grey nurse shark, 3m",5554
 542,2013-04-17,Unprovoked,USA,Florida,"Near Boynton Beach, Palm Beach County",Playing in the surf,M,9,N,10h30,3' shark,5553
-543,2013-04-14,Unprovoked,SOUTH AFRICA,Western Cape Province,False Bay,Free diving,M,Unknown,N,Unknown,Blue shark,5552
+543,2013-04-14,Unprovoked,SOUTH AFRICA,Western Cape Province,False Bay,Free diving,M,-1,N,Unknown,Blue shark,5552
 544,2013-04-13,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,21,N,13h30,Bull shark,5551
 545,2013-04-13,Unprovoked,GUAM,Other,Other,Unknown,M,40,Y,Unknown,Other,5550
 546,2013-04-10,Unprovoked,FRENCH POLYNESIA,Tuamotus,"North Pass, Fakarava",Kite boarding,M,53,N,12h00,Possibly a blacktip reef shark,5549
@@ -551,27 +551,27 @@
 549,2013-04-02,Unprovoked,USA,Hawaii,Ka’anapali Shores,Surfing,M,58,N,08h30,4' shark,5546
 550,2013-03-31,Invalid,AUSTRALIA,New South Wales,Terrigal Beach,Surfing,M,47,N,Unknown,No shark involvement,5545
 551,2013-03-29,Unprovoked,SEYCHELLES,Other,Ile Platte,Free diving,M,34,N,Unknown,Other,5544
-552,2013-03-21,Unprovoked,BELIZE,Other,Other,Snorkeling,F,Unknown,N,Unknown,Nurse shark,5543
+552,2013-03-21,Unprovoked,BELIZE,Other,Other,Snorkeling,F,-1,N,Unknown,Nurse shark,5543
 553,2013-03-21,Unprovoked,BAHAMAS,Eleuthera,Savannah Sound,Fly fishing,M,50,N,Unknown,Other,5542
 554,2013-03-16,Provoked,SOUTH AFRICA,Western Cape Province,De Mond,Fishing - 'tag & release',M,30,N,09h00,"Raggedtooth shark, 1.5 m",5541
-555,2013-03-16,Unprovoked,SOUTH AFRICA,Western Cape Province,Hawston Beach,Surfing,M,Unknown,N,Unknown,Other,5540
+555,2013-03-16,Unprovoked,SOUTH AFRICA,Western Cape Province,Hawston Beach,Surfing,M,-1,N,Unknown,Other,5540
 556,2013-03-12,Unprovoked,JAMAICA,St. Catherine,Pillikin Red Light area,Spearfishing,M,68,Y,09h00,"Tiger shark, 4.8 m",5539
 557,2013-03-10,Unprovoked,AUSTRALIA,Western Australia,African Reef off Geraldton,Spearfishing,M,28,N,09h00,"Bronze whaler shark, 2.5m",5538
 558,2013-03-10,Unprovoked,PHILIPPINES,Palawan,Off Likas Island,Swimming to shore with floatioon devices after boat engine conked out,M,27.0,N,Unknown,"""small sharks""",5537
 559,2013-03-03,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Swimming,M,39,N,Unknown,Other,5536
 560,2013-02-27,Unprovoked,NEW ZEALAND,North Island,Muriwai,Swimming,M,46,Y,13h24,"White shark, 4m",5535
-561,2013-02-21,Unprovoked,USA,Hawaii,"Ka'anapali, Honokowai, Maui",Surfing,Unknown,Unknown,N,18h00,reef shark?,5534
-562,2013-02-21,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Surfing,M,Unknown,N,18h00,reef shark?,5533
+561,2013-02-21,Unprovoked,USA,Hawaii,"Ka'anapali, Honokowai, Maui",Surfing,Unknown,-1,N,18h00,reef shark?,5534
+562,2013-02-21,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Surfing,M,-1,N,18h00,reef shark?,5533
 563,2013-02-10,Unprovoked,USA,Florida,"""Stuart Rocks"", Martin County",Surfing,M,16,N,14h00,"Blacktip shark, 4' to 5'",5532
 564,2013-02-09,Unprovoked,FRENCH POLYNESIA,Society Islands,"Tapu, a dive site on the outer reefs of Bora Bora",Scuba diving,M,48,N,09h00,Lemon shark,5531
 565,2013-02-01,Unprovoked,JAMAICA,Kingston Parish,Pedro Cays,Unknown,M,18,N,Unknown,Other,5530
-566,2013-01-26,Boat,AUSTRALIA,Victoria,Cape Nelson,Fishing,M,Unknown,N,Unknown,"White shark, 5m",5529
-567,2013-01-25,Unprovoked,AUSTRALIA,Queensland,Noosa,Surfing,M,Unknown,N,Unknown,Other,5528
+566,2013-01-26,Boat,AUSTRALIA,Victoria,Cape Nelson,Fishing,M,-1,N,Unknown,"White shark, 5m",5529
+567,2013-01-25,Unprovoked,AUSTRALIA,Queensland,Noosa,Surfing,M,-1,N,Unknown,Other,5528
 568,2013-01-21,Invalid,AUSTRALIA,Queensland,Bullcock Beach,Dragging stranded shark into deeper water,M,62,N,Unknown,Other,5527
 569,2013-01-16,Unprovoked,USA,Hawaii,Kiholo Bay,Surfing,M,43,N,16h30,"Tiger shark, 15'",5526
-570,2013-01-13,Unprovoked,NEW ZEALAND,Mercury Islands,Great Mercury Island,Spearfishing,M,Unknown,N,Unknown,"Bronze whaler shark, 3m",5525
+570,2013-01-13,Unprovoked,NEW ZEALAND,Mercury Islands,Great Mercury Island,Spearfishing,M,-1,N,Unknown,"Bronze whaler shark, 3m",5525
 571,2013-01-05,Unprovoked,AUSTRALIA,Western Australia,Near Legendre Island,Spearfishing / Free diving,M,26,N,10h00,Other,5524
-572,2012-12-31,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Swimming,M,Unknown,N,14h00,Other,5523
+572,2012-12-31,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Swimming,M,-1,N,14h00,Other,5523
 573,2012-12-30,Unprovoked,AUSTRALIA,New South Wales,Between Dee Why and Long Reef,Surfing,M,23,N,12h45,2.5 m shark,5522
 574,2012-12-28,Unprovoked,AUSTRALIA,New South Wales,"Kylie's Beach, Diamond Head",Paddle boarding,M,29,N,10h45,"Bull shark, 2m ",5521
 575,2012-12-25,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Swimming,M,20,Y,Unknown,Tiger shark,5520
@@ -591,7 +591,7 @@
 589,2012-10-19,Unprovoked,USA,Florida,"Seaport, Brevard County",Unknown,F,35,N,Unknown,Other,5506
 590,2012-10-18,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,24,N,10h30,Other,5505
 591,2012-10-18,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Paddle boarding,M,55,N,07h30,6' to 8' shark,5504
-592,2012-10-16,Invalid,USA,Florida,Hobe Sound,Unknown,M,Unknown,N,17h00,Shark involvement not confirmed,5503
+592,2012-10-16,Invalid,USA,Florida,Hobe Sound,Unknown,M,-1,N,17h00,Shark involvement not confirmed,5503
 593,2012-10-11,Unprovoked,NIGERIA,Delta,Oboro,Bathing,F,38,N,Unknown,Other,5502
 594,2012-10-10,Unprovoked,USA,California,"Davenport Landing, Santa Cruz County",Windsurfing,M,42,N,18h30,Other,5501
 595,2012-10-02,Unprovoked,AUSTRALIA,Western Australia,"Mullaloo Beach, Perth",Bodyboarding,M,11,N,12h00,2m shark,5500
@@ -601,21 +601,21 @@
 599,2012-09-10,Unprovoked,TONGA,Vava'u,Eueiki Island,Swimming,F,29,N,Unknown,Possibly a 3 m bull shark,5496
 600,2012-09-09,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Unknown,19,N,14h20,Other,5495
 601,2012-09-08,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Surfing,M,25,N,12h00,Other,5494
-602,2012-09-08,Unprovoked,USA,Florida,"South Beach, Miami-Dade County",Swimming,M,Unknown,N,Unknown,Other,5493
+602,2012-09-08,Unprovoked,USA,Florida,"South Beach, Miami-Dade County",Swimming,M,-1,N,Unknown,Other,5493
 603,2012-09-06,Unprovoked,USA,Florida,"Neptune Beach, Duval County",Surfing,M,30,N,Unknown,Other,5492
 604,2012-09-06,Unprovoked,USA,Florida,"St. Augustine Beach, St. John's County",Surfing,M,37,N,11h30,Other,5491
 605,2012-09-04,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,32,N,07h56,Other,5490
 606,2012-09-02,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,F,8,N,18h30,3.5' to 4' shark,5489
-607,2012-09-02,Provoked,USA,Hawaii,"Spreckelsville, Maui",Spearfishing,Unknown,Unknown,N,12h00,"Tiger shark, 10' to 12' ",5488
+607,2012-09-02,Provoked,USA,Hawaii,"Spreckelsville, Maui",Spearfishing,Unknown,-1,N,12h00,"Tiger shark, 10' to 12' ",5488
 608,2012-09-02,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming or boogie boarding,F,56,N,16h30,3.5' to 4' shark,5487
 609,2012-08-31,Provoked,SCOTLAND,Inner Hebrides,Off the Isle of Islay,Shark fishing,M,53,N,Unknown,"Porbeagle shark, 7'",5486
 610,2012-08-28,Unprovoked,AUSTRALIA,Western Australia,Red Bluff near Quobba Station,Surfing,M,34,N,15h30,Other,5485
 611,2012-08-26,Unprovoked,BRAZIL,Pernambuco,"Coral Cove, Cabo de Santo Agostinho",Swimming,M,18,Y,Unknown,Other,5484
 612,2012-08-15,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Wading or swimming,M,31,N,Unknown,Other,5483
-613,2012-08-11,Boat,AUSTRALIA,Western Australia,Ocean Reef,Fishing,Unknown,Unknown,N,12h00,4.5 m shark,5482
+613,2012-08-11,Boat,AUSTRALIA,Western Australia,Ocean Reef,Fishing,Unknown,-1,N,12h00,4.5 m shark,5482
 614,2012-08-08,Unprovoked,USA,Florida,Key Largo,Free diving,M,56,N,16h00,"Lemon shark, 4' to 5' ",5481
 615,2012-08-06,Unprovoked,REUNION,Saint Leu,Other,Surfing,M,39,N,17h17,Bull shark,5480
-616,2012-08-04,Unprovoked,FRENCH POLYNESIA,Tuamotus,Kaukura Atoll,Spearfishing,M,Unknown,N,Unknown,"Lemon shark, 2.5m to 3m ",5479
+616,2012-08-04,Unprovoked,FRENCH POLYNESIA,Tuamotus,Kaukura Atoll,Spearfishing,M,-1,N,Unknown,"Lemon shark, 2.5m to 3m ",5479
 617,2012-07-31,Unprovoked,USA,California,"Topanga Beach, Los Angeles County",Surfing,M,17,N,06h45,Other,5478
 618,2012-07-31,Unprovoked,AUSTRALIA,South Australia,Streaky Bay,Surfing,M,48,N,14h40,White shark or bronze whaler,5477
 619,2012-07-30,Unprovoked,USA,Hawaii,"Maha‘ulepu Beach, Kauai",Surfing,M,44,N,16h35,Other,5476
@@ -626,7 +626,7 @@
 624,2012-07-19,Invalid,CANADA,British Colombia,"Tofino, Vancouver",Surfing,F,23,N,Unknown,"Salmon shark suspected, but unlikely",5471
 625,2012-07-14,Unprovoked,AUSTRALIA,Western Australia,Off Wedge Island,Surfing,M,24,Y,09h05,"White shark, 5m",5470
 626,2012-07-08,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Swimming,F,43,N,17h30,Other,5469
-627,2012-07-07,Unprovoked,BAHAMAS,Eleuthera,Other,Spearfishing,M,Unknown,N,Unknown,Other,5468
+627,2012-07-07,Unprovoked,BAHAMAS,Eleuthera,Other,Spearfishing,M,-1,N,Unknown,Other,5468
 628,2012-07-07,Invalid,AUSTRALIA,Victoria,Ship's Graveyard off Point Lonsdale,Scuba diving,F,42,Y,15h00,Other,5467
 629,2012-07-07,Unprovoked,USA,California,"Pleasure Point, Santa Cruz County",Kayaking,M,52,N,08h30,14' to 18'shark,5466
 630,2012-07-06,Unprovoked,SOUTH AFRICA,Western Cape Province,"Sandstrand, Jongensfontein",Surfing,M,29,N,16h30,15' shark,5465
@@ -634,15 +634,15 @@
 632,2012-06-26,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Swimming,M,6,N,19h00,possibly a bull shark,5463
 633,2012-06-26,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,26,N,15h00,Other,5462
 634,2012-06-26,Unprovoked,USA,Hawaii,"Kahana Beach, Maui",Sitting in the water,F,16,N,09h45,a small reef shark,5461
-635,2012-06-22,Unprovoked,AUSTRALIA,Tasmania,South Cape Bay,Surfing,M,Unknown,N,Unknown,Other,5460
+635,2012-06-22,Unprovoked,AUSTRALIA,Tasmania,South Cape Bay,Surfing,M,-1,N,Unknown,Other,5460
 636,2012-06-22,Unprovoked,USA,Florida,"Bathtub Reef  Beach, Stuart, Martin County",Swimming,M,12,N,16h30,Other,5459
 637,2012-06-20,Unprovoked,AUSTRALIA,Western Australia,"Mullaloo Beach, Perth",Surf skiing,M,62,N,07h15,3 m shark,5458
 638,2012-06-19,Invalid,USA,South Carolina,"Myrtle Beach, Horry County",Standing,M,16,N,Unknown,No shark involvement,5457
 639,2012-06-18,Unprovoked,USA,North Carolina,"Ocean Isle, Brunswick County",Wading,F,6,N,11h00,Other,5456
 640,2012-06-15,Provoked,USA,Florida,"Summerland Key, Monroe County",Fishing,M,23,N,14h20,Nurse shark,5455
 641,2012-06-14,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,F,18,N,Unknown,small blacktip shark?,5454
-642,2012-06-14,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,Unknown,N,Unknown,Shark involvement not confirmed,5453
-643,2012-06-14,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,Unknown,N,Unknown,small blacktip shark?,5452
+642,2012-06-14,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,-1,N,Unknown,Shark involvement not confirmed,5453
+643,2012-06-14,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,-1,N,Unknown,small blacktip shark?,5452
 644,2012-06-14,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,16,N,13h20,Blacktip shark,5451
 645,2012-06-12,Unprovoked,AUSTRALIA,Victoria,Port Campbell,Surfing,M,42,N,Unknown,1.5 m shark,5450
 647,2012-06-03,Unprovoked,AUSTRALIA,New South Wales,"Redhead Beach, Newcastle",Surf skiing,M,30,N,14h30,"White shark, 2 m",5448
@@ -651,7 +651,7 @@
 650,2012-05-31,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Wading,F,33,N,13h30,"18"" to 24"" shark",5445
 651,2012-05-29,Unprovoked,MEXICO,Guerrero," Boca de la Leña, La Unión",Free diving / spearfishing,M,46,N,09h00,"Bull shark, 3m",5444
 652,2012-05-23,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,M,22,N,15h00,4' to 5' shark,5443
-653,2012-05-20,Unprovoked,USA,Hawaii,"Iroquiois Point, Oahu",Kayak Fishing,M,Unknown,N,Unknown,"Tiger shark, 8' to 9' ",5442
+653,2012-05-20,Unprovoked,USA,Hawaii,"Iroquiois Point, Oahu",Kayak Fishing,M,-1,N,Unknown,"Tiger shark, 8' to 9' ",5442
 654,2012-05-16,Unprovoked,FIJI,Other,Matacucu Reef,Spearfishing,M,20,N,Unknown,Other,5441
 655,2012-05-12,Unprovoked,USA,California,"Leffingwell Landing, Cambria,  San Luis Obispo County",Kayaking / Fishing,M,30,N,14h30,White shark,5440
 656,2012-05-09,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,F,47,N,11h30,Other,5439
@@ -660,81 +660,81 @@
 659,2012-04-19,Unprovoked,SOUTH AFRICA,Western Cape Province,Caves near Kogel Bay,Body boarding,M,20,Y,12h30,"White shark, 4 m to 5m ",5436
 660,2012-04-11,Unprovoked,AUSTRALIA,South Australia,"Dolphin Bay, Innes National Park",Kayaking,M,27,N,Unknown,"White shark, 6m ",5435
 661,2012-04-03,Unprovoked,USA,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,M,28,N,12h38,"Tiger shark, 10'  ",5434
-663,2020-04-13,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Unknown,M,Unknown,N,Unknown,a small shark,5433
+663,2020-04-13,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Unknown,M,-1,N,Unknown,a small shark,5433
 664,2012-03-31,Unprovoked,AUSTRALIA,Western Australia,Stratham Beach,Scuba diving,M,33,Y,09h30,"White shark, 4m ",5432
 665,2012-03-24,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,21,N,14h00,Other,5431
-666,2012-03-22,Boat,AUSTRALIA,Western Australia,Kalbarri,Crayfishing,Unknown,Unknown,N,05h50,White shark,5430
+666,2012-03-22,Boat,AUSTRALIA,Western Australia,Kalbarri,Crayfishing,Unknown,-1,N,05h50,White shark,5430
 667,2012-03-20,Unprovoked,AUSTRALIA,Queensland,Nobby's Beach,Surfing,M,20,N,17h00,Possibly a bull shark,5429
 668,2012-03-15,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Surfing,M,61,N,15h50,Possibly a 5' to 6' bull shark,5428
 669,2012-03-14,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,15,N,16h00,4' to 5' shark,5427
 670,2012-03-14,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,17,N,16h05,4' to 5' shark,5426
-671,2012-03-06,Unprovoked,NEW ZEALAND,North Island,"Opunake, Taranake",Surfing,M,Unknown,N,19h00,Other,5425
+671,2012-03-06,Unprovoked,NEW ZEALAND,North Island,"Opunake, Taranake",Surfing,M,-1,N,19h00,Other,5425
 672,2012-03-06,Provoked,AUSTRALIA,Victoria,"Shipwreck Cove, Melbourne Aquarium","Diving, feeding sharks",F,34,N,11h30,"Tawny nurse shark, 40cm",5424
 673,2012-03-05,Unprovoked,REUNION,Saint-Benoit,Port de la Marine,Body boarding,M,31,N,14h30,Other,5423
 674,2012-03-04,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Kite Surfing,M,19,N,13h00,4' shark,5422
 675,2012-03-03,Invalid,SAUDI ARABIA,Tabuk Province,Off Duba,Attempting to Kite surf from Egypt to Saudi Arabia,M,42,N,Unknown,Other,5421
-676,2012-03-01,Provoked,CHILE,Antofagasta Province,Antofagasta,Fishing (illegally),M,Unknown,N,Unknown,Other,5420
-677,2012-02-26,Provoked,USA,Florida,"Palm Beach Inlet, Palm Beach County",Kite Surfing,M,Unknown,N,14h00,Spinner shark,5419
-678,2012-02-25,Unprovoked,AUSTRALIA,New South Wales,Broughton Island,Fishing,M,Unknown,N,16h00,Grey nurse shark,5418
-679,2012-02-20,Boat,SOUTH AFRICA,Western Cape Province,Strandfontein,Fishing,Unknown,Unknown,N,Unknown,"White shark, 7m",5417
+676,2012-03-01,Provoked,CHILE,Antofagasta Province,Antofagasta,Fishing (illegally),M,-1,N,Unknown,Other,5420
+677,2012-02-26,Provoked,USA,Florida,"Palm Beach Inlet, Palm Beach County",Kite Surfing,M,-1,N,14h00,Spinner shark,5419
+678,2012-02-25,Unprovoked,AUSTRALIA,New South Wales,Broughton Island,Fishing,M,-1,N,16h00,Grey nurse shark,5418
+679,2012-02-20,Boat,SOUTH AFRICA,Western Cape Province,Strandfontein,Fishing,Unknown,-1,N,Unknown,"White shark, 7m",5417
 680,2012-02-06,Unprovoked,AUSTRALIA,Queensland,Wurtulla,Surfing,M,29,N,12h00,Other,5416
-681,2012-01-27,Unprovoked,USA,Hawaii,Lanai,Snorkeling,Unknown,Unknown,N,11h05,6' to 8' shark,5415
+681,2012-01-27,Unprovoked,USA,Hawaii,Lanai,Snorkeling,Unknown,-1,N,11h05,6' to 8' shark,5415
 682,2012-01-19,Unprovoked,AUSTRALIA,Western Australia,Coral Bay,Snorkeling,M,26,N,Unknown,"Tiger shark, 3m",5414
-683,2012-01-22,Unprovoked,BAHAMAS,Other,Cat Island,"Diving, photographing sharks",M,Unknown,N,Unknown,Tiger shark,5413
+683,2012-01-22,Unprovoked,BAHAMAS,Other,Cat Island,"Diving, photographing sharks",M,-1,N,Unknown,Tiger shark,5413
 684,2012-01-18,Provoked,TAIWAN,Taitung,Taimali,Fishing,M,24,N,Unknown,"Blue shark, 70-kg blue shark",5412
 685,2012-01-18,Unprovoked,AUSTRALIA,New South Wales,Redhead Beach,Surfing,M,44,N,16h45,"White shark, 2.7 m",5411
 686,2012-01-15,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. Johns",Swimming,M,25,Y,15h40,Thought to involve a bull shark,5410
 687,2012-01-13,Unprovoked,USA,Oregon,"Lincoln City, Lincoln County",Surfing,M,53,N,Unknown,White shark,5409
 688,2012-01-03,Unprovoked,AUSTRALIA,New South Wales,North Avoca Beach,Surfing,M,28,N,20h00,2 m shark,5408
 689,2012-01-02,Unprovoked,AUSTRALIA,Queensland,Duranbah,Spearfishing,M,34,N,09h00,Allegedly a 4 m tiger shark,5407
-690,2011-12-31,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Unknown,M,Unknown,N,18h00,Other,5406
-691,2011-12-26,Invalid,ANTIGUA,St John's,Fort James Beach,Swimming,M,Unknown,N,Unknown,Shark involvement not confirmed,5405
+690,2011-12-31,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Unknown,M,-1,N,18h00,Other,5406
+691,2011-12-26,Invalid,ANTIGUA,St John's,Fort James Beach,Swimming,M,-1,N,Unknown,Shark involvement not confirmed,5405
 692,2011-12-25,Unprovoked,ECUADOR,Santa Elena,Barandúa Beach,Surfing,M,23,N,18h00,Other,5404
 693,2011-12-23,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,M,27,N,12h30,Other,5403
-694,2011-12-21,Provoked,USA,Hawaii,"Makahuena Point, Kauai",Canoeing,M,Unknown,N,Unknown,7' to 8' shark,5402
+694,2011-12-21,Provoked,USA,Hawaii,"Makahuena Point, Kauai",Canoeing,M,-1,N,Unknown,7' to 8' shark,5402
 695,2011-12-21,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Noordhoek, Port Elizabeth",Kayak Fishing,M,35,N,Unknown,Other,5401
 696,2011-12-11,Unprovoked,AUSTRALIA,New South Wales,Angourie,Surfing,M,51,N,05h45,"White shark, 2.5m",5400
-697,2011-12-07,Invalid,SOUTH AFRICA,KwaZulu-Natal,Between Sodwana & Cape Vidal,Surf skiing,M,Unknown,N,Unknown,Shark involvement not confirmed,5399
+697,2011-12-07,Invalid,SOUTH AFRICA,KwaZulu-Natal,Between Sodwana & Cape Vidal,Surf skiing,M,-1,N,Unknown,Shark involvement not confirmed,5399
 698,2011-12-07,Unprovoked,AUSTRALIA,New South Wales,Maroubra,Surfing,M,14,N,Unknown,Wobbegong shark,5398
-699,2011-12-06,Unprovoked,USA,Oregon,Seaside Cove,Surfing,F,Unknown,N,09h00,Other,5397
-700,2011-12-05,Invalid,AUSTRALIA,Queensland,Bushy Ilet,Spearfishing,Unknown,Unknown,Y,Unknown,Shark involvement not confirmed,5396
+699,2011-12-06,Unprovoked,USA,Oregon,Seaside Cove,Surfing,F,-1,N,09h00,Other,5397
+700,2011-12-05,Invalid,AUSTRALIA,Queensland,Bushy Ilet,Spearfishing,Unknown,-1,Y,Unknown,Shark involvement not confirmed,5396
 701,2011-12-02,Unprovoked,AUSTRALIA,New South Wales,Broken Head,Surfing,M,63,N,06h00,Other,5395
 702,2011-11-29,Unprovoked,INDONESIA,Bali,Tabanan,Surfing,M,18,N,13h30,Other,5394
 703,2011-11-28,Unprovoked,AUSTRALIA,Queensland,Peregian,Swimming,M,10,N,Unknown,Wobbegong shark?,5393
-704,2011-11-22,Unprovoked,USA,California,Pigeon Point,Kayaking,M,Unknown,N,Unknown,"White shark, 15' to 16'",5392
-705,2011-11-20,Unprovoked,PAPUA NEW GUINEA,East New Britain,Pigeon Island,Scuba diving,M,Unknown,N,Unknown,Other,5391
+704,2011-11-22,Unprovoked,USA,California,Pigeon Point,Kayaking,M,-1,N,Unknown,"White shark, 15' to 16'",5392
+705,2011-11-20,Unprovoked,PAPUA NEW GUINEA,East New Britain,Pigeon Island,Scuba diving,M,-1,N,Unknown,Other,5391
 706,2011-11-12,Unprovoked,BRAZIL,Pernambuco,"Punta Del Chifre Beach, Olinda",Surfing,M,35,N,Unknown,Other,5390
 707,2011-11-11,Unprovoked,REUNION,Bois-Blanc,Sainte-Rose,Free diving / spearfishing,M,42,N,Unknown,Other,5389
 708,2011-10-29,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,M,27,N,Unknown,White shark,5388
 709,2011-10-28,Unprovoked,SCOTLAND,Moray,Spey Bay,Surfing,M,26,N,Unknown,8' to 10' shark,5387
-710,2011-10-29,Provoked,SOUTH AFRICA,KwaZulu-Natal,"uShaka Aquarium, Durban",Diving,Unknown,Unknown,N,Unknown,Raggedtooth shark,5386
+710,2011-10-29,Provoked,SOUTH AFRICA,KwaZulu-Natal,"uShaka Aquarium, Durban",Diving,Unknown,-1,N,Unknown,Raggedtooth shark,5386
 711,2011-10-22,Unprovoked,AUSTRALIA,Western Australia,Rottnest Island,Diving,M,32,Y,13h25,"White shark, 10'",5385
 712,2011-10-20,Unprovoked,USA,Oregon,"Newport, Lincoln County",Surfing,M,41,N,Unknown,"White shark, 15'",5384
 713,2011-10-19,Unprovoked,AUSTRALIA,Victoria,Elwood Beach,Diving,M,50,N,16h00,"Port Jackson shark, 1m",5383
-714,2011-10-11,Unprovoked,USA,Florida,Cape Canaveral,Surfing,M,Unknown,N,Unknown,3' shark,5382
-715,2011-10-10,Unprovoked,USA,Oregon,Seaside,Surfing,M,Unknown,N,Unknown,10' to 12' shark,5381
+714,2011-10-11,Unprovoked,USA,Florida,Cape Canaveral,Surfing,M,-1,N,Unknown,3' shark,5382
+715,2011-10-10,Unprovoked,USA,Oregon,Seaside,Surfing,M,-1,N,Unknown,10' to 12' shark,5381
 716,2011-10-09,Unprovoked,AUSTRALIA,Western Australia,Cottesloe Beach,Swimming,M,64,Y,08h10,Other,5380
 717,2011-10-05,Boat,REUNION,Other,Cap La Houssaye,Canoeing,M,51,N,10h30,2 to 2.5 m shark,5379
-718,2011-10-02,Unprovoked,USA,Florida,"Santa Maria Island, Manatee County",Wade fishing,M,Unknown,N,Unknown,Other,5378
+718,2011-10-02,Unprovoked,USA,Florida,"Santa Maria Island, Manatee County",Wade fishing,M,-1,N,Unknown,Other,5378
 719,2011-10-01,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Unknown,M,29,N,Unknown,Other,5377
 720,2011-09-30,Invalid,USA,Puerto Rico,Hatillo Beach,Surfing,M,27,N,09h50,No shark involvement,5376
 721,2011-09-28,Provoked,DOMINICAN REPUBLIC,Samaná Province,Playa Jackson,Fishing,M,48,N,Unknown,Other,5375
 722,2011-09-28,Unprovoked,SOUTH AFRICA,Western Cape Province,Clovely Beach,Swimming,M,43,N,12h25,White shark,5374
 723,2011-09-24,Unprovoked,USA,Florida,"Santa Maria Island, Manatee County",Spearfishing,M,21,N,15h00,"Bull shark, 6'",5373
 724,2011-09-24,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Jumping in the waves,M,5,N,10h00,Other,5372
-725,2011-09-20,Boat,USA,Hawaii,Kauai,Canoeing,M,Unknown,N,15h00,Other,5371
+725,2011-09-20,Boat,USA,Hawaii,Kauai,Canoeing,M,-1,N,15h00,Other,5371
 726,2011-09-19,Unprovoked,REUNION,Saint-Gilles,Boucan-Canot,Body boarding,M,38,Y,15h30,Other,5370
 727,2011-09-17,Unprovoked,KENYA,Coast Province,"Mama Ngina Beach, Mombasa ",Swimming,M,17,Y,Unknown,Other,5369
 728,2011-09-16,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,M,25,N,11h00,4' to 6' shark,5368
 729,2011-09-11,Unprovoked,USA,California,"Samoa Beach, Humboldt County",Surfing,M,37,N,12h20,Other,5367
 730,2011-09-11,Unprovoked,PAPUA NEW GUINEA,Central Province,"Hula, near Port Moresby",Kite Surfing,M,30,N,Unknown,"Tiger shark, 2m",5366
-731,2011-09-04,Unprovoked,USA,Hawaii,"Nimitz State Beach, Oahu",Surfing,Unknown,Unknown,N,13h00,Other,5365
+731,2011-09-04,Unprovoked,USA,Hawaii,"Nimitz State Beach, Oahu",Surfing,Unknown,-1,N,13h00,Other,5365
 732,2011-09-04,Unprovoked,AUSTRALIA,Western Australia,Bunker Bay,Body boarding,M,21,Y,13h26,White shark,5364
 733,2011-09-02,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,19,N,11h00,"6' shark, possibly a blactip or spinner shark",5363
 734,2011-08-31,Unprovoked,USA,Florida,Crescent Beach St. Johns County,Surfing,M,19,N,11h00,6' shark,5362
 735,2011-08-28,Invalid,AUSTRALIA,Queensland,Fantome Island,Swimming,M,48,Y,19h30,Shark involvement prior to death not confirmed,5361
 736,2011-08-28,Unprovoked,USA,Texas,"Grass Island, Aransas County",Wade Fishing,F,39,N,19h00,Other,5360
-737,2011-08-26,Unprovoked,RUSSIA,Primorsky Krai,Slavyanka,"Standing, collecting sea stars",M,Unknown,N,Unknown,Other,5359
+737,2011-08-26,Unprovoked,RUSSIA,Primorsky Krai,Slavyanka,"Standing, collecting sea stars",M,-1,N,Unknown,Other,5359
 738,2011-08-24,Unprovoked,USA,North Carolina,"Buxton Beach, Dare County",Surfing,M,21,N,Unknown,Other,5358
 739,2011-08-24,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Unknown,M,10,N,15h30,Other,5357
 740,2011-08-23,Unprovoked,SOUTH AFRICA,Western Cape Province,"Lookout Beach, near the Keurbooms river mouth in Plettenberg Bay",Surfing,M,49,Y,09h11,"White shark, >6'",5356
@@ -750,11 +750,11 @@
 750,2011-08-01,Unprovoked,SEYCHELLES,Praslin,Anse Lazio,Diving,M,36,Y,15h30,Other,5346
 751,2011-07-31,Invalid,BRAZIL,Pernambuco,Praia do Pina,Swimming,M,14,Y,Unknown,Shark involvement prior to death not confirmed,5345
 752,2011-07-30,Sea Disaster,PHILIPPINES,Other,Other,Sea disaster,M,43,N,Unknown,Other,5344
-753,2011-07-25,Unprovoked,USA,New Jersey,"Egg Harbor, Atlantic County",Wade Fishing,M,Unknown,N,Unknown,Other,5343
+753,2011-07-25,Unprovoked,USA,New Jersey,"Egg Harbor, Atlantic County",Wade Fishing,M,-1,N,Unknown,Other,5343
 754,2011-07-22,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Cintza Beach, East London",Surfing,M,29,N,10h00,"White shark, 3m to 4m",5342
 755,2011-07-19,Unprovoked,USA,North Carolina,"Ocracoke Island, Hyde County",Boogie Boarding,F,6,N,17h30,Other,5341
-756,2011-07-15,Unprovoked,REUNION,Saint-Gilles,Brisants.,Kayaking or Wave skiing,M,Unknown,N,17h00,Other,5340
-757,2011-07-13,Unprovoked,USA,Texas,"South Padre Island, Cameron County",Surf fishing,M,Unknown,N,20h30,Other,5339
+756,2011-07-15,Unprovoked,REUNION,Saint-Gilles,Brisants.,Kayaking or Wave skiing,M,-1,N,17h00,Other,5340
+757,2011-07-13,Unprovoked,USA,Texas,"South Padre Island, Cameron County",Surf fishing,M,-1,N,20h30,Other,5339
 758,2011-07-13,Unprovoked,BAHAMAS,Grand Bahama Island,Off Lucaya,Scuba diving,M,54,N,12h30,Other,5338
 759,2011-07-07,Unprovoked,USA,Texas,"Sunday Beach, Matagorda Island, Calhoun  County",Swimming,M,12,N,17h00,Other,5337
 760,2011-07-07,Unprovoked,USA,Texas,"Mustang Island, Nueces County",Wade Fishing,M,14,N,Unknown,Other,5336
@@ -764,49 +764,49 @@
 764,2011-06-29,Unprovoked,BRAZIL,Pernambuco,Praia do Pina,Surfing,M,21,N,10h00,Other,5332
 765,2011-06-28,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Aliwal Shoal,Scuba diving,M,22,N,12h00,"Bull shark, 3m female",5331
 766,2008-06-26,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Playing in the surf,F,10,N,Unknown,"Bull shark, 6'",5330
-767,2011-06-24,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,M,Unknown,N,13h30,"White shark, 5' k",5329
+767,2011-06-24,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,M,-1,N,13h30,"White shark, 5' k",5329
 768,2011-06-21,Unprovoked,USA,Florida,"Perdido Key, Escambia County",Jet skiing,M,20,N,Unknown,Other,5328
 769,2011-06-19,Unprovoked,TURKS & CAICOS,Caicos Bank,French Cay,Spearfishing,M,35,N,Unknown,5' shark,5327
 770,2011-06-19,Unprovoked,COSTA RICA,Guanacaste,Playa Grande,Surfing,M,15,Y,12h15,Other,5326
 771,2011-06-15,Unprovoked,REUNION,Saint-Gilles-les-Bains,Boucan-Canot,Boogie Boarding,M,31,Y,17h30,Other,5325
-772,2011-06-14,Boat,UNITED KINGDOM,Cornwall,St. Ives,Fishing,Unknown,Unknown,N,Unknown,"Oceanic whitetip shark, 7'",5324
+772,2011-06-14,Boat,UNITED KINGDOM,Cornwall,St. Ives,Fishing,Unknown,-1,N,Unknown,"Oceanic whitetip shark, 7'",5324
 773,2011-06-12,Unprovoked,USA,Florida,"Off Jupiter Inlet, Palm Beach County",Scuba diving,M,28,N,14h30,"Blacktip shark, 4'",5323
 774,2011-06-06,Unprovoked,COLUMBIA,San Andrés archipelago,Albuquerque Cay,Spearfishing,M,24,N,Unknown,Other,5322
 775,2011-06-06,Unprovoked,USA,California,"La Jolla, San Diego County",Spearfishing,M,28,N,Unknown,"Sevengill shark, 6' to 8'",5321
 776,2011-06-06,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,M,19,N,12h00,3' to 4' shark,5320
-777,2011-06-01,Unprovoked,MALAYSIA,Kedah,Palau Payar,Snorkeling,F,Unknown,N,Unknown,Blacktip reef shark,5319
+777,2011-06-01,Unprovoked,MALAYSIA,Kedah,Palau Payar,Snorkeling,F,-1,N,Unknown,Blacktip reef shark,5319
 778,2011-05-30,Unprovoked,USA,Texas,"Follett's Island, Brazoria County",Standing or boogie boardin,F,22,N,15h00,Other,5318
 779,2011-05-29,Unprovoked,SOUTH AFRICA,Western Cape Province,Robberg Beach,Surfing,M,33,N,Unknown,White shark,5317
-780,2011-05-25,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,F,Unknown,N,13h15,"Tiger shark, 10'",5316
-781,2011-05-22,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Paddle boarding,F,Unknown,N,12h00,Tiger shark,5315
+780,2011-05-25,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,F,-1,N,13h15,"Tiger shark, 10'",5316
+781,2011-05-22,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Paddle boarding,F,-1,N,12h00,Tiger shark,5315
 782,2011-05-21,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Levan Point,Spearfishing,M,28,Y,Unknown,Zambesi shark,5314
 783,2011-05-13,Unprovoked,USA,Florida,"Ponte Vedra Beach, St Johns County",Body surfing,M,86,N,15h30,Other,5313
 784,2011-05-21,Unprovoked,NEW CALEDONIA,North Province,Kendec,Kite Boarding,M,15,Y,11h00," Tiger shark, 2.8m",5312
 785,2011-05-13,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,M,37,N,06h30,Other,5311
-786,2011-05-10,Provoked,USA,Florida,Miami,Fishing,M,Unknown,N,Unknown,"Sandbar shark ,8'",5310
+786,2011-05-10,Provoked,USA,Florida,Miami,Fishing,M,-1,N,Unknown,"Sandbar shark ,8'",5310
 787,2011-05-07,Invalid,UNITED ARAB EMIRATES (UAE),Umm al Qaywayan Province,Khor Fakkan,Fishing,M,43,N,Unknown,Other,5309
 788,2011-05-04,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Palm Beach,Spearfishing,M,37,N,Unknown,Other,5308
 789,2011-04-26,Unprovoked,USA,Florida,"Riviera Beach, Palm Beach County",Spearfishing,M,32,N,Unknown,"Bull shark, 12'",5307
 790,2011-04-23,Unprovoked,AUSTRALIA,Western Australia,Red Bluffs,Washing sand off a speared fish,M,17,N,15h00,"reef shark, 1.5m",5306
 791,2011-04-22,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,49,N,15h30,1' to 2' shark,5305
 792,2011-04-16,Unprovoked,NEW ZEALAND,South Island,Snapper Point,Surfing,M,41,N,Unknown,possibly a bronze whaler shark,5304
-793,2011-04-13,Unprovoked,INDONESIA,Bali,Balian,Surfing,M,Unknown,N,Unknown," Bull shark, 2.5 m",5303
+793,2011-04-13,Unprovoked,INDONESIA,Bali,Balian,Surfing,M,-1,N,Unknown," Bull shark, 2.5 m",5303
 794,2011-04-08,Unprovoked,FIJI,Vitu Levu,"Malake Island, Ra Province",Diving,M,27,N,Unknown,Other,5302
-795,2011-03-29,Provoked,USA,Texas,Matagorda Beach,"Standing, holding shark pup",M,Unknown,N,Unknown,Blacktip shark pup,5301
-796,2011-03-24,Unprovoked,MEXICO,Quintana Roo,"Gaviotas Beach, Cancun",Swimming,F,Unknown,N,Unknown,Bull shark,5300
+795,2011-03-29,Provoked,USA,Texas,Matagorda Beach,"Standing, holding shark pup",M,-1,N,Unknown,Blacktip shark pup,5301
+796,2011-03-24,Unprovoked,MEXICO,Quintana Roo,"Gaviotas Beach, Cancun",Swimming,F,-1,N,Unknown,Bull shark,5300
 797,2011-03-23,Unprovoked,AUSTRALIA,New South Wales,Crowdy Head,Surfing,M,48,N,17h45,"Bull shark, 2.5m",5299
 798,2011-03-21,Unprovoked,MEXICO,Quintana Roo,Other,Swimming,M,46,N,Unknown,Other,5298
 799,2011-03-21,Unprovoked,FIJI,Other,Nukudamu,Diving / fishing,M,30,N,16h00,Other,5297
 800,2011-03-16,Unprovoked,AUSTRALIA,New South Wales,"Jimmys Beach, Port Stephens",Wakeboarding,F,24,N,13h00,3 m to 4 m shark,5296
-801,2010-03-10,Invalid,EGYPT,South Sinai Peninsula,Sharm-el-Sheikh,Unknown,F,Unknown,N,Unknown,Other,5295
-802,2011-03-10,Unprovoked,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",Surfing,M,Unknown,N,Unknown,Other,5294
+801,2010-03-10,Invalid,EGYPT,South Sinai Peninsula,Sharm-el-Sheikh,Unknown,F,-1,N,Unknown,Other,5295
+802,2011-03-10,Unprovoked,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",Surfing,M,-1,N,Unknown,Other,5294
 803,2011-02-28,Provoked,AUSTRALIA,Queensland,Between,Fishing,M,36,N,10h45,"Bull shark, 2m",5293
 804,2011-02-23,Unprovoked,NEW CALEDONIA,Loyalty Islands,"Bay of Bweedro, Ouvéa",Spearfishing,M,21,N,Unknown,1.5 m shark,5292
 805,2011-02-18,Unprovoked,REUNION,Saint Gilles,Trois-Roches,Surfing,M,32,N,18h30,Other,5291
 806,2011-02-17,Unprovoked,AUSTRALIA,South Australia,Off Perforated Island near Coffin Bay,Diving for abalone,M,49,Y,18h20,White shark x 2,5290
-807,2011-02-13,Provoked,AUSTRALIA,Queensland,Sunshine Beach,Fishing,M,Unknown,N,10h40,1 m shark,5289
+807,2011-02-13,Provoked,AUSTRALIA,Queensland,Sunshine Beach,Fishing,M,-1,N,10h40,1 m shark,5289
 808,2011-02-12,Unprovoked,AUSTRALIA,Western Australia,Exmouth,Snorkeling,M,58,N,Unknown,Other,5288
-809,2011-02-04,Provoked,MEXICO,Colima,"Manzanillo, Revillagigedo Islands",Shark fishing on the Ricardo Astorga,M,Unknown,N,Unknown,Other,5287
+809,2011-02-04,Provoked,MEXICO,Colima,"Manzanillo, Revillagigedo Islands",Shark fishing on the Ricardo Astorga,M,-1,N,Unknown,Other,5287
 810,2011-02-02,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Sundays River Mouth, Port Elizabeth",Surf fishing,M,37,N,Unknown,Other,5286
 811,2011-01-31,Unprovoked,MEXICO,Quintana Roo,Cancun,Swimming,F,38,N,12h00,6' shark,5285
 812,2011-01-28,Provoked,MEXICO,Colima,Revillagigedo Islands,Shark fishing on the Don Agustín-VI.,M,25,N,Unknown,Other,5284
@@ -814,33 +814,33 @@
 814,2011-01-20,Invalid,AUSTRALIA,New South Wales,Cudgen Creek,Swimming,F,7,N,17h00,Shark involvement not confirmed,5282
 815,2011-01-15,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Surfing,M,16,Y,12h30,Other,5281
 816,2011-01-12,Unprovoked,MEXICO,Quintana Roo,Xcalak,Attempting to fix motor,M,37,N,Unknown,Other,5280
-817,2011-01-03,Boat,AUSTRALIA,Western Australia,Busselton,Fishing,Unknown,Unknown,N,12h00,White shark,5279
+817,2011-01-03,Boat,AUSTRALIA,Western Australia,Busselton,Fishing,Unknown,-1,N,12h00,White shark,5279
 818,2010-12-26,Unprovoked,USA,Hawaii," Kahului, Maui",Body boarding,M,16,N,15h35,6' shark,5278
-819,2010-12-17,Unprovoked,FIJI,Vitu Levu,Sigatoka,Surfing,M,Unknown,N,Unknown,Other,5277
+819,2010-12-17,Unprovoked,FIJI,Vitu Levu,Sigatoka,Surfing,M,-1,N,Unknown,Other,5277
 820,2010-12-11,Unprovoked,USA,Hawaii,"Tavares Bay, Maui",Surfing,M,46,N,13h51,Other,5276
 821,2010-12-05,Unprovoked,EGYPT,South Sinai Peninsula,"Middle Garden, Sharm el-Shiekh",Snorkeling,F,70,Y,12h00,"Oceanic whitetip shark, 2.5m ",5275
-822,2010-12-03,Unprovoked,INDONESIA,Bali,Balian,Surfing,M,Unknown,N,Unknown,Other,5274
+822,2010-12-03,Unprovoked,INDONESIA,Bali,Balian,Surfing,M,-1,N,Unknown,Other,5274
 823,2010-12-01,Unprovoked,EGYPT,South Sinai Peninsula,"Ras Nasrani, Sharm el-Sheikh",Snorkeling,M,54,N,11h00,Mako shark,5273
 824,2010-12-01,Unprovoked,EGYPT,South Sinai Peninsula,"Ras Nasrani, Sharm el-Sheikh",Snorkeling,M,46,N,10h55,Mako shark,5272
 825,2010-11-30,Unprovoked,EGYPT,South Sinai Peninsula,"Coral Bay, Sharm el-Sheikh",Snorkeling,F,70,N,14h55,"Oceanic whitetip shark, 2.5m, female",5271
 826,2010-11-30,Unprovoked,EGYPT,South Sinai Peninsula,"Coral Bay, Sharm el-Sheikh",Snorkeling,F,48,N,14h40,"Oceanic whitetip shark, 2.5m, female",5270
 827,2010-11-27,Unprovoked,SAMOA,Other,Other,Fishing,M,47,N,Unknown,Other,5269
-828,2010-11-27,Invalid,AUSTRALIA,Western Australia,Native Dog Beach,Swimming,M,Unknown,Y,Unknown,Shark involvement not confirmed,5268
+828,2010-11-27,Invalid,AUSTRALIA,Western Australia,Native Dog Beach,Swimming,M,-1,Y,Unknown,Shark involvement not confirmed,5268
 829,2010-11-19,Provoked,USA,Palmyra Atoll,Other,Snorkeling,M,33,N,13h30,Other,5267
 830,2010-11-15,Unprovoked,DOMINICAN REPUBLIC,Other,Boca Chica,Diving,M,21,Y,Unknown,Other,5266
-831,2010-11-14,Unprovoked,INDONESIA,Bali,Balian,Surfing,M,Unknown,N,Unknown,Other,5265
-832,2010-11-12,Boat,AUSTRALIA,Western Australia,Between Carnac and Garden Islands,Fishing,M,Unknown,N,Unknown,White shark,5264
+831,2010-11-14,Unprovoked,INDONESIA,Bali,Balian,Surfing,M,-1,N,Unknown,Other,5265
+832,2010-11-12,Boat,AUSTRALIA,Western Australia,Between Carnac and Garden Islands,Fishing,M,-1,N,Unknown,White shark,5264
 833,2010-10-30,Unprovoked,AUSTRALIA,Western Australia,Off Garden Island,Snorkeling,F,20,N,12h30,White shark,5263
-834,2010-10-28,Unprovoked,AUSTRALIA,Western Australia,Cheynes Beach,Spearfishing,M,Unknown,N,Unknown,Other,5262
-835,2010-10-28,Unprovoked,USA,Oregon,Florence,Surfing,M,Unknown,N,15h20,Other,5261
-836,2010-10-25,Provoked,AZORES,Other,350 miles from Faial Island,Fishing,M,Unknown,N,Unknown,Other,5260
+834,2010-10-28,Unprovoked,AUSTRALIA,Western Australia,Cheynes Beach,Spearfishing,M,-1,N,Unknown,Other,5262
+835,2010-10-28,Unprovoked,USA,Oregon,Florence,Surfing,M,-1,N,15h20,Other,5261
+836,2010-10-25,Provoked,AZORES,Other,350 miles from Faial Island,Fishing,M,-1,N,Unknown,Other,5260
 837,2010-10-23,Unprovoked,USA,Maine,"Burnt Cove near Eastport, Washington County",Scuba diving,M,30,N,Unknown,"Porbeagle shark, 8' ",5259
 838,2010-10-23,Unprovoked,AUSTRALIA,Western Australia,Wedge Island,Kite Surfing,M,14,N,Unknown,Other,5258
 839,2010-10-22,Unprovoked,USA,California,"Surf Beach, Vandenberg AFB, Santa Barbara County",Body boarding,M,19,Y,08h50,"White shark, 14' to 18' ",5257
-840,2010-10-20,Unprovoked,EGYPT,South Sinai Peninsula,Sharm el-Sheikh,Snorkeling,F,Unknown,N,Unknown,Other,5256
+840,2010-10-20,Unprovoked,EGYPT,South Sinai Peninsula,Sharm el-Sheikh,Snorkeling,F,-1,N,Unknown,Other,5256
 841,2010-10-09,Unprovoked,AUSTRALIA,New South Wales,Mullaway Headland,Surfing,M,22,N,13h30,"Bull shark, 1.4m ",5255
-842,2010-10-02,Unprovoked,BAHAMAS,Exuma Islands,Other,Snorkeling,M,Unknown,N,Unknown,Lemon shark,5254
-843,2010-10-02,Unprovoked,BAHAMAS,Abaco Islands,Elbow Cay,Surfing,F,Unknown,N,15h00,Possibly a 6' lemon shark,5253
+842,2010-10-02,Unprovoked,BAHAMAS,Exuma Islands,Other,Snorkeling,M,-1,N,Unknown,Lemon shark,5254
+843,2010-10-02,Unprovoked,BAHAMAS,Abaco Islands,Elbow Cay,Surfing,F,-1,N,15h00,Possibly a 6' lemon shark,5253
 844,2010-10-01,Unprovoked,SOUTH AFRICA,Western Cape Province,"Melkbaai, Strand",Surfing,M,15.0,N,14h30,Other,5252
 845,2010-09-27,Unprovoked,USA,Oregon,Winchester Bay,Surfing,M,29,N,16h00,White shark,5251
 846,2010-09-24,Unprovoked,USA,Virginia,Sandridge Beach,Surfing,M,18,N,16h30,Other,5250
@@ -848,7 +848,7 @@
 848,2010-09-13,Unprovoked,AUSTRALIA,New South Wales,Fraser's Reef,Surfing,M,15,N,17h00,2m shark,5248
 849,2010-09-07,Unprovoked,USA,Florida,"St. Augustine, St. John's County",Swimming,M,27,N,Unknown,3' shark,5247
 850,2010-09-06,Unprovoked,TONGA,Ha'api,Other,Swimming /  Whale Watching,M,24,N,12h00,Other,5246
-851,2010-09-04,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,Unknown,N,Unknown,Other,5245
+851,2010-09-04,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,-1,N,Unknown,Other,5245
 852,2010-09-03,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,24,N,12h00,Other,5244
 853,2010-09-03,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,24,N,09h00,Other,5243
 854,2010-09-02,Unprovoked,SOLOMON ISLANDS,Western Province,Other,Unknown,M,34,N,Unknown,Other,5242
@@ -856,13 +856,13 @@
 856,2010-08-18,Unprovoked,USA,Florida,Crescent Beach St. Johns County,Boogie Boarding,M,10,N,09h00,Other,5240
 857,2010-08-17,Unprovoked,AUSTRALIA,Western Australia,Cowaramup Bay,Surfing,M,31,Y,08h05,White shark,5239
 858,2010-08-14,Unprovoked,USA,California,"Pigeon Point, San Mateo County",Kayak Fishing,M,45,N,Unknown,White shark,5238
-859,2010-08-10,Provoked,AUSTRALIA,Queensland,"Three Mile Creek, Townsville",Fishing,F,Unknown,N,19h00,Other,5237
+859,2010-08-10,Provoked,AUSTRALIA,Queensland,"Three Mile Creek, Townsville",Fishing,F,-1,N,19h00,Other,5237
 860,2010-08-10,Unprovoked,SOUTH KOREA,Jeju Province,Jeju Island,Swimming,F,16,N,Unknown,Other,5236
 861,2010-08-08,Unprovoked,AUSTRALIA,New South Wales,Crescent Head,Surfing,M,47,N,08h00,Other,5235
 862,2010-08-07,Unprovoked,USA,North Carolina,"Figure Eight Island, Wilmington, New Hanover County",Surfing,M,25,N,15h00,Other,5234
 863,2010-08-07,Unprovoked,MALTA,Other,"Off Fort St. Elmo, Valetta",Windsurfing,M,35,N,Unknown,3 m shark,5233
-864,2010-08-05,Invalid,USA,Florida,"Bethune Beach, Volusia County",Swimming,F,Unknown,N,19h15,Shark involvement not confirmed,5232
-865,2010-08-02,Unprovoked,USA,California,"Near oil rig Hondo, 5 nm from Gaviota, Santa Barbara County",Kayaking,M,Unknown,N,12h40,"White shark, 15'",5231
+864,2010-08-05,Invalid,USA,Florida,"Bethune Beach, Volusia County",Swimming,F,-1,N,19h15,Shark involvement not confirmed,5232
+865,2010-08-02,Unprovoked,USA,California,"Near oil rig Hondo, 5 nm from Gaviota, Santa Barbara County",Kayaking,M,-1,N,12h40,"White shark, 15'",5231
 866,2010-08-02,Unprovoked,USA,Florida,"Micklers Landing, St. Johns County",Standing,F,37,N,11h00,3' to 4' shark,5230
 867,2010-07-25,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Standing,M,16,N,Unknown,4' shark,5229
 868,2010-07-23,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,M,20,N,16h30,Other,5228
@@ -870,8 +870,8 @@
 870,2010-07-17,Unprovoked,USA,North Carolina,"Wrightsville Beach, New Hanover County",Swimming,F,13,N,13h30,"Sandtiger shark, 4' to 5'",5226
 871,2010-07-17,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,M,55,N,Unknown,A small spinner shark,5225
 872,2010-07-16,Provoked,SPAIN,Grand Canary Island,"Sardina del Norte, Gáldar",Swimming,M,9,N,19h15,Angel shark,5224
-873,2010-07-16,Unprovoked,USA,Texas,Galveston,Fishing,M,Unknown,N,Unknown,Other,5223
-874,2010-07-11,Provoked,USA,Florida,"Lauderdale-by-the-Sea, Broward County",Fishing,M,Unknown,N,Unknown,"Nurse shark, juvenile ",5222
+873,2010-07-16,Unprovoked,USA,Texas,Galveston,Fishing,M,-1,N,Unknown,Other,5223
+874,2010-07-11,Provoked,USA,Florida,"Lauderdale-by-the-Sea, Broward County",Fishing,M,-1,N,Unknown,"Nurse shark, juvenile ",5222
 875,2010-07-04,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,"Two Mile Reef, Sodwana Bay",Snorkeling,F,21,N,Unknown,Other,5221
 876,2010-07-03,Provoked,USA,New York,Off Long Island,Fishing,M,20,N,12h30,"Blue shark, 7'",5220
 877,2010-07-02,Unprovoked,USA,California,"Pismo Beach, San Luis  Obispo County",Surfing,M,19,N,Unknown,4' shark,5219
@@ -886,7 +886,7 @@
 886,2010-05-30,Provoked,USA,Florida,Off Tarpon Springs,Fishing,M,49,N,08h45,"Lemon shark, 4'",5210
 887,2010-05-18,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon,Rescuing,F,58,N,18h00,20 to 30kg shark,5209
 888,2010-05-18,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon,Swimming,F,60,N,18h00,20 to 30kg shark,5208
-889,2010-05-18,Unprovoked,AUSTRALIA,New South Wales,Point Plomer,Surfing,M,Unknown,N,16h30,Other,5207
+889,2010-05-18,Unprovoked,AUSTRALIA,New South Wales,Point Plomer,Surfing,M,-1,N,16h30,Other,5207
 890,2010-05-03,Unprovoked,MADAGASCAR,Antsiranana Province," Ambatolaoka, Nosy Be Island",Scuba diving,M,59,N,09h30,Other,5206
 891,2010-05-01,Unprovoked,USA,Florida,New Smyrna Beach,Wading,F,10,N,10h30,4' shark,5205
 892,2010-04-28,Provoked,USA,Florida,Hanalei Bay,Measuring sharks,M,29,N,Unknown,"Lemon shark, 6'",5204
@@ -894,38 +894,38 @@
 894,2010-04-13,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"East Beach, Port Alfred",Surfing,M,35,N,10h00,2 m shark,5202
 895,2010-04-04,Unprovoked,EGYPT,Sinai Peninsula,Sharm el-Sheikh,Swimming / treading water,M,24,N,14h00,"Oceanic whitetip shark, 6'",5201
 896,2010-03-27,Unprovoked,REUNION,Saint-Benoit,Bittern,Surfing,M,34,N,11h00,1.5 m shark,5200
-897,2010-02-19,Unprovoked,NEW ZEALAND,South Island,Tahunanui Beach,Swimming,M,Unknown,N,Unknown,Possibly a blue shark,5199
-898,2010-02-16,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Yellow Sands Point,Surfing,M,Unknown,N,11h00,3 m shark,5198
+897,2010-02-19,Unprovoked,NEW ZEALAND,South Island,Tahunanui Beach,Swimming,M,-1,N,Unknown,Possibly a blue shark,5199
+898,2010-02-16,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Yellow Sands Point,Surfing,M,-1,N,11h00,3 m shark,5198
 899,2010-02-15,Unprovoked,FIJI,Off Vanua Levu,Nara Reef,Scuba diving,M,19,Y,09h30,Other,5197
 900,2010-02-13,Unprovoked,AUSTRALIA,Queensland,"Dent Island, Whitsundays",Snorkeling,F,60,N,13h30,2 m shark,5196
 901,2010-02-11,Unprovoked,AUSTRALIA,New South Wales,"Mona Vale Beach, Sydney",Surfing,M,46,N,08h00,"Wobbegong shark, 1.6m",5195
-902,2010-02-06,Provoked,NEW ZEALAND,South Island,Cosy Nook,Spearfishing,M,Unknown,N,Unknown,2 m to 3 m shark,5194
+902,2010-02-06,Provoked,NEW ZEALAND,South Island,Cosy Nook,Spearfishing,M,-1,N,Unknown,2 m to 3 m shark,5194
 903,2010-02-06,Unprovoked,AUSTRALIA,New South Wales,Turners' Beach,Body boarding,M,18,N,15h30,"White shark, 2.5m",5193
-904,2010-02-06,Provoked,USA,Florida,Riviera Beach,Surf fishing / wading,M,Unknown,N,15h00,"Spinner shark, 6'",5192
+904,2010-02-06,Provoked,USA,Florida,Riviera Beach,Surf fishing / wading,M,-1,N,15h00,"Spinner shark, 6'",5192
 905,2010-02-04,Invalid,GUAM,Merizo,Achang Reef,Spearfishing (free diving),M,31,Y,11h00,Other,5191
 906,2010-02-03,Unprovoked,USA,Florida,"Stuart, Martin County",Kite Boarding,M,38,Y,15h44,Other,5190
 907,2010-02-01,Provoked,NEW ZEALAND,South Island,Oreti Beach,Boogie Boarding,F,14,N,18h30,1.5 m shark,5189
 908,2010-01-31,Unprovoked,BRAZIL,Rio Grande Do Sul,"Atlantis Beach, near Tramandai",Surfing,M,29,N,Unknown,Thought to involve a juvenile hammerhead shark,5188
-909,2010-01-27,Unprovoked,AUSTRALIA,Queensland,Archie's Beach,Surfing,M,Unknown,N,16h30,Other,5187
+909,2010-01-27,Unprovoked,AUSTRALIA,Queensland,Archie's Beach,Surfing,M,-1,N,16h30,Other,5187
 910,2010-01-22,Unprovoked,UNITED ARAB EMIRATES (UAE),Dubai,"Umm Suqeim Beach, Dubai",Surfing,M,54,N,Unknown,Other,5186
-911,2010-01-22,Unprovoked,AUSTRALIA,Victoria,Geelong,Surfing,M,Unknown,N,07h30,Other,5185
+911,2010-01-22,Unprovoked,AUSTRALIA,Victoria,Geelong,Surfing,M,-1,N,07h30,Other,5185
 912,2010-01-12,Unprovoked,SOUTH AFRICA,Western Province,Fish Hoek,Standing,M,37,Y,15h15,White shark,5184
 913,2010-01-09,Unprovoked,AUSTRALIA,Torres Strait,Thursday Island,Snorkeling,F,9,N,Unknown,"Whitetip reef shark, 1m",5183
-914,2010-01-09,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon,Unknown,F,Unknown,N,Unknown,Other,5182
-915,2010-01-09,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon,Unknown,M,Unknown,N,17h00,Other,5181
-916,2010-01-09,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon,Bathing,M,Unknown,N,06h45,Other,5180
+914,2010-01-09,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon,Unknown,F,-1,N,Unknown,Other,5182
+915,2010-01-09,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon,Unknown,M,-1,N,17h00,Other,5181
+916,2010-01-09,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon,Bathing,M,-1,N,06h45,Other,5180
 917,2010-01-06,Unprovoked,USA,Florida,Elliot Key,Spearfishing,M,32,N,10h15,Other,5179
-918,2010-01-05,Unprovoked,SOUTH AFRICA,Eastern Province,"Nahoon, East London",Surfing,M,Unknown,N,Unknown,Other,5178
+918,2010-01-05,Unprovoked,SOUTH AFRICA,Eastern Province,"Nahoon, East London",Surfing,M,-1,N,Unknown,Other,5178
 919,2009-12-29,Unprovoked,SOUTH AFRICA,Eastern Cape  Province,Port Alfred,Wading,M,20,N,08h30,Other,5177
 920,2009-12-26,Provoked,AUSTRALIA,New South Wales,Avoca Beach,Swimming,M,55,N,11h00,Other,5176
 921,2009-12-22,Unprovoked,MOZAMBIQUE,Maputo Province,Ponta do Ouro,Swimming,M,27,N,16h30,"Zambesi shark, 2m ",5175
-922,2009-12-20,Boat,AUSTRALIA,Queensland,Mudjimba Island,Kayaking,M,Unknown,N,11h00,Other,5174
+922,2009-12-20,Boat,AUSTRALIA,Queensland,Mudjimba Island,Kayaking,M,-1,N,11h00,Other,5174
 923,2009-12-20,Unprovoked,AUSTRALIA,Queensland,Lamont Reef,Spearfishing,M,18,N,07h30,"Bull shark, 3m",5173
 924,2009-12-18,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. Johns",Paddling on kneeboard,M,22,Y,14h30,Other,5172
-925,2009-12-18,Invalid,SOUTH AFRICA,KwaZulu-Natal,"North Beach, Durban",Surfing,M,Unknown,N,Unknown,No shark involvement,5171
+925,2009-12-18,Invalid,SOUTH AFRICA,KwaZulu-Natal,"North Beach, Durban",Surfing,M,-1,N,Unknown,No shark involvement,5171
 926,2009-12-16,Unprovoked,NEW ZEALAND,South Island,Clark Island,Swimming to shore from capsized kayak,M,24,Y,Unknown,"White shark, 2.8 to 3 m ",5170
 927,2009-12-13,Unprovoked,AUSTRALIA,New South Wales,Coffee Head,Surfing,M,39,N,07h00,Other,5169
-928,2009-12-12,Boat,AUSTRALIA,New South Wales,Hawks Nest Beach,Rowing,Unknown,Unknown,N,07h30,White shark,5168
+928,2009-12-12,Boat,AUSTRALIA,New South Wales,Hawks Nest Beach,Rowing,Unknown,-1,N,07h30,White shark,5168
 929,2009-12-05,Provoked,USA,New Jersey,"Adventure Aquarium, Camden",Diving,M,58,N,13h00,"Sandtiger shark, 8'",5167
 930,2009-11-25,Invalid,USA,California,"Huntington Beach, Orange County",Surfing,M,49,N,15h30,Shark involvement not confirmed,5166
 931,2009-11-24,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard County",Wading,M,10,N,Unknown,6' shark,5165
@@ -936,60 +936,60 @@
 936,2009-11-08,Unprovoked,AUSTRALIA,South Australia,Second Valley,Kayaking,M,25,N,10h30,2 m shark,5160
 937,2009-11-05,Unprovoked,USA,California,"Davenport, Santa Cruz County",Surfing,M,21,N,Unknown,Other,5159
 938,2009-10-30,Unprovoked,AUSTRALIA,Victoria,Portland,Kayaking,M,27,N,Unknown,"White shark, 4m",5158
-939,2009-10-29,Unprovoked,MOZAMBIQUE,Inhambane Province,Off Vilanculo,Spearfishing,M,Unknown,N,Unknown,Zambesi shark,5157
+939,2009-10-29,Unprovoked,MOZAMBIQUE,Inhambane Province,Off Vilanculo,Spearfishing,M,-1,N,Unknown,Zambesi shark,5157
 940,2009-10-28,Unprovoked,AUSTRALIA,New South Wales,Lennox Heads,Paddle-boarding,F,17,N,07h00,Other,5156
-941,2009-10-24,Unprovoked,USA,California,"San Onofre, San Diego County ",Surfing,M,Unknown,N,17h30,Other,5155
+941,2009-10-24,Unprovoked,USA,California,"San Onofre, San Diego County ",Surfing,M,-1,N,17h30,Other,5155
 942,2009-10-19,Unprovoked,USA,Hawaii,"Kalama Park, Maui",Surfing,M,54,N,06h00,6' to 8' shark,5154
 943,2009-10-18,Unprovoked,PANAMA,Bocas,Playa La Cabaña,Wading,F,10,N,18h30,Other,5153
 944,2009-10-17,Provoked,SCOTLAND,Fife,Deep Sea World Aquarium,Diving,M,23,N,14h45,Angel shark,5152
 945,2009-10-14,Unprovoked,AUSTRALIA,Western Australia,Other,Diving,M,23,N,Unknown,"Bull shark, 10'",5151
-946,2009-10-09,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,M,Unknown,N,11h00,Other,5150
+946,2009-10-09,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,M,-1,N,11h00,Other,5150
 947,2009-10-02,Provoked,UNITED KINGDOM,Devon,Mewstone Rock,Fishing,M,39,N,12h50,Spurdog,5149
-948,2009-09-26,Unprovoked,USA,Florida,"Key Colony Beach, Monroe County",Swimming,M,Unknown,N,17h30,"Bull shark, 8'",5148
-949,2009-09-18,Unprovoked,VIETNAM,Other,Other,Unknown,M,Unknown,N,Unknown,Other,5147
-950,2009-09-15,Provoked,SOMALIA,Other,300 miles off the coast,Fishing,M,Unknown,N,Unknown,Other,5146
+948,2009-09-26,Unprovoked,USA,Florida,"Key Colony Beach, Monroe County",Swimming,M,-1,N,17h30,"Bull shark, 8'",5148
+949,2009-09-18,Unprovoked,VIETNAM,Other,Other,Unknown,M,-1,N,Unknown,Other,5147
+950,2009-09-15,Provoked,SOMALIA,Other,300 miles off the coast,Fishing,M,-1,N,Unknown,Other,5146
 951,2009-09-13,Provoked,BRAZIL,Pernambuco,"Piedade, Recife",Unknown,M,34,Y,Unknown,Other,5145
 952,2009-09-12,Invalid,USA,North Carolina,"Corolla, Currituck County",Swimming,M,60,Y,21h00,Shark involvement prior to death not confirmed,5144
 953,2009-09-07,Unprovoked,BRAZIL,Pernambuco,"Piedade, Recife","Swimming, attempting to rescue a girl  believed to be drowning",M,15,Y,Unknown,Other,5143
-954,2009-09-02,Invalid,NEVIS,Other,Castle Beach,Swimming,M,Unknown,Y,Unknown,Other,5142
-955,2009-09-01,Provoked,SOLOMON ISLANDS,Makira-Ulawa Province,"Kirakira, Makira Island (formerly San Cristobal)",Fishing,M,Unknown,N,Unknown,Other,5141
-956,2009-08-30,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,M,Unknown,N,18h30,4' shark,5140
+954,2009-09-02,Invalid,NEVIS,Other,Castle Beach,Swimming,M,-1,Y,Unknown,Other,5142
+955,2009-09-01,Provoked,SOLOMON ISLANDS,Makira-Ulawa Province,"Kirakira, Makira Island (formerly San Cristobal)",Fishing,M,-1,N,Unknown,Other,5141
+956,2009-08-30,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,M,-1,N,18h30,4' shark,5140
 957,2009-08-29,Unprovoked,SOUTH AFRICA,Western Cape Province,Glentana,Surfing,M,25,Y,15h30,White shark,5139
 959,2009-08-25,Unprovoked,USA,California,"Terramar Beach, Carlsbad, San Diego County",Swimming,F,22,N,16h30,"White shark, 5' to 6' juvenile ",5138
-960,2009-08-11,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Alkantstrand,Body boarding,M,Unknown,N,Unknown,"White shark, 2m",5137
+960,2009-08-11,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Alkantstrand,Body boarding,M,-1,N,Unknown,"White shark, 2m",5137
 961,2009-08-10,Unprovoked,USA,Florida,"Ponce, Volusia County",Swimming,M,26,N,19h00,Other,5136
-962,2009-08-06,Unprovoked,USA,Hawaii,Kawa'a,Surfing,M,Unknown,N,08h45,"Tiger shark, 12",5135
+962,2009-08-06,Unprovoked,USA,Hawaii,Kawa'a,Surfing,M,-1,N,08h45,"Tiger shark, 12",5135
 963,2009-08-01,Unprovoked,USA,Louisiana,"Curlew Island, Breton Sound",Wade Fishing,M,56,N,10h00,Bull shark?,5134
 964,2009-07-31,Unprovoked,BAHAMAS,Abaco Islands,Spanish Cay,Spearfishing,M,14,N,Unknown,Bull shark,5133
 965,2009-07-30,Unprovoked,AUSTRALIA,New South Wales,Broken Head,Surfing,M,14,N,06h15,Other,5132
 966,2009-07-29,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon,Swimming,F,41,N,17h30,Other,5131
-967,2009-07-24,Unprovoked,KENYA,Mombasa,Likoni Channel,Washing his feet,M,Unknown,Y,Unknown,Other,5130
+967,2009-07-24,Unprovoked,KENYA,Mombasa,Likoni Channel,Washing his feet,M,-1,Y,Unknown,Other,5130
 968,2009-07-24,Unprovoked,USA,Texas,South Padre Island,Wading,F,14,N,Unknown,Other,5129
 969,2009-07-24,Invalid,SPAIN,Catalunya,Sant Salvador,Swimming,F,11,N,10h15,Shark involvement questionable,5128
 970,2009-07-22,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Swimming,F,26,N,15h00,Other,5127
 971,2009-07-22,Unprovoked,USA,Florida,"Intracoastal Waterway,      St. Petersburg",Swimming,F,19,N,15h00,Other,5126
 972,2009-07-18,Unprovoked,VIETNAM,Binh Dinh Province,Quy Nhon,Swimming,M,57,N,Unknown,Other,5125
-973,2009-07-11,Provoked,BAHAMAS,Other,Other,Spearfishing,M,Unknown,N,Unknown,"Caribbean reef shark, 6'",5124
-974,2009-07-11,Unprovoked,USA,California,"San Onofre, San Diego County ",Paddle-surfing,M,Unknown,N,08h30,5' shark,5123
+973,2009-07-11,Provoked,BAHAMAS,Other,Other,Spearfishing,M,-1,N,Unknown,"Caribbean reef shark, 6'",5124
+974,2009-07-11,Unprovoked,USA,California,"San Onofre, San Diego County ",Paddle-surfing,M,-1,N,08h30,5' shark,5123
 975,2009-07-07,Unprovoked,SOUTH AFRICA,Western Cape Province,"Jogensfontein, Stilbaai",Surfing,M,37,N,11h15,Other,5122
 976,2009-07-05,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Boogie Boarding,F,12,N,16h00,Other,5121
 977,2009-07-04,Provoked,USA,Florida,"Biscayne National Park, Miami",Swimming,F,43,N,15h45,"Nurse shark, 6'",5120
 978,2009-06-27,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",Surfing,M,52,N,08h45,"Thought to involve a Bronze whale shark, 2m",5119
 979,2009-06-21,Invalid,USA,California,"Shell Beach, San Luis Obispo County",Surfing,M,26,N,Unknown,Shark involvement not confirmed,5118
 980,2009-06-16,Invalid,USA,Florida,"Melbourne Beach, Brevard County",Crawling,M,14,N,17h30,"Shark involvement probable, but not confirmed",5117
-981,2009-06-14,Provoked,VIETNAM,Other,Other,Fishing for sharks,M,Unknown,N,Unknown,White shark,5116
-982,2009-06-02,Unprovoked,EGYPT,St. Johns Reef,Habili Gafar,Scuba diving,M,Unknown,N,Unknown,Oceanic whitetip shark,5115
-983,2009-06-02,Unprovoked,EGYPT,St. Johns Reef,Habili Gafar,Scuba diving,M,Unknown,N,Unknown,Oceanic whitetip shark,5114
+981,2009-06-14,Provoked,VIETNAM,Other,Other,Fishing for sharks,M,-1,N,Unknown,White shark,5116
+982,2009-06-02,Unprovoked,EGYPT,St. Johns Reef,Habili Gafar,Scuba diving,M,-1,N,Unknown,Oceanic whitetip shark,5115
+983,2009-06-02,Unprovoked,EGYPT,St. Johns Reef,Habili Gafar,Scuba diving,M,-1,N,Unknown,Oceanic whitetip shark,5114
 984,2009-06-01,Unprovoked,EGYPT,St. Johns Reef,Habili Gafar,Snorkeling,F,50,Y,Unknown,"Oceanic whitetip shark, 2.5 to 3m",5113
 985,2009-05-31,Provoked,TAIWAN,Off Green Island,Onboard the fishing vessel Chin Sheng Fa 13,Fishing,M,46,N,20h30,80 kg shark,5112
-986,2009-05-25,Provoked,USA,Florida,"Clearwater Beach, Pinellas County",Swimming,M,Unknown,N,20h30,5' to 8' shark,5111
+986,2009-05-25,Provoked,USA,Florida,"Clearwater Beach, Pinellas County",Swimming,M,-1,N,20h30,5' to 8' shark,5111
 987,2009-05-17,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,31,N,09h35,blacktip or spinner shark,5110
 988,2009-05-16,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,49,N,10h27,blacktip or spinner shark,5109
 989,2009-05-16,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,55,N,10h16,blacktip or spinner shark,5108
 990,2009-05-12,Provoked,GUAM,North Region,Ritidian Point,Spearfishing,M,27,N,Unknown,"Blacktip shark, 4'",5107
 991,2009-03-06,Provoked,BAHAMAS,Exuma Islands,Other,Spearfishing,M,48,N,Unknown,7' shark,5106
-992,2009-04-28,Unprovoked,USA,Florida,"St. Augustine, St. John's County",Unknown,F,Unknown,N,16h45,Other,5105
-993,2009-04-25,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,M,Unknown,N,10h00,Other,5104
+992,2009-04-28,Unprovoked,USA,Florida,"St. Augustine, St. John's County",Unknown,F,-1,N,16h45,Other,5105
+993,2009-04-25,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,M,-1,N,10h00,Other,5104
 994,2009-04-21,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,20,N,Unknown,Other,5103
 995,2009-04-20,Unprovoked,PHILIPPINES,Batangas province,Mabini,Swimming,M,23,N,5h00,Other,5102
 996,2009-04-19,Unprovoked,USA,Florida,"Carlin Park, Jupiter Inlet",Surfing,M,52,N,16h00,Other,5101
@@ -997,59 +997,59 @@
 998,2009-04-11,Invalid,USA,Hawaii,Kona,Spearfishing,M,49,N,Unknown,Shark involvement not confirmed,5099
 999,2009-04-12,Unprovoked,AUSTRALIA,New South Wales,Fingal Bay,Surf skiing,M,40,N,08h00,2' to 3' shark,5098
 1000,2009-04-06,Invalid,SOUTH AFRICA,KwaZulu-Natal,Umtentweni,Swimming,M,24,Y,Unknown,Shark involvement not confirmed,5097
-1001,2009-04-06,Unprovoked,USA,California,San Diego County,Spearfishing,M,Unknown,N,07h45,"White shark, 12' to 15' female",5096
+1001,2009-04-06,Unprovoked,USA,California,San Diego County,Spearfishing,M,-1,N,07h45,"White shark, 12' to 15' female",5096
 1002,2009-04-03,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Wading,M,15,N,16h00,Other,5095
 1003,2009-03-27,Provoked,SOUTH AFRICA,Eastern Cape Province,2-3 km north of Sunday's River mouth,Fishing,M,59,N,Unknown,Raggedtooth shark,5094
 1004,2009-03-21,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Surfing,M,16,Y,Unknown,Other,5093
 1005,2009-03-20,Unprovoked,AUSTRALIA,New South Wales,Blue Bay,Surfing,M,17,N,18h45,Bronze whaler shark?,5092
-1006,2009-03-19,Unprovoked,AUSTRALIA,New South Wales,South Broulee,Surfing,M,Unknown,N,Unknown,Other,5091
-1007,2009-03-19,Unprovoked,AUSTRALIA,New South Wales,Bateman's Bay,Surfing,F,Unknown,N,07h45,Other,5090
+1006,2009-03-19,Unprovoked,AUSTRALIA,New South Wales,South Broulee,Surfing,M,-1,N,Unknown,Other,5091
+1007,2009-03-19,Unprovoked,AUSTRALIA,New South Wales,Bateman's Bay,Surfing,F,-1,N,07h45,Other,5090
 1008,2009-03-18,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,F,17,N,17h30,3' to 4' shark,5089
-1009,2009-03-17,Unprovoked,MALAYSIA,Strait of Malacca,Pulau Payar Island,Feeding fish,F,Unknown,N,Unknown,Blacktip reef shark pup,5088
+1009,2009-03-17,Unprovoked,MALAYSIA,Strait of Malacca,Pulau Payar Island,Feeding fish,F,-1,N,Unknown,Blacktip reef shark pup,5088
 1010,2009-03-17,Unprovoked,USA,Hawaii,Alenuihaha Channel,Swimming,M,61,N,20h00,Thought to involve a cookie cutter shark,5087
 1011,2009-03-16,Provoked,AUSTRALIA,Western Australia,"The Natural Jetty, Rottnest Island",Wading,M,21,N,Unknown,"Wobbegong shark, 60cm",5086
 1012,2009-03-06,Unprovoked,NEW CALEDONIA,South Province,Bourail,Surfing,M,19,Y,11h30,Other,5085
 1013,2009-03-02,Provoked,SOUTH AFRICA,Western Cape Province,Off Cape Point,Fishing,M,40,N,13h30,"Blue shark, 1m",5084
-1014,2009-03-01,Boat,NEW ZEALAND,North Island,Taranaki,Fishing,M,Unknown,N,Unknown,Other,5083
+1014,2009-03-01,Boat,NEW ZEALAND,North Island,Taranaki,Fishing,M,-1,N,Unknown,Other,5083
 1015,2009-03-01,Unprovoked,AUSTRALIA,New South Wales,Avalon,Surfing,M,15,N,06h45,2.6 m shark,5082
-1016,2009-02-22,Unprovoked,AUSTRALIA,Queensland,Batt Reef,Fishing,M,Unknown,N,10h15,Other,5081
-1017,2009-02-18,Unprovoked,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,M,Unknown,N,17h00,Other,5080
+1016,2009-02-22,Unprovoked,AUSTRALIA,Queensland,Batt Reef,Fishing,M,-1,N,10h15,Other,5081
+1017,2009-02-18,Unprovoked,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,M,-1,N,17h00,Other,5080
 1018,2009-02-12,Unprovoked,AUSTRALIA,New South Wales,"Bondi Beach, Sydney",Surfing,M,33,N,19h30,"White shark, 2.5m ",5079
 1019,2009-02-11,Unprovoked,AUSTRALIA,New South Wales,"Garden Point, Woolloomooloo Sydney Harbour","Diving, but on the surface when bitten by the shark",M,31,N,07h00,"Bull shark, 2.7 m ",5078
-1020,2009-02-08,Sea Disaster,USA,Puerto Rico,Quebradillas,Air Disaster,M,Unknown,Y,Unknown,Other,5077
+1020,2009-02-08,Sea Disaster,USA,Puerto Rico,Quebradillas,Air Disaster,M,-1,Y,Unknown,Other,5077
 1021,2009-02-07,Unprovoked,AUSTRALIA,New South Wales,Cellito Beach,Surfing,M,41,N,11h00,"White shark, 12' ",5076
-1022,2009-02-07,Unprovoked,AUSTRALIA,New South Wales,Sandon,Surfing,M,Unknown,N,07h30,Other,5075
+1022,2009-02-07,Unprovoked,AUSTRALIA,New South Wales,Sandon,Surfing,M,-1,N,07h30,Other,5075
 1023,2009-01-27,Provoked,AZORES,Other,Onboard the fishing vessel Nuevo Cedes,Fishing,M,49,N,Unknown,Other,5074
 1024,2009-01-26,Invalid,BRAZIL,Other,Praia do Olho d'Aqua,Unknown,M,17,Y,Unknown,Other,5073
 1025,2009-01-25,Unprovoked,CUBA,Guantanamo Province,Guantanamo Bay,Spearfishing,M,15,N,10h30,Bull shark,5072
-1026,2009-01-24,Boat,NEW ZEALAND,North Island,Alderman Islands,Fishing,Unknown,Unknown,N,19h00,Other,5071
+1026,2009-01-24,Boat,NEW ZEALAND,North Island,Alderman Islands,Fishing,Unknown,-1,N,19h00,Other,5071
 1027,2009-01-24,Unprovoked,AUSTRALIA,New South Wales,"Surf Beach, Batemans Bay",Swimming,M,19,N,16h30,Other,5070
 1028,2009-01-24,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Swimming,M,25,Y,14h00,Tiger shark,5069
 1029,2009-01-23,Invalid,BRAZIL,Maranhão,Olho d'Água,Swimming,M,17,Y,Unknown,Other,5068
-1030,2009-01-18,Boat,AUSTRALIA,Victoria,Off Tower Hill,Fishing,M,Unknown,N,09h20,"White shark, 5.5 m ",5067
-1031,2009-01-16,Unprovoked,NEW ZEALAND,South Island,Karitane Beach,Surfing,M,Unknown,N,Unknown,Other,5066
-1032,2009-01-13,Unprovoked,SOUTH AFRICA,Western Cape Province,"Shark Alley, off Gansbaai",Unknown,Unknown,Unknown,Y,Unknown,White sharks,5065
+1030,2009-01-18,Boat,AUSTRALIA,Victoria,Off Tower Hill,Fishing,M,-1,N,09h20,"White shark, 5.5 m ",5067
+1031,2009-01-16,Unprovoked,NEW ZEALAND,South Island,Karitane Beach,Surfing,M,-1,N,Unknown,Other,5066
+1032,2009-01-13,Unprovoked,SOUTH AFRICA,Western Cape Province,"Shark Alley, off Gansbaai",Unknown,Unknown,-1,Y,Unknown,White sharks,5065
 1033,2009-01-12,Unprovoked,AUSTRALIA,New South Wales,"Windang,       Lake Illawara",Snorkeling,M,24,N,10h45,"Dusky shark, 2m",5064
 1034,2009-01-11,Unprovoked,AUSTRALIA,Tasmania,Binalong Bay,Surfing,F,13,N,15h45,"White shark, 5m",5063
 1035,2009-01-11,Unprovoked,AUSTRALIA,New South Wales,Fingal Beach,Surfing,M,31,N,09h00,"White shark, 3.5m",5062
-1036,2009-01-10,Boat,NEW ZEALAND,North Island,Hawkes Bay,Fishing,Unknown,Unknown,N,Unknown,"Mako shark, 3m",5061
+1036,2009-01-10,Boat,NEW ZEALAND,North Island,Hawkes Bay,Fishing,Unknown,-1,N,Unknown,"Mako shark, 3m",5061
 1037,2009-01-10,Unprovoked,ECUADOR,Galapagos Islands,Isla Isabella,Surfing,M,22,N,Unknown,Other,5060
 1038,2009-01-06,Unprovoked,NEW ZEALAND,North Island,Haumoana,Swimming,M,49,N,17h30,Broadnose sevengill shark,5059
-1039,2020-01-09,Unprovoked,CUBA,Guantanamo Province,Guantanamo,Spearfishing,Unknown,Unknown,N,Unknown,Bull shark,5058
-1040,2008-12-30,Invalid,AUSTRALIA,Western Australia,Port Kennedy Beach,Crabbing,Unknown,Unknown,N,09h30,No shark involvement,5057
-1041,2008-12-27,Boat,AUSTRALIA,Tasmania,near Schouten Island,Yacht race,Unknown,Unknown,N,Unknown,2 m shark,5056
+1039,2020-01-09,Unprovoked,CUBA,Guantanamo Province,Guantanamo,Spearfishing,Unknown,-1,N,Unknown,Bull shark,5058
+1040,2008-12-30,Invalid,AUSTRALIA,Western Australia,Port Kennedy Beach,Crabbing,Unknown,-1,N,09h30,No shark involvement,5057
+1041,2008-12-27,Boat,AUSTRALIA,Tasmania,near Schouten Island,Yacht race,Unknown,-1,N,Unknown,2 m shark,5056
 1042,2008-12-27,Unprovoked,AUSTRALIA,New South Wales,Seal Rocks,Boogie Boarding,M,10,N,Unknown,Other,5055
 1043,2008-12-27,Unprovoked,AUSTRALIA,New South Wales,"Long Reef, north of Sydney",Kayaking,M,29,N,11h00,"White shark, 4m to 5m ",5054
 1044,2008-12-27,Unprovoked,AUSTRALIA,Western Australia,Port Kennedy Beach,Snorkeling,M,51,Y,07h00,4 to 5m white shark,5053
-1045,2008-12-20,Unprovoked,USA,California,"Dillon Beach, Marin County",Kayaking,M,Unknown,N,15h00,White shark,5052
-1046,2008-12-14,Unprovoked,NEW ZEALAND,North Island,Maraetai,Fishing,M,Unknown,N,Unknown,Bronze whaler shark?,5051
+1045,2008-12-20,Unprovoked,USA,California,"Dillon Beach, Marin County",Kayaking,M,-1,N,15h00,White shark,5052
+1046,2008-12-14,Unprovoked,NEW ZEALAND,North Island,Maraetai,Fishing,M,-1,N,Unknown,Bronze whaler shark?,5051
 1047,2008-12-10,Provoked,SOUTH AFRICA,Western Cape Province,Plettenberg Bay,Fishing,M,15,N,20h00,"Raggedtooth shark, 2m",5050
-1048,2006-12-06,Boat,AUSTRALIA,New South Wales,Mowarry Point,Fishing,Unknown,Unknown,N,Unknown,"White shark, 4.5 to 5 m ",5049
-1049,2020-12-08,Unprovoked,MOZAMBIQUE,Inhambane Province,Chidenguele,Spearfishing,M,Unknown,Y,Unknown,Zambesi shark?,5048
-1050,2008-11-28,Unprovoked,EGYPT,Red Sea,Elphinstone Reef,Scuba diving,F,Unknown,N,Unknown,Oceanic whitetip shark,5047
-1051,2008-11-25,Sea Disaster,PHILIPPINES,Batanes Provine,Luzon Strait,Sinking of the cargo ship Mark Jason,M,Unknown,N,Unknown,Other,5046
-1052,2008-11-24,Unprovoked,ECUADOR,Galapagos Islands,Santa Cruz,Unknown,F,Unknown,N,Unknown,Other,5045
-1053,2008-11-09,Boat,AUSTRALIA,South Australia,North Haven,Fishing,M,Unknown,N,Unknown,Bronze whaler shark,5044
+1048,2006-12-06,Boat,AUSTRALIA,New South Wales,Mowarry Point,Fishing,Unknown,-1,N,Unknown,"White shark, 4.5 to 5 m ",5049
+1049,2020-12-08,Unprovoked,MOZAMBIQUE,Inhambane Province,Chidenguele,Spearfishing,M,-1,Y,Unknown,Zambesi shark?,5048
+1050,2008-11-28,Unprovoked,EGYPT,Red Sea,Elphinstone Reef,Scuba diving,F,-1,N,Unknown,Oceanic whitetip shark,5047
+1051,2008-11-25,Sea Disaster,PHILIPPINES,Batanes Provine,Luzon Strait,Sinking of the cargo ship Mark Jason,M,-1,N,Unknown,Other,5046
+1052,2008-11-24,Unprovoked,ECUADOR,Galapagos Islands,Santa Cruz,Unknown,F,-1,N,Unknown,Other,5045
+1053,2008-11-09,Boat,AUSTRALIA,South Australia,North Haven,Fishing,M,-1,N,Unknown,Bronze whaler shark,5044
 1054,2008-11-09,Sea Disaster,TAIWAN,Other,50 miles off Kaohsiung,Fishing boat swamped in storm,M,45,Y,Unknown,Other,5043
 1055,2008-11-06,Unprovoked,PHILIPPINES,Luzon,"off Paoay, Ilocos Norte Province",Fishing,M,39,Y,10h00,Other,5042
 1056,2008-10-22,Provoked,AUSTRALIA,New South Wales,"Oceanworld, Manley",Scuba diving,M,34,N,17h20,"Grey nurse shark, 3m",5041
@@ -1063,12 +1063,12 @@
 1064,2008-09-15,Provoked,AUSTRALIA,Northern Territory,Near Croker Island,Swimming,M,43,N,14h30,Bronze whaler shark,5033
 1065,2008-09-14,Unprovoked,USA,Florida,"Ormond-by-the-Sea, Volusia County",Swimming,M,32,N,12h00,2' to 3' juvenile shark,5032
 1066,2008-09-09,Unprovoked,USA,Hawaii,"Ka'a'awa, Oahu",Surfing,M,40,N,16h30,Tiger shark,5031
-1067,2008-09-08,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,M,Unknown,N,10h30,"White shark, 14' to 16' ",5030
+1067,2008-09-08,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,M,-1,N,10h30,"White shark, 14' to 16' ",5030
 1068,2008-09-07,Unprovoked,AUSTRALIA,New South Wales,"Clarks Beach, Byron Bay",Surfing,M,51,N,12h00,3 m shark,5029
 1069,2008-09-06,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,43,N,12h00,Other,5028
 1070,2008-09-06,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,15,N,12h00,Other,5027
 1071,2008-09-01,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,52,N,10h00,4' shark,5026
-1072,2020-09-08,Unprovoked,USA,Florida,Hutchinson Island,Surfing,M,Unknown,N,Unknown,Other,5025
+1072,2020-09-08,Unprovoked,USA,Florida,Hutchinson Island,Surfing,M,-1,N,Unknown,Other,5025
 1073,2008-08-30,Unprovoked,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",Surfing,M,29,N,Unknown,Other,5024
 1074,2008-08-30,Invalid,USA,Hawaii,"McKenzie Beach Park in Pahoa, Hawai'i ",Swimming,M,27,Y,19h20,Shark involvement not confirmed,5023
 1075,2008-08-30,Provoked,ENGLAND,North Devon,Lundy Island,Fishing,M,52,N,Unknown,Blue shark,5022
@@ -1080,19 +1080,19 @@
 1081,2008-08-18,Invalid,USA,South Carolina,"North Myrtle Beach, Horry County",Unknown,M,7,N,Unknown,Shark involvement not confirmed,5016
 1082,2008-08-16,Unprovoked,USA,US Virgin Islands,Buck Island,Treading water,F,38,N,Unknown,8' bull shark or Caribbean reef shark,5015
 1083,2008-08-12,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,F,13,N,12h05,Other,5014
-1084,2008-08-11,Unprovoked,USA,Hawaii,"Ala Moana Beach Park, Oah'u",Diving,M,Unknown,N,14h00,"Tiger shark, 12'",5013
+1084,2008-08-11,Unprovoked,USA,Hawaii,"Ala Moana Beach Park, Oah'u",Diving,M,-1,N,14h00,"Tiger shark, 12'",5013
 1085,2008-07-30,Unprovoked,AUSTRALIA,Victoria,Levys Beach,Surfing,M,31,N,10h30,8' white shark or 7-gill shark,5012
-1086,2008-07-30,Unprovoked,SOUTH AFRICA,Other,Other,Unknown,M,Unknown,N,Unknown,White shark,5011
-1087,2008-07-27,Unprovoked,PANAMA,San Carlos,Playa Teta,Swimming or surfing,M,Unknown,N,18h00,3'  shark,5010
+1086,2008-07-30,Unprovoked,SOUTH AFRICA,Other,Other,Unknown,M,-1,N,Unknown,White shark,5011
+1087,2008-07-27,Unprovoked,PANAMA,San Carlos,Playa Teta,Swimming or surfing,M,-1,N,18h00,3'  shark,5010
 1088,2008-07-26,Unprovoked,MEXICO,Cabo San Lucas,Other,Swimming,M,33,N,Unknown,2'  shark,5009
-1089,2008-07-26,Unprovoked,USA,Hawaii,"Honokowai, Maui",Swimming,M,Unknown,N,15h30,2' to 3' reef shark,5008
+1089,2008-07-26,Unprovoked,USA,Hawaii,"Honokowai, Maui",Swimming,M,-1,N,15h30,2' to 3' reef shark,5008
 1090,2008-07-25,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,17,N,09h00,Other,5007
 1091,2008-07-25,Unprovoked,USA,Hawaii,"Lahilahi Point, Oahu",Snorkeling,F,44,N,08h45,Other,5006
 1092,2008-07-24,Unprovoked,USA,North Carolina,"Surf City, Topsail Island, Pender County",Wading,M,9,N,Unknown,3' shark,5005
 1093,2008-07-24,Unprovoked,USA,North Carolina,"Topsail Island, Pender County",Wading,F,8,N,13h00,3' to 4' shark,5004
 1094,2008-07-23,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,15,N,14h30,Other,5003
 1095,2008-07-19,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,M,16,N,13h55,4' shark,5002
-1096,2008-07-18,Unprovoked,EGYPT,Other,Daedalus Reef,Diving,M,Unknown,N,Unknown,Oceanic whitetip shark,5001
+1096,2008-07-18,Unprovoked,EGYPT,Other,Daedalus Reef,Diving,M,-1,N,Unknown,Oceanic whitetip shark,5001
 1097,2008-07-13,Invalid,USA,North Carolina,"Carolina Beach, New Hanover County",Body surfing,M,52,N,Unknown,Shark involvement not confirmed,5000
 1098,2008-07-11,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Surfing,M,24,N,14h00,Other,4999
 1099,2008-07-09,Unprovoked,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,F,14,N,19h30,Other,4998
@@ -1100,19 +1100,19 @@
 1102,2008-06-28,Invalid,USA,Hawaii,"Kamilo Point, Hawai'i",Wading,M,53,Y,Unknown,Shark involvement prior to death not confirmed,4995
 1103,2008-06-28,Unprovoked,BAHAMAS,Abaco Islands,Other,Spearfishing,M,42,N,11h00,"Bull shark, 6' to 7'",4994
 1104,2008-06-28,Unprovoked,SOUTH AFRICA,Western Cape Province,Mossel Bay,Surf skiing,M,46,N,14h00,"White shark, 2m",4993
-1105,2008-06-26,Unprovoked,SOUTH AFRICA,Western Cape Province,Struis Bay,Spearfishing (free diving),M,Unknown,N,Unknown,"White shark, 4.5m",4992
+1105,2008-06-26,Unprovoked,SOUTH AFRICA,Western Cape Province,Struis Bay,Spearfishing (free diving),M,-1,N,Unknown,"White shark, 4.5m",4992
 1106,2008-06-26,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,29,N,Unknown,Other,4991
 1107,2008-06-26,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,M,37,N,11h15,4.5 to 5' shark,4990
-1108,2008-06-24,Unprovoked,BRAZIL,Bahia,Guarajuba,Surfing,M,Unknown,N,Unknown,Other,4989
+1108,2008-06-24,Unprovoked,BRAZIL,Bahia,Guarajuba,Surfing,M,-1,N,Unknown,Other,4989
 1109,2008-06-21,Unprovoked,USA,California,"West Cove, Catalina Island",Kayaking,F,40,N,09h00,"White shark, 15'",4988
 1110,2008-06-20,Unprovoked,USA,Florida,"Fernandina Beach, Nassau County",Wading,F,35,N,11h10,Other,4987
 1111,2008-06-11,Unprovoked,BRAZIL,Pernambuco,"Punta Del Chifre, Olinda",Surfing,M,14,N,Unknown,Other,4986
 1112,2008-06-07,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Body surfing,M,40,N,Unknown,Other,4985
-1113,2008-06-02,Boat,SCOTLAND,Easter Ross,Balintore Bay,Fishing,Unknown,Unknown,N,Unknown,Basking shark,4984
+1113,2008-06-02,Boat,SCOTLAND,Easter Ross,Balintore Bay,Fishing,Unknown,-1,N,Unknown,Basking shark,4984
 1114,2008-06-01,Unprovoked,USA,South Carolina,Cherry Grove,Body surfing,F,15,N,18h30,5' shark,4983
 1115,2008-06-01,Unprovoked,BRAZIL,Pernambuco,"Piedade, Recife",Swimming,M,14,N,15h00,Bull shark,4982
 1116,2008-05-26,Unprovoked,USA,North Carolina,"Hammocks Beach State Park, Bear Island, Onslow County",Surfing,M,9,N,15h50,Other,4981
-1117,2008-05-24,Sea Disaster,BAHAMAS,Grand Bahama Island,Off West End,Sea Disaster,M,Unknown,N,Unknown,Tiger sharks in area,4980
+1117,2008-05-24,Sea Disaster,BAHAMAS,Grand Bahama Island,Off West End,Sea Disaster,M,-1,N,Unknown,Tiger sharks in area,4980
 1118,2008-05-24,Unprovoked,MEXICO,Guerro,Playa Linda,Surfing,M,49,N,Unknown,3 m shark,4979
 1119,2008-05-23,Unprovoked,MEXICO,Guerro,Pantla Beach,Surfing,M,21,Y,Unknown,2 m shark,4978
 1120,2008-05-14,Unprovoked,FIJI,Yasawa Islands,Turtle Island,Night diving,M,28,Y,Unknown,Other,4977
@@ -1127,19 +1127,19 @@
 1129,2008-04-26,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,21,N,09h50,Other,4968
 1130,2008-04-25,Unprovoked,USA,California,"Solana Beach, San Diego County",Swimming,M,66,Y,07h00,"White shark, 12' to 15'",4967
 1131,2008-04-20,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,14,N,08h45,Other,4966
-1132,2008-04-20,Unprovoked,AUSTRALIA,New South Wales,Crescent Head,Unknown,M,Unknown,Unknown,Unknown,"Tiger shark, 2.3m ",4965
-1133,2008-04-19,Invalid,SOUTH AFRICA,KwaZulu-Natal,Aliwal Shoal,Free-diving,M,Unknown,N,Unknown,"Tiger shark, 13' female",4964
+1132,2008-04-20,Unprovoked,AUSTRALIA,New South Wales,Crescent Head,Unknown,M,-1,Unknown,Unknown,"Tiger shark, 2.3m ",4965
+1133,2008-04-19,Invalid,SOUTH AFRICA,KwaZulu-Natal,Aliwal Shoal,Free-diving,M,-1,N,Unknown,"Tiger shark, 13' female",4964
 1134,2008-04-18,Invalid,MEXICO,Quintana Roo,"Delfines Beach, Cancun",Swimming,M,32,Y,Unknown,"Reported by media as shark attack, but shark involvement prior to death was not confirmed",4963
 1135,2008-04-17,Invalid,AUSTRALIA,Queensland,"Duranbah, Greenmount Beach",Surfing,M,19,N,11h00,Shark involvement not confirmed; thought to be a barracuda bite,4962
 1136,2008-04-15,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,M,30,N,15h00,1.5' to 2' shark,4961
-1137,2008-04-09,Unprovoked,FIJI,Other,Other,Spearfishing,M,Unknown,N,Unknown,Other,4960
+1137,2008-04-09,Unprovoked,FIJI,Other,Other,Spearfishing,M,-1,N,Unknown,Other,4960
 1138,2008-03-25,Unprovoked,USA,Florida,"Palm Beach Shores, Palm Beach County",Wading,M,15,N,Unknown,6' shark,4959
-1139,2008-04-08,Unprovoked,USA,Florida,"1.4 miles south of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Surfing,Unknown,Unknown,N,Unknown,Other,4958
+1139,2008-04-08,Unprovoked,USA,Florida,"1.4 miles south of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Surfing,Unknown,-1,N,Unknown,Other,4958
 1140,2008-04-08,Unprovoked,AUSTRALIA,New South Wales,"Lighthouse Beach, Ballina",Body boarding,M,16,Y,08h05,Bull shark,4957
 1141,2008-04-03,Unprovoked,USA,Florida,"South of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Walking out of the water after surfing,M,18,N,12h00,Other,4956
 1142,2008-03-28,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Scottburgh,Fishing from surfski,M,39,N,Unknown,Other,4955
 1143,2008-03-28,Unprovoked,USA,Florida,"New Smyrna Beach / Ponce Inlet, Volusia County",Surfing,M,52,N,18h50,4' to 5' shark,4954
-1144,2008-03-28,Unprovoked,USA,Florida,"Near Cocoa Beach, Brevard  County",Boogie Boarding,M,Unknown,N,Unknown,a small shark,4953
+1144,2008-03-28,Unprovoked,USA,Florida,"Near Cocoa Beach, Brevard  County",Boogie Boarding,M,-1,N,Unknown,a small shark,4953
 1145,2008-03-23,Unprovoked,USA,Florida,"South of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Walking out of the water after surfing,M,13,N,11h30,2.5' shark,4952
 1146,2008-03-21,Unprovoked,USA,Florida,"Beachway Avenue Approach, New Smyrna Beach, Volusia County",Wading,M,14,N,15h53,Other,4951
 1147,2008-03-15,Unprovoked,USA,Florida,"Lovers Key State Park, Bonita Springs, Lee County",Jet skiing,M,8,N,Unknown,Shark involvement not confirmed,4950
@@ -1148,9 +1148,9 @@
 1150,2008-02-21,Unprovoked,FRENCH POLYNESIA,Society Islands,Tahiti,Spearfishing,M,26,N,Unknown,Other,4947
 1151,2008-02-15,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,25,N,17h00,Other,4946
 1152,2008-02-07,Unprovoked,AUSTRALIA,New South Wales,Horseshoe Bay,Surfing,F,14,N,Unknown,1 m shark,4945
-1153,2008-02-06,Unprovoked,USA,Florida,"Opposite Patrick Air Force Base, Brevard County",Surf-skiing,M,Unknown,N,Unknown,3' shark,4944
-1154,2008-01-30,Provoked,JAPAN,Tokyo Bay,Other,Diving,Unknown,Unknown,Unknown,Unknown,"Goblin shark, 4.2'",4943
+1153,2008-02-06,Unprovoked,USA,Florida,"Opposite Patrick Air Force Base, Brevard County",Surf-skiing,M,-1,N,Unknown,3' shark,4944
+1154,2008-01-01,Provoked,JAPAN,Tokyo Bay,Other,Diving,Unknown,-1,Unknown,Unknown,"Goblin shark, 4.2'",4943
 1155,2008-01-29,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,"Suncoast Pirates Beach, Durban",Surf-skiing,M,42,N,Unknown,"Blacktip shark, 2m",4942
 1156,2008-01-27,Provoked,AUSTRALIA,Queensland,200 km east of Coolangatta,Accidentally stood on hooked shark's tail before attempting to gut it,M,20,N,07h30,"Mako shark, 90kg",4941
-1157,2008-01-19,Invalid,NEW ZEALAND,South Island,Marfells Beach,Wading,M,Unknown,N,Unknown,No shark involvement,4940
-1158,2008-01-14,Boat,NEW ZEALAND,North Island,Omaha Beach,Attempting to chase shark out to sea,Unknown,Unknown,N,14h00,"Bronze whaler shark, 4m",4939
+1157,2008-01-19,Invalid,NEW ZEALAND,South Island,Marfells Beach,Wading,M,-1,N,Unknown,No shark involvement,4940
+1158,2008-01-14,Boat,NEW ZEALAND,North Island,Omaha Beach,Attempting to chase shark out to sea,Unknown,-1,N,14h00,"Bronze whaler shark, 4m",4939
