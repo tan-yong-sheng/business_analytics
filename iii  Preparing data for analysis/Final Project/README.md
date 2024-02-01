@@ -7,7 +7,7 @@ Welcome to the final project of this data-wrangling module! In this project, you
 
 Simply click the URL below and it will launch an interactive Python environment for this project:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tan-yong-sheng/business_analytics/main?labpath=iii++Preparing+data+for+analysis%2FFinal+Project%2Ffinal_project.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tan-yong-sheng/business_analytics_env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Ftan-yong-sheng%252Fbusiness_analytics%26urlpath%3Dlab%252Ftree%252Fbusiness_analytics%252Fiii%2B%2BPreparing%2Bdata%2Bfor%2Banalysis%252FFinal%2BProject%26branch%3Dmain)
 
 This dataset contains around 1100 rows. Inspect the dataset. In the box below, discuss the following:
 - Are there any irrelevant columns? Which ones?
