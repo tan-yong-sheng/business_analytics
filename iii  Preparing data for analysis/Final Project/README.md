@@ -11,9 +11,6 @@ Simply click the URL below and it will launch an interactive Python environment 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tan-yong-sheng/business_analytics/main?labpath=iii++Preparing+data+for+analysis%2FFinal+Project%2Ffinal_project.ipynb)
 
-[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/tan-yong-sheng/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/Final%20Project/final_project.ipynb)
-
-
 This dataset contains around 1100 rows. Inspect the dataset. In the box below, discuss the following:
 - Are there any irrelevant columns? Which ones?
 - Are there any duplicates?
