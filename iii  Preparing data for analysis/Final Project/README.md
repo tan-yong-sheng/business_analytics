@@ -1,4 +1,5 @@
 ## Data Wrangling Project: Sharks Attack Dataset
+Created by [Tan Yong Sheng](https://tanyongsheng.net/)
 
 **Instructions**
 
