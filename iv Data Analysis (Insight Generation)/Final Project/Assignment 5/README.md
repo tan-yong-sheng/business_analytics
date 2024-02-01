@@ -6,7 +6,7 @@ We will employ an A/B testing which Promotion 1 serving as the control group and
 
 Simply click the URL below and it will launch an interactive Python environment for this project:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tan-yong-sheng/business_analytics/main?labpath=iv+Data+Analysis+%28Insight+Generation%29%2FFinal+Project%2FAssignment+5%2FEDA_Final_Project.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tan-yong-sheng/business_analytics_env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Ftan-yong-sheng%252Fbusiness_analytics%26urlpath%3Dlab%252Ftree%252Fbusiness_analytics%252Fiv%2BData%2BAnalysis%2B%2528Insight%2BGeneration%2529%252FFinal%2BProject%252FAssignment%2B5%252FEDA_Final_Project.ipynb%26branch%3Dmain)
 
 
 **Datasets:** Food Chain Campaign( a bit more on statistics): https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test
