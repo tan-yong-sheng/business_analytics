@@ -39,5 +39,6 @@ The modules are as follows:
    - Learn to visualize the business insights with visualization tools like [Power BI](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/2.%20Power%20BI/Assignment) and [Tableau](https://github.com/tan-yong-sheng/business_analytics/tree/main/v%20Data%20Visualization/1.%20Tableau/Assignment)
    - Apply what I've learned in the previous modules such as data cleaning, explanatory data analysis, and data visualization skills to complete the [final assignment](https://github.com/tan-yong-sheng/business_analytics/blob/main/v%20Data%20Visualization/Final%20Project/Final%20Project.pdf).
 
---
+---
+
 Note: I have used [mybinder](https://mybinder.org) together with [nbgitpuller](https://nbgitpuller.readthedocs.io/en/latest/link.html) to share my Python coding interactively via this mybinder.org button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tan-yong-sheng/business_analytics_env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Ftan-yong-sheng%252Fbusiness_analytics%26urlpath%3Dlab%252Ftree%252Fbusiness_analytics%252F%26branch%3Dmain)
