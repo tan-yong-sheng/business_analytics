@@ -17,6 +17,8 @@ jobs:
 
       - name: Push Changes
         run: |
+          git config --global user.email "${{github.event.pusher.email}}"
+          git config --global user.name "${{ github.event.pusher.name }}"
           git remote add new_remote https://github.com/${{github.actor}}/business_analytics_env.git
           git add requirements.txt
           git add runtime.txt
