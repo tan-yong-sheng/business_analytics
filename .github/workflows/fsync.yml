@@ -4,9 +4,9 @@ on:
   push:
     branches:
       - main
-    #paths:
-    #  - requirement.txt
-    #  - runtime.txt
+    paths:
+      - requirement.txt
+      - runtime.txt
 
 jobs:
   file_sync:
