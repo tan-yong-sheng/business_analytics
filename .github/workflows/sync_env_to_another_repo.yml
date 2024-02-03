@@ -20,7 +20,6 @@ jobs:
           git config --global user.email "${{github.event.pusher.email}}"
           git config --global user.name "${{ github.event.pusher.name }}"
           git remote add new_remote https://github.com/${{github.actor}}/business_analytics_env.git
-          git add requirements.txt
-          git add runtime.txt
+          git add .
           git commit -m "sync file"
           git push origin main
