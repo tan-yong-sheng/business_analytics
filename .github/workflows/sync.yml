@@ -21,8 +21,8 @@ jobs:
           git diff
           git config --local user.email "${{github.event.pusher.email}}"
           git config --local user.name "${{github.event.pusher.name}}"
-          git remote set-url deploy https://${{secrets.SYNC_GITHUB_TOKEN}}@github.com/${{github.actor}}/business_analytics_env
+          git remote set-url origin https://${{secrets.SYNC_GITHUB_TOKEN}}@github.com/${{github.actor}}/business_analytics_env
           git add runtime.txt
           git add requirements.txt
           git commit -m "Sync files"
-          git push main deploy
+          git push main origin
