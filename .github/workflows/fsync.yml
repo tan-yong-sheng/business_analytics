@@ -1,4 +1,4 @@
-name: fsync
+name: gh_fsync
 
 on:
   push:
