@@ -12,21 +12,13 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Source Repo & Commit
-        run: |
-          git config --global user.email "tys203831@gmail.com"
-          git config --global user.name "tan-yong-sheng"
-          git add requirements.txt
-          git add runtime.txt
-          git commit -m "Sync files"
-
-      - name: Checkout Target Repo
+      - name: Checkout Source Repo
         uses: actions/checkout@v2
-        with:
-          repository: '${{ github.actor }}/business_analytics'
-          token: ${{ secrets.GITHUB_TOKEN }}
-          path: '${{ github.actor }}/business_analytics_env/'
 
       - name: Push Changes
         run: |
-          git push
+          git remote add new_remote https://github.com/${{github.actor}}/business_analytics_env.git
+          git add requirements.txt
+          git add runtime.txt
+          git commit -m "sync file"
+          git push origin main
