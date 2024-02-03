@@ -1,0 +1,34 @@
+name: Sync Files to Another Repository
+
+on: 
+  push:
+    paths:
+     - 'requirements.txt'
+     - 'runtime.txt'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Source Repo
+        uses: actions/checkout@v2
+
+      - name: Checkout Target Repo
+        uses: actions/checkout@v2
+        with:
+          repository: '${{ github.actor }}/business_analytics'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: '${{ github.actor }}/business_analytics_env/'
+
+      - name: Copy Files
+        run: |
+          cp requirements.txt runtime.txt business_analytics_env
+
+      - name: Push Changes
+        run: |
+          cd business_analytics_env
+          git config --local user.email "${{ github.event.pusher.email }}"
+          git config --local user.name "${{ github.actor }}"
+          git add .
+          git commit -m "Sync files"
+          git push
