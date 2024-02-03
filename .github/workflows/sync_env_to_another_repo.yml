@@ -5,6 +5,7 @@ on:
     paths:
      - 'requirements.txt'
      - 'runtime.txt'
+    branches: ['main']
 
 jobs:
   sync:
