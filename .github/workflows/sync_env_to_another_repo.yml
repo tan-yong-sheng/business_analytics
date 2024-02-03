@@ -24,8 +24,8 @@ jobs:
 
       - name: Push Changes
         run: |
-          git config --local user.email "${{ github.event.pusher.email }}"
-          git config --local user.name "${{ github.actor }}"
+          # git config --local user.email "${{ github.event.pusher.email }}"
+          # git config --local user.name "${{ github.actor }}"
           git add requirements.txt runtime.txt
           git commit -m "Sync files"
           git push
