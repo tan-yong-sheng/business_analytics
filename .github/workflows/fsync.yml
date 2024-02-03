@@ -18,3 +18,5 @@ jobs:
             token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         - name: gh_fsync
           uses: gleich/gh_fsync@master
+          with:
+            token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
