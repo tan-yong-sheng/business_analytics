@@ -15,6 +15,14 @@ jobs:
       - name: Checkout Source Repo
         uses: actions/checkout@v2
 
+      - name: Git add & commit this repo
+        run: |
+          git config --global user.email "tys203831@gmail.com"
+          git config --global user.name "tan-yong-sheng"
+          git add requirements.txt
+          git add runtime.txt
+          git commit -m "Sync files"
+
       - name: Checkout Target Repo
         uses: actions/checkout@v2
         with:
@@ -24,9 +32,4 @@ jobs:
 
       - name: Push Changes
         run: |
-          git config --global user.email "tys203831@gmail.com"
-          git config --global user.name "tan-yong-sheng"
-          git add requirements.txt
-          git add runtime.txt
-          git commit -m "Sync files"
           git push
