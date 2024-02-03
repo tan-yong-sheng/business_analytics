@@ -11,6 +11,7 @@ on:
 
 jobs:
   sync:
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Source Repo
         uses: actions/checkout@v2
