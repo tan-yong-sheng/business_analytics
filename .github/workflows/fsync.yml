@@ -4,12 +4,17 @@ on:
   push:
     branches:
       - main
+    paths:
+      - requirement.txt
+      - runtime.txt
 
 jobs:
-  gh_fsync:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-      - uses: gleich/gh_fsync@master
+  file_sync:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v2
+          with:
+            token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        - name: gh_fsync
+          uses: gleich/gh_fsync@master
