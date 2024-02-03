@@ -1,0 +1,6 @@
+commit_message: 🔄 Update file via sync
+files:
+  - path: requirements.txt
+    source: https://github.com/tan-yong-sheng/business_analytics_env/blob/main/requirements.txt
+  - path: runtime.txt
+    source: https://github.com/tan-yong-sheng/business_analytics_env/blob/main/runtime.txt
