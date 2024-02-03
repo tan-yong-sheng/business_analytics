@@ -10,15 +10,19 @@ on:
      - 'runtime.txt'
 
 jobs:
-  upload:
-    name: Files
-    runs-on: ubuntu-latest
+  sync:
     steps:
-      - uses: adrianjost/files-sync-action@v1.0.1
+      - name: Checkout Source Repo
+        uses: actions/checkout@v2
+
+      - name: Push Changes
         with:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-          FILE_PATTERNS: |-
-            ^requirements.txt
-            ^runtime.txt
-          TARGET_REPOS: |-
-            ${{ github.actor }}/business_analysis_env
+          token: ${{ secrets.SYNC_GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "${{github.event.pusher.email}}"
+          git config --local user.name "${{github.event.pusher.name}}"
+          git remote set-url origin https://${{secrets.SYNC_GITHUB_TOKEN}}@github.com/${{github.actor}}/business_analytics_env
+          git add runtime.txt
+          git add requirements.txt
+          git commit -m "Sync files"
+          git push
