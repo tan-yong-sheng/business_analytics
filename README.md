@@ -2,7 +2,6 @@
 
 UPDATE: I'm proud to announce that I've completed the [Certified Associate in Business Analytics](https://www.talentlabs.org/classroom/course/8JllAytGRyiZxQLCwE2tZg/gradProof/mKhA9hyQT6asAvGLo-3YNQ)
 
-testing
 ---
 
 (Note: I have used [mybinder](https://mybinder.org) together with [nbgitpuller](https://nbgitpuller.readthedocs.io/en/latest/link.html) to share my Python coding interactively via this mybinder.org button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tan-yong-sheng/business_analytics_env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Ftan-yong-sheng%252Fbusiness_analytics%26urlpath%3Dlab%252Ftree%252Fbusiness_analytics%252F%26branch%3Dmain))
