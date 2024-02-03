@@ -16,8 +16,6 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Push Changes
-        with:
-          token: ${{ secrets.SYNC_GITHUB_TOKEN }}
         run: |
           git config --local user.email "${{github.event.pusher.email}}"
           git config --local user.name "${{github.event.pusher.name}}"
