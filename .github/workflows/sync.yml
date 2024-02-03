@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: adrianjost/files-sync-action@v1.0.1
         with:
-          GITHUB_TOKEN: '${{ secrets.SYNC_GITHUB_TOKEN }}'
+          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
           FILE_PATTERNS: |-
             ^requirements.txt
             ^runtime.txt
