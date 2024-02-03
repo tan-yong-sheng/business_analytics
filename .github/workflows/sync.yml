@@ -9,7 +9,10 @@ on:
      - 'requirements.txt'
      - 'runtime.txt'
 
-name: Files
+
+jobs:
+  upload:
+    name: Files
     runs-on: ubuntu-latest
     steps:
       - uses: adrianjost/files-sync-action@v1.0.1
