@@ -1,3 +1,4 @@
+# Sync requirements.txt and runtime.txt to https://github.com/tan-yong-sheng/business_analytics_env
 name: Sync Files to Another Repository
 
 on: 
@@ -20,10 +21,6 @@ jobs:
           repository: '${{ github.actor }}/business_analytics'
           token: ${{ secrets.GITHUB_TOKEN }}
           path: '${{ github.actor }}/business_analytics_env/'
-
-      - name: Copy Files
-        run: |
-          cp requirements.txt runtime.txt business_analytics_env
 
       - name: Push Changes
         run: |
