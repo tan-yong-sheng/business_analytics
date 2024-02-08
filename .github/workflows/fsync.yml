@@ -11,8 +11,17 @@ on:
 jobs:
   file_sync:
       runs-on: ubuntu-latest
+
+      # Assigning permissions to jobs  # https://docs.github.com/en/actions/using-jobs/assigning-permissions-to-jobs
+      # Modify the default permissions granted to GITHUB_TOKEN.
+      permissions: write-all
+      
       steps:
         - name: Checkout Repository
           uses: actions/checkout@v2
+          env:
+            token: ${{ secrets.GITHUB_TOKEN }}
+
         - name: gh_fsync
           uses: gleich/gh_fsync@master
+          
