@@ -5,7 +5,6 @@ Created by [Tan Yong Sheng](https://tanyongsheng.net/)
 
 Welcome to the final project of this data-wrangling module! In this project, you will get a chance to work through the entire data-wrangling workflow while preparing the shark_attacks.csv file for analysis. This dataset contains very dirty data and will require a lot of work! This project is broken down into key steps of the data-wrangling process to help guide you along the process. When you are finished, save the wrangled dataset as a final_project.csv file. Submit the final project as a zip folder named final_project.zip. Make sure the zipped folder has both your wrangled dataset and this Word document within it. Best of luck!
 
-
 Simply click the URL below and it will launch an interactive Python environment for this project:
 
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tan-yong-sheng/business_analytics/blob/main/iii%20%20Preparing%20data%20for%20analysis/Final%20Project/final_project.ipynb)
